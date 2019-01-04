@@ -20,9 +20,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/2d4e0dddafe648b4b3f81ca1c1a2439854324f85/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/d4ace7bd04e89c7c4803c6b977240272cf0234b6/))
 was automatically generated
-from [dhimmel/psb-manuscript@2d4e0dd](https://github.com/dhimmel/psb-manuscript/tree/2d4e0dddafe648b4b3f81ca1c1a2439854324f85)
+from [dhimmel/psb-manuscript@d4ace7b](https://github.com/dhimmel/psb-manuscript/tree/d4ace7bd04e89c7c4803c6b977240272cf0234b6)
 on January 4, 2019.
 </em></small>
 
@@ -61,8 +61,8 @@ As part of the [special working group](http://web.archive.org/web/20190103203407
 For inspiration, here are some prompts:
 
 - Introduce yourself briefly.
-- What do you research? Include any relevent links to your lab or personal website.
-- What is your favorite study from your carreer or what study was your biggest discovery?
+- What do you research? Include any relevant links to your lab or personal website.
+- What is your favorite study from your career or what study was your biggest discovery?
 - What was your first scholarly publication?
 - Add a code snippet or mathematical equation.
 - Add a figure with a caption. This could be a figure from your previous work or a picture of you in Hawaii.
