@@ -21,9 +21,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/1ae484acb8885c891d340be21f2e0dbd8f306f16/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/fd127607be80331185e0b3326a15890202acdcdc/))
 was automatically generated
-from [dhimmel/psb-manuscript@1ae484a](https://github.com/dhimmel/psb-manuscript/tree/1ae484acb8885c891d340be21f2e0dbd8f306f16)
+from [dhimmel/psb-manuscript@fd12760](https://github.com/dhimmel/psb-manuscript/tree/fd127607be80331185e0b3326a15890202acdcdc)
 on January 4, 2019.
 </em></small>
 
@@ -77,7 +77,7 @@ For inspiration, here are some prompts:
 - What is your favorite study from your career or what study was your biggest discovery?
 - What was your first scholarly publication?
 - Add a code snippet or mathematical equation.
-- Add a figure with a caption. This could be a figure from your previous work or a picture of you in Hawaii.
+- Add a figure with a caption. This could be a picture of you in Hawaii or a figure from your previous work if the license is permissive enough to allow reuse.
 
 Self-citations are explicitly encouraged, since one goal of this activity is to introduce attendees to the concept of [citation by persistent identifier](https://github.com/dhimmel/psb-manuscript/blob/master/USAGE.md#citations).
 By having attendees cite their existing works, we hope to show researchers how references can be created from just persistent identifiers, and how this can assist with collaborative and transparent authoring.
@@ -349,6 +349,7 @@ Perhaps my biggest discovery was observing an epidemiological association that h
 
 ![
 The association between elevation and lung cancer across Western U.S. counties.
+This figure is reused from [here](https://doi.org/10.7717/peerj.705/fig-4) under its CC BY 4.0 License.
 ](https://github.com/dhimmel/elevcan/raw/7aed9f29d2371eb4918f337a138608e6b6d9e311/manual/figures/peerj/Figure_4.png){#fig:elevcan width="100%"}
 
 I haven't done much text mining, but I did enjoy extracting attendee names for PSB from the online PDF.
