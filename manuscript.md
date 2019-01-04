@@ -1,6 +1,7 @@
 ---
 author-meta:
 - Daniel Himmelstein
+- Trang Le
 date-meta: '2019-01-04'
 keywords:
 - manubot
@@ -20,9 +21,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/ea8eacf3b85255753215c14f4772aa2d82759ce9/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/7ae651d56dac3cadd58876549dd947398fc385e5/))
 was automatically generated
-from [dhimmel/psb-manuscript@ea8eacf](https://github.com/dhimmel/psb-manuscript/tree/ea8eacf3b85255753215c14f4772aa2d82759ce9)
+from [dhimmel/psb-manuscript@7ae651d](https://github.com/dhimmel/psb-manuscript/tree/7ae651d56dac3cadd58876549dd947398fc385e5)
 on January 4, 2019.
 </em></small>
 
@@ -39,6 +40,17 @@ on January 4, 2019.
     [dhimmel](https://twitter.com/dhimmel)<br>
   <small>
      Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania
+  </small>
+
++ **Trang Le**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0003-3737-6565](https://orcid.org/0000-0003-3737-6565)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [trang1618](https://github.com/trang1618)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [trang1618](https://twitter.com/trang1618)<br>
+  <small>
+     University of Pennsylvania
   </small>
 
 
@@ -446,8 +458,32 @@ text = parsed["content"]
 
 
 <!-- Trang Le -->
+### Trang Le
 
+Hello from the [Moore lab](http://epistasis.org/) at the University of Pennsylvania!
+I'm [a mathematician](http://lelaboratoire.github.io) who's currently excited about automated machine learning. 
 
+Here goes the self-citations:
+
+- My own favorite study: Generalization of the Fermi Pseudopotential [@10GH4uYUR] - a piece of mathematical physics work I got to do when procrastinating writing my dissertation.
+- My first (first-author) scholarly publication: Differential privacy-based evaporative cooling feature selection and classification with relief-F and random forests [@hUoMaAJ6].
+Check out the Github repo for this study [here](https://github.com/insilico/privateEC).
+- Code snippet I'm most proud of:
+```
+M = dec2bin(0:2^(n*n)-1,n*n)
+```
+I will be impressed if you could tell what the language is.
+This is my answer to a question on [Math StackExchange](https://math.stackexchange.com/questions/1943862/matlab-code-for-an-array-consisting-of-matrices/1943923#1943923).
+I have too many favorite mathematical equations, but here's one:
+
+$$a^p \equiv a (mod p)$$
+Anyone recognize this theorem?
+- And a figure with a caption:
+![
+Participants tended to have older brain-predicted age when given placebo.
+](https://s3.amazonaws.com/media-p.slid.es/uploads/909204/images/5547949/fig2.png){#fig:ibuBrainAGE width="100%"}
+
+This is an improved version of my main figure in this interesting study [@ih7MBGjv].
 
 <!-- Jinhee Lee -->
 

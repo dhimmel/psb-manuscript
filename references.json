@@ -1,5 +1,157 @@
 [
   {
+    "number": "1806.05726v1",
+    "version": "1",
+    "URL": "https://arxiv.org/abs/1806.05726v1",
+    "title": "Generalization of the Fermi Pseudopotential",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Trang T. Le"
+      },
+      {
+        "literal": "Zach Osman"
+      },
+      {
+        "literal": "D. K. Watson"
+      },
+      {
+        "literal": "Martin Dunn"
+      },
+      {
+        "literal": "B. A. McKinney"
+      }
+    ],
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "abstract": "Introduced eighty years ago, the Fermi pseudopotential has been a powerful\nconcept in multiple fields of physics. It replaces the detailed shape of a\npotential by a delta-function operator multiplied by a parameter giving the\nstrength of the potential. For Cartesian dimensions $d>1$, a regularization\noperator is necessary to remove singularities in the wave function. In this\nstudy, we develop a Fermi pseudopotential generalized to $d$ dimensions\n(including non-integer) and to non-zero wavenumber, $k$. Our approach has the\nadvantage of circumventing singularities that occur in the wave function at\ncertain integer values of $d$ while being valid arbitrarily close to integer\n$d$. In the limit of integer dimension, we show that our generalized\npseudopotential is equivalent to previously derived $s$-wave pseudopotentials.\nOur pseudopotential generalizes the operator to non-integer dimension, includes\nenergy ($k$) dependence, and simplifies the dimension-dependent coupling\nconstant expression derived from a Green's function approach. We apply this\npseudopotential to the problem of two cold atoms ($k\\to0$) in a harmonic trap\nand extend the energy expression to arbitrary dimension.",
+    "type": "report",
+    "id": "10GH4uYUR"
+  },
+  {
+    "publisher": "Elsevier BV",
+    "issue": "10",
+    "DOI": "10.1016/j.bpsc.2018.05.002",
+    "type": "article-journal",
+    "page": "836-843",
+    "source": "Crossref",
+    "title": "Effect of Ibuprofen on BrainAGE: A Randomized, Placebo-Controlled, Dose-Response Exploratory Study",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Trang T.",
+        "family": "Le"
+      },
+      {
+        "given": "Rayus",
+        "family": "Kuplicki"
+      },
+      {
+        "given": "Hung-Wen",
+        "family": "Yeh"
+      },
+      {
+        "given": "Robin L.",
+        "family": "Aupperle"
+      },
+      {
+        "given": "Sahib S.",
+        "family": "Khalsa"
+      },
+      {
+        "given": "W. Kyle",
+        "family": "Simmons"
+      },
+      {
+        "given": "Martin P.",
+        "family": "Paulus"
+      }
+    ],
+    "container-title": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfsprv",
+    "container-title-short": "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+    "PMID": "29941380",
+    "id": "ih7MBGjv"
+  },
+  {
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "18",
+    "DOI": "10.1093/bioinformatics/btx298",
+    "type": "article-journal",
+    "page": "2906-2913",
+    "source": "Crossref",
+    "title": "Differential privacy-based evaporative cooling feature selection and classification with relief-F and random forests",
+    "volume": "33",
+    "author": [
+      {
+        "given": "Trang T",
+        "family": "Le"
+      },
+      {
+        "given": "W Kyle",
+        "family": "Simmons"
+      },
+      {
+        "given": "Masaya",
+        "family": "Misaki"
+      },
+      {
+        "given": "Jerzy",
+        "family": "Bodurka"
+      },
+      {
+        "given": "Bill C",
+        "family": "White"
+      },
+      {
+        "given": "Jonathan",
+        "family": "Savitz"
+      },
+      {
+        "given": "Brett A",
+        "family": "McKinney"
+      }
+    ],
+    "container-title": "Bioinformatics",
+    "language": "en",
+    "editor": [
+      {
+        "given": "Jonathan",
+        "family": "Wren"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          4
+        ]
+      ]
+    },
+    "URL": "https://doi.org/f96b8d",
+    "PMCID": "PMC5870708",
+    "PMID": "28472232",
+    "id": "hUoMaAJ6"
+  },
+  {
     "publisher": "eLife Sciences Publications, Ltd",
     "abstract": "<jats:p>The ability to computationally predict whether a compound treats a disease would improve the economy and success rate of drug approval. This study describes Project Rephetio to systematically model drug efficacy based on 755 existing treatments. First, we constructed Hetionet (neo4j.het.io), an integrative network encoding knowledge from millions of biomedical studies. Hetionet v1.0 consists of 47,031 nodes of 11 types and 2,250,197 relationships of 24 types. Data were integrated from 29 public resources to connect compounds, diseases, genes, anatomies, pathways, biological processes, molecular functions, cellular components, pharmacologic classes, side effects, and symptoms. Next, we identified network patterns that distinguish treatments from non-treatments. Then, we predicted the probability of treatment for 209,168 compound–disease pairs (het.io/repurpose). Our predictions validated on two external sets of treatment and provided pharmacological insights on epilepsy, suggesting they will help prioritize drug repurposing candidates. This study was entirely open and received realtime feedback from 40 community members.</jats:p>",
     "DOI": "10.7554/elife.26726",
