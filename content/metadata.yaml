@@ -7,7 +7,7 @@ keywords:
   - psb19
   - pacific symposium on biocomputing
 lang: en-US
-# author_info:
+author_info:
   # - name: Max Alekseyev
   #   orcid: null
   #   github: null
@@ -374,12 +374,12 @@ lang: en-US
   #   twitter: null
   #   affiliations:
   #   - Stanford University
-  # - name: Daniel Himmelstein
-  #   orcid: null
-  #   github: null
-  #   twitter: null
-  #   affiliations:
-  #   - University of Pennsylvania
+  - name: Daniel Himmelstein
+    orcid: 0000-0002-3012-7446
+    github: dhimmel
+    twitter: dhimmel
+    affiliations:
+    - University of Pennsylvania
   # - name: Michael Hoffman
   #   orcid: null
   #   github: null
