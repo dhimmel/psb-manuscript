@@ -20,9 +20,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/c2f64b28b74b4468e29efbbac7eb2fb1bd2891ec/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/ea8eacf3b85255753215c14f4772aa2d82759ce9/))
 was automatically generated
-from [dhimmel/psb-manuscript@c2f64b2](https://github.com/dhimmel/psb-manuscript/tree/c2f64b28b74b4468e29efbbac7eb2fb1bd2891ec)
+from [dhimmel/psb-manuscript@ea8eacf](https://github.com/dhimmel/psb-manuscript/tree/ea8eacf3b85255753215c14f4772aa2d82759ce9)
 on January 4, 2019.
 </em></small>
 
@@ -48,7 +48,7 @@ on January 4, 2019.
 Manubot is an open source tool for writing manuscripts on GitHub in markdown format. Manubot applies the git-based software workflow to scholarly writing, enabling enhanced transparency, collaboration, automation, and reproducibility. 
 
 This manuscript is the result of a _special working group_ at the 2019 [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) that will introduce attendees to collaborative writing with Manubot.
-Each conference attendee is invited to write a small blurb on themselves and their research, by submitting a pull request to the manuscript repository at https://github.com/dhimmel/psb-manuscript.
+Each conference attendee is invited to write a small blurb on themselves and their research, by submitting a pull request to the manuscript repository at <https://github.com/dhimmel/psb-manuscript>.
 
 The working group also [covers](https://slides.com/dhimmel/psb) how to write your next manuscript [using Manubot](https://manubot.org) and what features of Manubot can help biomedical researchers document and publish their computational research.
 For example, Manubot enables citation by persistent identifier to automate bibliographic metadata retrieval and formatting as well as allowing templating so results can be directly inserted from the analyses that produced them.
