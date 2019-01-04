@@ -7,11 +7,1126 @@ keywords:
   - psb19
   - pacific symposium on biocomputing
 lang: en-US
-author_info:
-  -
-    github: dhimmel
-    name: Daniel Himmelstein
-    orcid: 0000-0002-3012-7446
-    twitter: dhimmel
-    affiliations:
-      - University of Pennsylvania
+# author_info:
+  # - name: Max Alekseyev
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - George Washington University
+  # - name: Russ Altman
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Kiyoshi Asai
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Tokyo
+  # - name: Folkert Asselbergs
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University Medical Center Utrecht
+  # - name: Ho Bae
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Seoul National University
+  # - name: Brett Beaulieu-Jones
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Harvard Medical School
+  # - name: George Bebis
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Nevada
+  # - name: Joanne Berghout
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Arizona
+  # - name: John Black
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Mayo Clinic
+  # - name: Carly Bobak
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Darmouth College
+  # - name: Mary Boland
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Philip Bourne
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - UVA Data Science Institute
+  # - name: Soline Boussard
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Castilleja High School
+  # - name: Steven Brenner
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of California, Berkeley
+  # - name: Soren Brunak
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Novo Nordisk Foundation Center for Protein Research
+  # - name: Martha Bulyk
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Brigham and Women's Hospital and Harvard Medical School
+  # - name: William Bush
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Case Western Reserve University
+  # - name: Bin Chen
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Michigan State University
+  # - name: Rachel Chen
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - North Carolina State University
+  # - name: Yong Chen
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Jane Chiang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Cipherome, Inc.
+  # - name: Jongmun Choi
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Green Cross Genome
+  # - name: DongWon Choo
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Pusan National University
+  # - name: Christopher Chute
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Johns Hopkins University
+  # - name: Leonardo Collado Torres
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Lieber Institute for Brain Development
+  # - name: Christian Darabos
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Dartmouth College
+  # - name: Supriyo De
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - NIH
+  # - name: Jessica De Freitas
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Icahn School of Medicine at Mount Sinai
+  # - name: Scott Delp
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Emek Demir
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - OHSU
+  # - name: Daisy Yi Ding
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Valentin Dinu
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Arizona State University
+  # - name: Megan Doerr
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Sage Bionetworks
+  # - name: Ernst Dow
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Eli Lilly and Company
+  # - name: Sorin Draghici
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Wayne State University
+  # - name: A Keith Dunker
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Indiana University
+  # - name: Claire Duvallet
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Massachusetts Institute of Technology
+  # - name: Prashant Emani
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Yale University
+  # - name: Peter Embi
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Regenstrief Institute
+  # - name: Barbara Engelhardt
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Princeton University
+  # - name: Yayin Fang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Howard University
+  # - name: Kimberley Ferguson
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Roche
+  # - name: James Foster
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Idaho
+  # - name: Verena Friedl
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of California, Santa Cruz
+  # - name: Weixuan Fu
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Tetsu Furukawa
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Kwansei Gakuin University
+  # - name: Lana Garmire
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Univeristy of Michigan
+  # - name: Maxwell Gold
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Massachusetts Institute of Technology
+  # - name: Graciela Gonzalez Hernandez
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Raluca Gordan
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Duke University
+  # - name: Max Gordon
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - North Carolina State University
+  # - name: Kiley Graim
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Flatiron Institute
+  # - name: Casey Greene
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Peyton Greenside
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Gamze Gursoy
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Yale University
+  # - name: Jonathan Haines
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Case Western Reserve University
+  # - name: Greg Hampikian
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Boise State University
+  # - name: Jiali Han
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - The University of Arizona
+  # - name: Wontack Han
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Indiana University
+  # - name: David Haussler
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Howard Hughes Medical Institute/UC Santa Cruz
+  # - name: Tina Hernandez-Boussard
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Daniel Himmelstein
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Michael Hoffman
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Princess Margaret Cancer Centre/University of Toronto
+  # - name: John Holmes
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania Perelman School of Medicine
+  # - name: Rachel Hovde
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Distributed Bio
+  # - name: Qiwen Hu
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Zhiyue Hu
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of California, Berkeley
+  # - name: Lawrence Hunter
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Colorado
+  # - name: Shantanu Jain
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Northeastern University
+  # - name: Yuexu Jiang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Missouri
+  # - name: Kipp Johnson
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Icahn School of Medicine at Mount Sinai
+  # - name: Kory Johnson
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - NINDS/NIH
+  # - name: Indika Kahanda
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Montana State University
+  # - name: Laurynas Kalesinskas
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford Biomedical Informatics
+  # - name: Michael Keiser
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - UCSF
+  # - name: Andreas Keller
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Saarland University
+  # - name: Colleen Kenost
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - The University of Arizona
+  # - name: Aly Khan
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Toyota Technological Institute at Chicago
+  # - name: Dokyoon Kim
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Geisinger
+  # - name: Jeremie Kim
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Carnegie Mellon University
+  # - name: Teri Klein
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Kord Kober
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of California San Francisco
+  # - name: Milica Krunic
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Vienna
+  # - name: Adam Kurkiewicz
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Glasgow
+  # - name: Nicholas Larson
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Mayo Clinic
+  # - name: Janet Layne
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Boise State University
+  # - name: Trang Le
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Jinhee Lee
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Pusan National University
+  # - name: Nicholas Lee
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Wellcome Sanger Institute
+  # - name: DoHyeon Lee
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Pusan National University
+  # - name: Binglan Li
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Haiquan Li
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Arizona
+  # - name: Hua Li
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stowers Institute for Medical Research
+  # - name: Jianrong Li
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - The University of Arizona
+  # - name: Kevin Li
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Columbia University
+  # - name: Sooyeon Lim
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Korea University
+  # - name: Hongfang Liu
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Mayo Clinic
+  # - name: Zheng Liu
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Oregon State University
+  # - name: Xueqing Lu
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Zhiyong Lu
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - National Library of Medicine
+  # - name: Yves Lussier
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Arizona
+  # - name: Arjun Magge
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - ASU
+  # - name: Lara Mangravite
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Sage Bionetworks
+  # - name: Serghei Mangul
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - UCLA
+  # - name: Gabor Marth
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Utah
+  # - name: Rachel Marty
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of California, San Diego
+  # - name: Wouter Meuleman
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Altius Institute
+  # - name: Jason Miller
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Stephen Montgomery
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Abigail Moore
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Hampshire College
+  # - name: Jason Moore
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Alexander Morgan
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Khosla Ventures
+  # - name: Sorana Morrissy
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Calgary
+  # - name: Meghan Muse
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Dartmouth College
+  # - name: Rikke Nielsen
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Technical University of Denmark
+  # - name: William Noble
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Washington
+  # - name: Soichi Ogishima
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Tohoku University
+  # - name: Lawrence Oloff
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - St Mary's Medical Center
+  # - name: Zhengqing Ouyang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - The Jackson Laboratory for Genomic Medicine
+  # - name: Philip Payne
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Washington University School of Medicine
+  # - name: Matteo Pellegrini
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - UCLA
+  # - name: Luca Pinello
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Massachusetts General Hospital/ Harvard Medical School
+  # - name: Niranjani Prasad
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Princeton University
+  # - name: Blake Pyman
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Queen's University
+  # - name: Tielin Qin
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Immune Tolerance Network
+  # - name: Aaron Quinlan
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Utah
+  # - name: Predrag Radivojac
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Northeastern University
+  # - name: Rashika Ramola
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Northeastern University
+  # - name: Jayamary Divya Ravichandar
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Second Genome
+  # - name: Derek Reiman
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Illinois at Chicago
+  # - name: Haluk Resat
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - NIH/NIGMS
+  # - name: Marylyn Ritchie
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: David Rocke
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of California, Davis
+  # - name: Pratyaydipta Rudra
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Oklahoma State University
+  # - name: Indra Sarkar
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Brown University
+  # - name: Sebastian Schaaf
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)
+  # - name: Ralph Schlapbach
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Functional Genomics Center Zurich
+  # - name: Christine Scholberg
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Ashwini Sehgal
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Case Western Reserve University
+  # - name: Martin Seneviratne
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Matthew Settles
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of California, Davis
+  # - name: James Sikela
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Colorado Denver
+  # - name: Sean Simmons
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Broad Institute
+  # - name: Marina Sirota
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - UCSF
+  # - name: Giltae Song
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Pusan National University
+  # - name: Paul Spellman
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Oregon Health and Science University
+  # - name: Arunima Srivastava
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - The Ohio State University
+  # - name: Josh Stuart
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - UC Santa Cruz
+  # - name: Yoichi Takenaka
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Kansai University
+  # - name: Eric Talevich
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - DNAnexus
+  # - name: Haixu Tang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Indiana University, Bloomington
+  # - name: Lin Tang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Celgene Corp
+  # - name: Yosuke Tanigawa
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Cui Tao
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Texas
+  # - name: Jaclyn Taroni
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Alex's Lemonade Stand Foundation
+  # - name: Gunjan Thakur
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Merck Exploratory Science Center
+  # - name: Robert Thurman
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Seattle Genetics
+  # - name: Nathan Tintle
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Dordt College
+  # - name: Yihsuan Tsai
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of North Carolina
+  # - name: Brian Yik Tak Tsui
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of California, San Diego
+  # - name: Anders Ulrik Eliasen
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Technical University of Denmark
+  # - name: Paul Utz
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Robin van der Lee
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - The University of British Columbia
+  # - name: Maya Varma
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Anurag Verma
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Shefali Verma
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Yogasudha Veturi
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Pennsylvania
+  # - name: Francesca Vitali
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Arizona
+  # - name: Dennis Wall
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Duolin Wang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Missouri
+  # - name: Haohan Wang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Carnegie Mellon University
+  # - name: Jing Wang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - UT MD Anderson Cancer Center
+  # - name: Tongxin Wang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Indiana University
+  # - name: Yong Wang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  # - name: Joanne Watson
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Manchester
+  # - name: Ryan Whaley
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Nicholas Wheeler
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Case Western Reserve University
+  # - name: Michelle Whirl-Carrillo
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Stanford University
+  # - name: Scott Williams
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Case Western Reserve University
+  # - name: John Witte
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - UC San Francisco
+  # - name: Yuanxin Xi
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - MD Anderson Cancer Center
+  # - name: Madelyne Xiao
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - American Museum of Natural History
+  # - name: Yuzhen Ye
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Indiana University, Bloomington
+  # - name: Shuxing Zhang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - MD Anderson Cancer Center
+  # - name: Xinyuan Zhang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - The University of Pennsylvania
+  # - name: Yuping Zhang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - University of Connecticut
+  # - name: Zemin Zhang
+  #   orcid: null
+  #   github: null
+  #   twitter: null
+  #   affiliations:
+  #   - Peking University
