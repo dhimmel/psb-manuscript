@@ -19,9 +19,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/605c7e85c41abb595d66a44fb0b96523865f530f/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/5af18f2c7e7824e1dd73aced1103460faf1e09e4/))
 was automatically generated
-from [dhimmel/psb-manuscript@605c7e8](https://github.com/dhimmel/psb-manuscript/tree/605c7e85c41abb595d66a44fb0b96523865f530f)
+from [dhimmel/psb-manuscript@5af18f2](https://github.com/dhimmel/psb-manuscript/tree/5af18f2c7e7824e1dd73aced1103460faf1e09e4)
 on January 4, 2019.
 </em></small>
 
@@ -36,13 +36,13 @@ on January 4, 2019.
 Manubot is an open source tool for writing manuscripts on GitHub in markdown format. Manubot applies the git-based software workflow to scholarly writing, enabling enhanced transparency, collaboration, automation, and reproducibility. 
 
 This manuscript is the result of a _special working group_ at the 2019 [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) that will introduce attendees to collaborative writing with Manubot.
-Each conference attendee is invited to write a small blurb on themselves and their research.
+Each conference attendee is invited to write a small blurb on themselves and their research, by submitting a pull request to the manuscript repository at https://github.com/dhimmel/psb-manuscript.
 
-The working group also covers how to write your next manuscript [using Manubot](https://manubot.org) and what features of Manubot can help biomedical researchers document and publish their computational research.
+The working group also [covers](https://slides.com/dhimmel/psb) how to write your next manuscript [using Manubot](https://manubot.org) and what features of Manubot can help biomedical researchers document and publish their computational research.
 For example, Manubot enables citation by persistent identifier to automate bibliographic metadata retrieval and formatting as well as allowing templating so results can be directly inserted from the analyses that produced them.
 
 
-## Attendees {.page_break_before}
+## Methods {.page_break_before}
 
 In this section, PSB 2019 attendees are asked to contribute a bit about themselves and their research.
 As part of the [special working group](http://web.archive.org/web/20190103203407/https://psb.stanford.edu/working%20group/), we thought this would be a helpful activity to introduce biocomputational scientists to writing with Manubot.
@@ -63,8 +63,10 @@ Names are ordered alphabetically by last name.
 If you'd like to contribute, but are not already in the list, please insert your section at the appropriate alphabetical location.
 
 For questions on how to use Manubot, see the [usage documentation](https://github.com/dhimmel/psb-manuscript/blob/master/USAGE.md).
-More information on the tool and its inception is availabe in the project manuscript [@1GGGHdsew].
+More information on the tool and its inception is available in the project manuscript [@1GGGHdsew].
 
+
+## Attendees {.page_break_before}
 
 <!-- Max Alekseyev -->
 
