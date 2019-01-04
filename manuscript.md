@@ -1,14 +1,16 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Daniel Himmelstein
 date-meta: '2019-01-04'
 keywords:
-- markdown
-- publishing
 - manubot
+- tutorial
+- conference
+- psb19
+- pacific symposium on biocomputing
 lang: en-US
-title: 'Manubot Rootstock: Manuscript Title'
+title: Manuscript for Manubot special working group at the Pacific Symposium on Biocomputing
+  2019
 ...
 
 
@@ -18,9 +20,9 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/c249a20d011b2eb082d957cf2a3aff6de5559466/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/1c94fe3ceebc8adf3caa6e63301d3da362cb64c5/))
 was automatically generated
-from [dhimmel/psb-manuscript@c249a20](https://github.com/dhimmel/psb-manuscript/tree/c249a20d011b2eb082d957cf2a3aff6de5559466)
+from [dhimmel/psb-manuscript@1c94fe3](https://github.com/dhimmel/psb-manuscript/tree/1c94fe3ceebc8adf3caa6e63301d3da362cb64c5)
 on January 4, 2019.
 </em></small>
 
@@ -28,25 +30,15 @@ on January 4, 2019.
 
 
 
-+ **John Doe**<br>
++ **Daniel Himmelstein**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-3012-7446](https://orcid.org/0000-0002-3012-7446)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [johndoe](https://github.com/johndoe)
+    [dhimmel](https://github.com/dhimmel)
     · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [dhimmel](https://twitter.com/dhimmel)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     University of Pennsylvania
   </small>
 
 

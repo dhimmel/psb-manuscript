@@ -2,51 +2,29 @@
   "date": "January 4, 2019",
   "authors": [
     {
-      "github": "johndoe",
-      "name": "John Doe",
-      "initials": "JD",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "twitter": "johndoe",
-      "email": "john.doe@something.com",
+      "github": "dhimmel",
+      "name": "Daniel Himmelstein",
+      "orcid": "0000-0002-3012-7446",
+      "twitter": "dhimmel",
       "affiliations": [
-        "Department of Something, University of Whatever"
+        "University of Pennsylvania"
       ],
-      "funders": "Grant XXXXXXXX",
       "affiliation_numbers": [
         1
-      ]
-    },
-    {
-      "github": "janeroe",
-      "name": "Jane Roe",
-      "initials": "JR",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "email": "jane.roe@whatever.edu",
-      "affiliations": [
-        "Department of Something, University of Whatever",
-        "Department of Whatever, University of Something"
-      ],
-      "affiliation_numbers": [
-        1,
-        2
       ]
     }
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Something, University of Whatever",
+      "affiliation": "University of Pennsylvania",
       "affiliation_number": 1
-    },
-    {
-      "affiliation": "Department of Whatever, University of Something",
-      "affiliation_number": 2
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "c249a20d011b2eb082d957cf2a3aff6de5559466"
+    "commit": "1c94fe3ceebc8adf3caa6e63301d3da362cb64c5"
   },
   "manuscript_stats": {
     "reference_counts": {
