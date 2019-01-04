@@ -8,8 +8,8 @@ keywords:
 - psb19
 - pacific symposium on biocomputing
 lang: en-US
-title: Manuscript for Manubot special working group at the Pacific Symposium on Biocomputing
-  2019
+title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputing\
+  \ in Hawaii"
 ...
 
 
@@ -19,9 +19,9 @@ title: Manuscript for Manubot special working group at the Pacific Symposium on 
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/15babecdf2a915f88088703e23a61e34e1294b1f/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/2ca20eda210d3a164a310640a1d4ea5b981dff43/))
 was automatically generated
-from [dhimmel/psb-manuscript@15babec](https://github.com/dhimmel/psb-manuscript/tree/15babecdf2a915f88088703e23a61e34e1294b1f)
+from [dhimmel/psb-manuscript@2ca20ed](https://github.com/dhimmel/psb-manuscript/tree/2ca20eda210d3a164a310640a1d4ea5b981dff43)
 on January 4, 2019.
 </em></small>
 
