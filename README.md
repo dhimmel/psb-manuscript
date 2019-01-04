@@ -1,4 +1,4 @@
-# Manuscript for Manubot special working group at the Pacific Symposium on Biocomputing 2019
+# Manuscript source for the People of the Pacific Symposium on Biocomputing
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
