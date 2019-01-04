@@ -320,12 +320,13 @@ author_info:
   #   twitter: null
   #   affiliations:
   #   - Flatiron Institute
-  # - name: Casey Greene
-  #   orcid: null
-  #   github: null
-  #   twitter: null
-  #   affiliations:
-  #   - University of Pennsylvania
+   - name: Casey Greene
+     orcid: 0000-0001-8713-9213
+     github: cgreene
+     twitter: greenescientist
+     affiliations:
+     - "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania"
+     - "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation"
   # - name: Peyton Greenside
   #   orcid: null
   #   github: null
