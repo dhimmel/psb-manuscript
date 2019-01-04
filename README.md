@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Manuscript for Manubot special working group at the Pacific Symposium on Biocomputing 2019
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -10,8 +10,11 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This manuscript is a demonstration / tutorial manuscript for the Manubot [special working group](http://web.archive.org/web/20190103203407/https://psb.stanford.edu/working%20group/) at the [Pacific Symposium in Biocomputing](https://psb.stanford.edu/) 2019 in Hawaii.
+The manuscript includes a spot for every conference participant to add text.
+We encourage participants to write a few sentences about their research or hobbies, replete with numerous self-citations.
+
+Slides for the special working group are [available here](https://slides.com/dhimmel/psb).
 
 ## Manubot
 

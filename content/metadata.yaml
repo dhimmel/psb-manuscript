@@ -1,27 +1,17 @@
 ---
-title: "Manubot Rootstock: Manuscript Title"
+title: "Manuscript for Manubot special working group at the Pacific Symposium on Biocomputing 2019"
 keywords:
-  - markdown
-  - publishing
   - manubot
+  - tutorial
+  - conference
+  - psb19
+  - pacific symposium on biocomputing
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: dhimmel
+    name: Daniel Himmelstein
+    orcid: 0000-0002-3012-7446
+    twitter: dhimmel
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - University of Pennsylvania
