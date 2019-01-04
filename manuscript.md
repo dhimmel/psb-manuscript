@@ -19,9 +19,9 @@ title: Manuscript for Manubot special working group at the Pacific Symposium on 
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/fd1b3a0dd343dffe516a55e424bb9da245f8f1b7/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/15babecdf2a915f88088703e23a61e34e1294b1f/))
 was automatically generated
-from [dhimmel/psb-manuscript@fd1b3a0](https://github.com/dhimmel/psb-manuscript/tree/fd1b3a0dd343dffe516a55e424bb9da245f8f1b7)
+from [dhimmel/psb-manuscript@15babec](https://github.com/dhimmel/psb-manuscript/tree/15babecdf2a915f88088703e23a61e34e1294b1f)
 on January 4, 2019.
 </em></small>
 
@@ -33,7 +33,37 @@ on January 4, 2019.
 
 ## Abstract {.page_break_before}
 
+Manubot is an open source tool for writing manuscripts on GitHub in markdown format. Manubot applies the git-based software workflow to scholarly writing, enabling enhanced transparency, collaboration, automation, and reproducibility. 
 
+This manuscript is the result of a _special working group_ at the 2019 [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) that will introduce attendees to collaborative writing with Manubot.
+Each conference attendee is invited to write a small blurb on themselves and their research.
+
+The working group also covers how to write your next manuscript [using Manubot](https://manubot.org) and what features of Manubot can help biomedical researchers document and publish their computational research.
+For example, Manubot enables citation by persistent identifier to automate bibliographic metadata retrieval and formatting as well as allowing templating so results can be directly inserted from the analyses that produced them.
+
+
+## Attendees {.page_break_before}
+
+In this section, PSB 2019 attendees are asked to contribute a bit about themselves and their research.
+As part of the [special working group](http://web.archive.org/web/20190103203407/https://psb.stanford.edu/working%20group/), we thought this would be a helpful activity to introduce biocomputational scientists to writing with Manubot.
+For inspiration, here are some prompts:
+
+- Introduce yourself briefly.
+- What do you research? Include any relevent links to your lab or personal website.
+- What is your favorite study from your carreer or what study was your biggest discovery?
+- What was your first scholarly publication?
+- Add a code snippet or mathematical equation.
+- Add a figure with a caption. This could be a figure from your previous work or a picture of you in Hawaii.
+
+Self-citations are explicitly encouraged, since one goal of this activity is to introduce attendees to the concept of [citation by persistent identifier](https://github.com/dhimmel/psb-manuscript/blob/master/USAGE.md#citations).
+By having attendees cite their existing works, we hope to show researchers how references can be created from just persistent identifiers, and how this can assist with collaborative and transparent authoring.
+
+The [markdown manuscript source](https://github.com/dhimmel/psb-manuscript/tree/master/content) has a section for each PSB 2019 attendee, generated from the online [attendee list](https://github.com/dhimmel/psb-manuscript/blob/master/attendees/attendees.pdf).
+Names are ordered alphabetically by last name.
+If you'd like to contribute, but are not already in the list, please insert your section at the appropriate alphabetical location.
+
+For questions on how to use Manubot, see the [usage documentation](https://github.com/dhimmel/psb-manuscript/blob/master/USAGE.md).
+More information on the tool and its inception is availabe in the project manuscript [@1GGGHdsew].
 
 
 <!-- Max Alekseyev -->
