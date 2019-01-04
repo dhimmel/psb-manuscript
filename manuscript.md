@@ -20,9 +20,9 @@ title: Manuscript for Manubot special working group at the Pacific Symposium on 
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/1c94fe3ceebc8adf3caa6e63301d3da362cb64c5/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/74df9920ee6696354f25680bb5870538d890e436/))
 was automatically generated
-from [dhimmel/psb-manuscript@1c94fe3](https://github.com/dhimmel/psb-manuscript/tree/1c94fe3ceebc8adf3caa6e63301d3da362cb64c5)
+from [dhimmel/psb-manuscript@74df992](https://github.com/dhimmel/psb-manuscript/tree/74df9920ee6696354f25680bb5870538d890e436)
 on January 4, 2019.
 </em></small>
 
