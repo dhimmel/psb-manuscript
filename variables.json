@@ -7,7 +7,7 @@
       "github": "dhimmel",
       "twitter": "dhimmel",
       "affiliations": [
-        "University of Pennsylvania"
+        "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania"
       ],
       "affiliation_numbers": [
         1
@@ -16,7 +16,7 @@
   ],
   "affiliations": [
     {
-      "affiliation": "University of Pennsylvania",
+      "affiliation": "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania",
       "affiliation_number": 1
     }
   ],
@@ -24,13 +24,16 @@
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "d4ace7bd04e89c7c4803c6b977240272cf0234b6"
+    "commit": "c2f64b28b74b4468e29efbbac7eb2fb1bd2891ec"
   },
   "manuscript_stats": {
     "reference_counts": {
-      "url": 1,
-      "total": 1
+      "doi": 2,
+      "pmcid": 1,
+      "pmid": 1,
+      "url": 2,
+      "total": 6
     },
-    "word_count": 1367
+    "word_count": 1523
   }
 }

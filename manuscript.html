@@ -14,6 +14,69 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
+  <style type="text/css">
+a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+a.sourceLine { text-indent: -1em; padding-left: 1em; }
+}
+pre.numberSource a.sourceLine
+  { position: relative; left: -4em; }
+pre.numberSource a.sourceLine::before
+  { content: attr(title);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; pointer-events: all; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  }
+@media screen {
+a.sourceLine::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
   <link rel="stylesheet" href="github-pandoc.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -27,10 +90,10 @@
 <header id="title-block-header">
 <h1 class="title">The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii</h1>
 </header>
-<p><small><em> This manuscript (<a href="https://dhimmel.github.io/psb-manuscript/v/d4ace7bd04e89c7c4803c6b977240272cf0234b6/">permalink</a>) was automatically generated from <a href="https://github.com/dhimmel/psb-manuscript/tree/d4ace7bd04e89c7c4803c6b977240272cf0234b6">dhimmel/psb-manuscript@d4ace7b</a> on January 4, 2019. </em></small></p>
+<p><small><em> This manuscript (<a href="https://dhimmel.github.io/psb-manuscript/v/c2f64b28b74b4468e29efbbac7eb2fb1bd2891ec/">permalink</a>) was automatically generated from <a href="https://github.com/dhimmel/psb-manuscript/tree/c2f64b28b74b4468e29efbbac7eb2fb1bd2891ec">dhimmel/psb-manuscript@c2f64b2</a> on January 4, 2019. </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
-<li><strong>Daniel Himmelstein</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/0000-0002-3012-7446">0000-0002-3012-7446</a> · <img src="images/github.svg" alt="GitHub icon" width="13" height="13" /> <a href="https://github.com/dhimmel">dhimmel</a> · <img src="images/twitter.svg" alt="Twitter icon" width="13" height="13" /> <a href="https://twitter.com/dhimmel">dhimmel</a><br> <small> University of Pennsylvania </small></li>
+<li><strong>Daniel Himmelstein</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/0000-0002-3012-7446">0000-0002-3012-7446</a> · <img src="images/github.svg" alt="GitHub icon" width="13" height="13" /> <a href="https://github.com/dhimmel">dhimmel</a> · <img src="images/twitter.svg" alt="Twitter icon" width="13" height="13" /> <a href="https://twitter.com/dhimmel">dhimmel</a><br> <small> Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania </small></li>
 </ul>
 <h2 id="abstract" class="page_break_before">Abstract</h2>
 <p>Manubot is an open source tool for writing manuscripts on GitHub in markdown format. Manubot applies the git-based software workflow to scholarly writing, enabling enhanced transparency, collaboration, automation, and reproducibility.</p>
@@ -112,6 +175,17 @@
 <!-- David Haussler -->
 <!-- Tina Hernandez-Boussard -->
 <!-- Daniel Himmelstein -->
+<h3 id="daniel-himmelstein">Daniel Himmelstein</h3>
+<p>Greetings, I’m in the <a href="http://www.greenelab.com/">Greene Lab</a> at the University of Pennsylvania and am the lead developer of the Manubot project. 2019 is my first PSB and I’m exciting to backpack around the Big Island following the conference.</p>
+<p>My main area of research is integrating biomedical knowledge using hetnets <span class="citation" data-cites="XJuQlZl1 O21tn8vf">[<a href="#ref-XJuQlZl1">2</a>,<a href="#ref-O21tn8vf">3</a>]</span>. However, I’ve also studied Sci-Hub, finding that it provides access to nearly all paywalled scholarly literature <span class="citation" data-cites="vkig9eAb">[<a href="#ref-vkig9eAb">4</a>]</span>. Perhaps my biggest discovery was observing an epidemiological association that higher elevation counties have lower rates of lung cancer, suggesting that oxygen is an inhaled carcinogen (Figure <a href="#fig:elevcan">1</a>) <span class="citation" data-cites="17wiYglmF 8YjPCnYe">[<a href="#ref-17wiYglmF">5</a>,<a href="#ref-8YjPCnYe">6</a>]</span>.</p>
+<figure>
+<img src="https://github.com/dhimmel/elevcan/raw/7aed9f29d2371eb4918f337a138608e6b6d9e311/manual/figures/peerj/Figure_4.png" alt="Figure 1: The association between elevation and lung cancer across Western U.S. counties." id="fig:elevcan" style="width:100.0%" /><figcaption><span>Figure 1:</span> The association between elevation and lung cancer across Western U.S. counties.</figcaption>
+</figure>
+<p>I haven’t done much text mining, but I did enjoy extracting attendee names for PSB from the online PDF. Converting the PDF to text in Python was <a href="https://github.com/dhimmel/psb-manuscript/blob/15babecdf2a915f88088703e23a61e34e1294b1f/attendees/attendees.ipynb">as easy as</a>:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb1-1" title="1"><span class="co"># https://stackoverflow.com/a/48673754</span></a>
+<a class="sourceLine" id="cb1-2" title="2"><span class="im">import</span> tika.parser</a>
+<a class="sourceLine" id="cb1-3" title="3">parsed <span class="op">=</span> tika.parser.from_file(<span class="st">&#39;attendees.pdf&#39;</span>)</a>
+<a class="sourceLine" id="cb1-4" title="4">text <span class="op">=</span> parsed[<span class="st">&quot;content&quot;</span>]</a></code></pre></div>
 <!-- Michael Hoffman -->
 <!-- John Holmes -->
 <!-- Rachel Hovde -->
@@ -244,6 +318,35 @@
 <p>1. <strong>Open collaborative writing with Manubot</strong><br />
 Daniel S. Himmelstein, David R. Slochower, Venkat S. Malladi, Casey S. Greene, Anthony Gitter<br />
 <em>Manubot Preprint</em> (2018-12-31) <a href="https://greenelab.github.io/meta-review/">https://greenelab.github.io/meta-review/</a></p>
+</div>
+<div id="ref-XJuQlZl1">
+<p>2. <strong>Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes.</strong><br />
+Daniel S Himmelstein, Sergio E Baranzini<br />
+<em>PLoS computational biology</em> (2015-07-09) <a href="https://www.ncbi.nlm.nih.gov/pubmed/26158728">https://www.ncbi.nlm.nih.gov/pubmed/26158728</a><br />
+DOI: <a href="https://doi.org/10.1371/journal.pcbi.1004259">10.1371/journal.pcbi.1004259</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26158728">26158728</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4497619">PMC4497619</a></p>
+</div>
+<div id="ref-O21tn8vf">
+<p>3. <strong>Systematic integration of biomedical knowledge prioritizes drugs for repurposing</strong><br />
+Daniel Scott Himmelstein, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, Sergio E Baranzini<br />
+<em>eLife</em> (2017-09-22) <a href="https://doi.org/cdfk">https://doi.org/cdfk</a><br />
+DOI: <a href="https://doi.org/10.7554/elife.26726">10.7554/elife.26726</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28936969">28936969</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5640425">PMC5640425</a></p>
+</div>
+<div id="ref-vkig9eAb">
+<p>4. <strong>Sci-Hub provides access to nearly all scholarly literature</strong><br />
+Daniel S Himmelstein, Ariel Rodriguez Romero, Jacob G Levernier, Thomas Anthony Munro, Stephen Reid McLaughlin, Bastian Greshake Tzovaras, Casey S Greene<br />
+<em>eLife</em> (2018-03-01) <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5832410/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5832410/</a><br />
+DOI: <a href="https://doi.org/10.7554/eLife.32822">10.7554/elife.32822</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29424689">29424689</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5832410">PMC5832410</a></p>
+</div>
+<div id="ref-17wiYglmF">
+<p>5. <strong>Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen</strong><br />
+Kamen P. Simeonov, Daniel S. Himmelstein<br />
+<em>PeerJ</em> (2015-01-13) <a href="https://doi.org/98p">https://doi.org/98p</a><br />
+DOI: <a href="https://doi.org/10.7717/peerj.705">10.7717/peerj.705</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25648772">25648772</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4304851">PMC4304851</a></p>
+</div>
+<div id="ref-8YjPCnYe">
+<p>6. <strong>Unraveling the Ties of Altitude, Oxygen and Lung Cancer</strong><br />
+George Johnson<br />
+<em>The New York Times</em> (2016-01-25) <a href="https://www.nytimes.com/2016/01/26/science/unraveling-the-ties-of-altitude-oxygen-and-lung-cancer.html">https://www.nytimes.com/2016/01/26/science/unraveling-the-ties-of-altitude-oxygen-and-lung-cancer.html</a></p>
 </div>
 </div>
 <script>

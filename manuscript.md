@@ -20,9 +20,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/d4ace7bd04e89c7c4803c6b977240272cf0234b6/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/c2f64b28b74b4468e29efbbac7eb2fb1bd2891ec/))
 was automatically generated
-from [dhimmel/psb-manuscript@d4ace7b](https://github.com/dhimmel/psb-manuscript/tree/d4ace7bd04e89c7c4803c6b977240272cf0234b6)
+from [dhimmel/psb-manuscript@c2f64b2](https://github.com/dhimmel/psb-manuscript/tree/c2f64b28b74b4468e29efbbac7eb2fb1bd2891ec)
 on January 4, 2019.
 </em></small>
 
@@ -38,7 +38,7 @@ on January 4, 2019.
     · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
     [dhimmel](https://twitter.com/dhimmel)<br>
   <small>
-     University of Pennsylvania
+     Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania
   </small>
 
 
@@ -326,7 +326,28 @@ More information on the tool and its inception is available in the project manus
 
 <!-- Daniel Himmelstein -->
 
+### Daniel Himmelstein
 
+Greetings, I'm in the [Greene Lab](http://www.greenelab.com/) at the University of Pennsylvania and am the lead developer of the Manubot project.
+2019 is my first PSB and I'm exciting to backpack around the Big Island following the conference.
+
+My main area of research is integrating biomedical knowledge using hetnets [@XJuQlZl1; @O21tn8vf].
+However, I've also studied Sci-Hub, finding that it provides access to nearly all paywalled scholarly literature [@vkig9eAb].
+Perhaps my biggest discovery was observing an epidemiological association that higher elevation counties have lower rates of lung cancer, suggesting that oxygen is an inhaled carcinogen (Figure @fig:elevcan) [@17wiYglmF; @8YjPCnYe].
+
+![
+The association between elevation and lung cancer across Western U.S. counties.
+](https://github.com/dhimmel/elevcan/raw/7aed9f29d2371eb4918f337a138608e6b6d9e311/manual/figures/peerj/Figure_4.png){#fig:elevcan width="100%"}
+
+I haven't done much text mining, but I did enjoy extracting attendee names for PSB from the online PDF.
+Converting the PDF to text in Python was [as easy as](https://github.com/dhimmel/psb-manuscript/blob/15babecdf2a915f88088703e23a61e34e1294b1f/attendees/attendees.ipynb):
+
+```python
+# https://stackoverflow.com/a/48673754
+import tika.parser
+parsed = tika.parser.from_file('attendees.pdf')
+text = parsed["content"]
+```
 
 <!-- Michael Hoffman -->
 

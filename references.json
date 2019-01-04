@@ -1,5 +1,200 @@
 [
   {
+    "publisher": "eLife Sciences Publications, Ltd",
+    "abstract": "<jats:p>The ability to computationally predict whether a compound treats a disease would improve the economy and success rate of drug approval. This study describes Project Rephetio to systematically model drug efficacy based on 755 existing treatments. First, we constructed Hetionet (neo4j.het.io), an integrative network encoding knowledge from millions of biomedical studies. Hetionet v1.0 consists of 47,031 nodes of 11 types and 2,250,197 relationships of 24 types. Data were integrated from 29 public resources to connect compounds, diseases, genes, anatomies, pathways, biological processes, molecular functions, cellular components, pharmacologic classes, side effects, and symptoms. Next, we identified network patterns that distinguish treatments from non-treatments. Then, we predicted the probability of treatment for 209,168 compound–disease pairs (het.io/repurpose). Our predictions validated on two external sets of treatment and provided pharmacological insights on epilepsy, suggesting they will help prioritize drug repurposing candidates. This study was entirely open and received realtime feedback from 40 community members.</jats:p>",
+    "DOI": "10.7554/elife.26726",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Systematic integration of biomedical knowledge prioritizes drugs for repurposing",
+    "volume": "6",
+    "author": [
+      {
+        "given": "Daniel Scott",
+        "family": "Himmelstein"
+      },
+      {
+        "given": "Antoine",
+        "family": "Lizee"
+      },
+      {
+        "given": "Christine",
+        "family": "Hessler"
+      },
+      {
+        "given": "Leo",
+        "family": "Brueggeman"
+      },
+      {
+        "given": "Sabrina L",
+        "family": "Chen"
+      },
+      {
+        "given": "Dexter",
+        "family": "Hadley"
+      },
+      {
+        "given": "Ari",
+        "family": "Green"
+      },
+      {
+        "given": "Pouya",
+        "family": "Khankhanian"
+      },
+      {
+        "given": "Sergio E",
+        "family": "Baranzini"
+      }
+    ],
+    "container-title": "eLife",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          22
+        ]
+      ]
+    },
+    "URL": "https://doi.org/cdfk",
+    "PMCID": "PMC5640425",
+    "PMID": "28936969",
+    "id": "O21tn8vf"
+  },
+  {
+    "publisher": "PeerJ",
+    "DOI": "10.7717/peerj.705",
+    "type": "article-journal",
+    "page": "e705",
+    "source": "Crossref",
+    "title": "Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Kamen P.",
+        "family": "Simeonov"
+      },
+      {
+        "given": "Daniel S.",
+        "family": "Himmelstein"
+      }
+    ],
+    "container-title": "PeerJ",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          1,
+          13
+        ]
+      ]
+    },
+    "URL": "https://doi.org/98p",
+    "PMCID": "PMC4304851",
+    "PMID": "25648772",
+    "id": "17wiYglmF"
+  },
+  {
+    "source": "PubMed",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          1,
+          4
+        ]
+      ]
+    },
+    "id": "vkig9eAb",
+    "title": "Sci-Hub provides access to nearly all scholarly literature",
+    "author": [
+      {
+        "family": "Himmelstein",
+        "given": "Daniel S"
+      },
+      {
+        "family": "Romero",
+        "given": "Ariel Rodriguez"
+      },
+      {
+        "family": "Levernier",
+        "given": "Jacob G"
+      },
+      {
+        "family": "Munro",
+        "given": "Thomas Anthony"
+      },
+      {
+        "family": "McLaughlin",
+        "given": "Stephen Reid"
+      },
+      {
+        "family": "Greshake Tzovaras",
+        "given": "Bastian"
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S"
+      }
+    ],
+    "container-title-short": "Elife",
+    "container-title": "eLife",
+    "publisher": "eLife Sciences Publications, Ltd",
+    "ISSN": "2050-084X",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          1
+        ]
+      ]
+    },
+    "page": "e32822",
+    "volume": "7",
+    "PMID": "29424689",
+    "PMCID": "PMC5832410",
+    "DOI": "10.7554/eLife.32822",
+    "type": "article-journal",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5832410/"
+  },
+  {
+    "title": "Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes.",
+    "volume": "11",
+    "issue": "7",
+    "page": "e1004259",
+    "container-title": "PLoS computational biology",
+    "container-title-short": "PLoS Comput. Biol.",
+    "ISSN": "1553-7358",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          7,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Daniel S",
+        "family": "Himmelstein"
+      },
+      {
+        "given": "Sergio E",
+        "family": "Baranzini"
+      }
+    ],
+    "PMID": "26158728",
+    "PMCID": "PMC4497619",
+    "DOI": "10.1371/journal.pcbi.1004259",
+    "abstract": "The first decade of Genome Wide Association Studies (GWAS) has uncovered a wealth of disease-associated variants. Two important derivations will be the translation of this information into a multiscale understanding of pathogenic variants and leveraging existing data to increase the power of existing and future studies through prioritization. We explore edge prediction on heterogeneous networks--graphs with multiple node and edge types--for accomplishing both tasks. First we constructed a network with 18 node types--genes, diseases, tissues, pathophysiologies, and 14 MSigDB (molecular signatures database) collections--and 19 edge types from high-throughput publicly-available resources. From this network composed of 40,343 nodes and 1,608,168 edges, we extracted features that describe the topology between specific genes and diseases. Next, we trained a model from GWAS associations and predicted the probability of association between each protein-coding gene and each of 29 well-studied complex diseases. The model, which achieved 132-fold enrichment in precision at 10% recall, outperformed any individual domain, highlighting the benefit of integrative approaches. We identified pleiotropy, transcriptional signatures of perturbations, pathways, and protein interactions as influential mechanisms explaining pathogenesis. Our method successfully predicted the results (with AUROC = 0.79) from a withheld multiple sclerosis (MS) GWAS despite starting with only 13 previously associated genes. Finally, we combined our network predictions with statistical evidence of association to propose four novel MS genes, three of which (JAK2, REL, RUNX3) validated on the masked GWAS. Furthermore, our predictions provide biological support highlighting REL as the causal gene within its gene-rich locus. Users can browse all predictions online (http://het.io). Heterogeneous network edge prediction effectively prioritized genetic associations and provides a powerful new approach for data integration across multiple domains.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/26158728",
+    "type": "article-journal",
+    "id": "XJuQlZl1"
+  },
+  {
     "type": "webpage",
     "title": "Open collaborative writing with Manubot",
     "URL": "https://greenelab.github.io/meta-review/",
@@ -46,5 +241,41 @@
       ]
     },
     "id": "1GGGHdsew"
+  },
+  {
+    "type": "article-newspaper",
+    "title": "Unraveling the Ties of Altitude, Oxygen and Lung Cancer",
+    "container-title": "The New York Times",
+    "section": "Science",
+    "source": "NYTimes.com",
+    "abstract": "Humans need oxygen, but the link between higher altitudes, where thereâ€™s less of it, and a lower incidence of lung cancer is growing stronger.",
+    "URL": "https://www.nytimes.com/2016/01/26/science/unraveling-the-ties-of-altitude-oxygen-and-lung-cancer.html",
+    "ISSN": "0362-4331",
+    "language": "en-US",
+    "author": [
+      {
+        "family": "Johnson",
+        "given": "George"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2016",
+          1,
+          25
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2019",
+          1,
+          4
+        ]
+      ]
+    },
+    "id": "8YjPCnYe"
   }
 ]
