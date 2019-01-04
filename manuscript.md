@@ -1,5 +1,6 @@
 ---
-author-meta: []
+author-meta:
+- Daniel Himmelstein
 date-meta: '2019-01-04'
 keywords:
 - manubot
@@ -19,15 +20,26 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/5af18f2c7e7824e1dd73aced1103460faf1e09e4/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/2d4e0dddafe648b4b3f81ca1c1a2439854324f85/))
 was automatically generated
-from [dhimmel/psb-manuscript@5af18f2](https://github.com/dhimmel/psb-manuscript/tree/5af18f2c7e7824e1dd73aced1103460faf1e09e4)
+from [dhimmel/psb-manuscript@2d4e0dd](https://github.com/dhimmel/psb-manuscript/tree/2d4e0dddafe648b4b3f81ca1c1a2439854324f85)
 on January 4, 2019.
 </em></small>
 
 ## Authors
 
 
+
++ **Daniel Himmelstein**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0002-3012-7446](https://orcid.org/0000-0002-3012-7446)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [dhimmel](https://github.com/dhimmel)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [dhimmel](https://twitter.com/dhimmel)<br>
+  <small>
+     University of Pennsylvania
+  </small>
 
 
 
