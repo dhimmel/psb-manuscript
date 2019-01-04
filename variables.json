@@ -1,35 +1,16 @@
 {
   "date": "January 4, 2019",
-  "authors": [
-    {
-      "github": "dhimmel",
-      "name": "Daniel Himmelstein",
-      "orcid": "0000-0002-3012-7446",
-      "twitter": "dhimmel",
-      "affiliations": [
-        "University of Pennsylvania"
-      ],
-      "affiliation_numbers": [
-        1
-      ]
-    }
-  ],
-  "affiliations": [
-    {
-      "affiliation": "University of Pennsylvania",
-      "affiliation_number": 1
-    }
-  ],
+  "authors": [],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "74df9920ee6696354f25680bb5870538d890e436"
+    "commit": "fd1b3a0dd343dffe516a55e424bb9da245f8f1b7"
   },
   "manuscript_stats": {
     "reference_counts": {
       "total": 0
     },
-    "word_count": 216
+    "word_count": 975
   }
 }
