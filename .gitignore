@@ -20,6 +20,7 @@ __pycache__/
 
 # Misc temporary files
 *.bak
+.vscode/
 
 # Operating system specific files
 
