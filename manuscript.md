@@ -28,9 +28,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/432bb599550d824a40e2dcbdfff2bdd40c5c3c58/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/110c48c30cd8ac598c86046d32123455b525a4cb/))
 was automatically generated
-from [dhimmel/psb-manuscript@432bb59](https://github.com/dhimmel/psb-manuscript/tree/432bb599550d824a40e2dcbdfff2bdd40c5c3c58)
+from [dhimmel/psb-manuscript@110c48c](https://github.com/dhimmel/psb-manuscript/tree/110c48c30cd8ac598c86046d32123455b525a4cb)
 on January 5, 2019.
 </em></small>
 
@@ -921,7 +921,7 @@ Some of that work is on **poster 71**, which I will present on Saturday 5 Januar
 
 ![
 This is the header of the poster I'll present here under its CC BY 4.0 License.
-](https://www.dropbox.com/s/am79upv58g788ua/Robin-van-der-Lee_Poster_Pacific_Symposium_on_Biocomputing_PSB_2019__MANTA-RAE_poster_header.jpg){width="100%"}
+](images/Robin-van-der-Lee_Poster_Pacific_Symposium_on_Biocomputing_PSB_2019__MANTA-RAE_poster_header.jpg){width="100%"}
 
 <!-- Maya Varma -->
 
