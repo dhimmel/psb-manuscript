@@ -1,5 +1,6 @@
 ---
 author-meta:
+- Casey Greene
 - Daniel Himmelstein
 - Trang Le
 date-meta: '2019-01-05'
@@ -21,15 +22,26 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/72a915711eacc18dd2bf60c0690144615374b6d8/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/7fd7b907f72c1e9b5d65111b2589f7bfba5890dc/))
 was automatically generated
-from [dhimmel/psb-manuscript@72a9157](https://github.com/dhimmel/psb-manuscript/tree/72a915711eacc18dd2bf60c0690144615374b6d8)
+from [dhimmel/psb-manuscript@7fd7b90](https://github.com/dhimmel/psb-manuscript/tree/7fd7b907f72c1e9b5d65111b2589f7bfba5890dc)
 on January 5, 2019.
 </em></small>
 
 ## Authors
 
 
+
++ **Casey Greene**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0001-8713-9213](https://orcid.org/0000-0001-8713-9213)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [cgreene](https://github.com/cgreene)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [greenescientist](https://twitter.com/greenescientist)<br>
+  <small>
+     Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania; Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation
+  </small>
 
 + **Daniel Himmelstein**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
@@ -302,7 +314,16 @@ More information on the tool and its inception is available in the project manus
 
 <!-- Casey Greene -->
 
+I run an integrative genomics research lab at the University of of Pennsylvania, and I direct the Childhood Cancer Data Lab for Alex's Lemonade Stand Foundation.
+The lab at Penn develops methods to integrate large-scale public datasets, primarily from transcriptomic assays, and applies these methods to a broad set of biological questions.
+We've studied numerous systems, and we currently have active research projects in the application areas of microbial systems [@1CFhfCyWN; @Hlprh8TG], cancers [@7V2oCvtf; @17XHtmqPY; @X6oQhIf8; @11ZPgRuLk], and rare diseases [@1GtRgPRxn].
+At this PSB, a postdoc from the group will present a paper describing Continental Breakfast Included (CBI) effect in the final talk of the final session of this year's meeting [@5CsWRjfp].
 
+I'm also interested in technologies that enhance the future of scientific communication.
+Our lab has studied Sci-Hub [@IhliSZDo].
+We've led a large collaborative review of deep learning in biology and medicine [@PZMP42Ak].
+Members of the lab have developed tools like manubot [@1GGGHdsew], which you are using now.
+More publications are available on our [lab website](http://www.greenelab.com/publications).
 
 <!-- Peyton Greenside -->
 

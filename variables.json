@@ -2,6 +2,20 @@
   "date": "January 5, 2019",
   "authors": [
     {
+      "name": "Casey Greene",
+      "orcid": "0000-0001-8713-9213",
+      "github": "cgreene",
+      "twitter": "greenescientist",
+      "affiliations": [
+        "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania",
+        "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation"
+      ],
+      "affiliation_numbers": [
+        1,
+        2
+      ]
+    },
+    {
       "name": "Daniel Himmelstein",
       "orcid": "0000-0002-3012-7446",
       "github": "dhimmel",
@@ -22,7 +36,7 @@
         "University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        2
+        3
       ]
     }
   ],
@@ -32,25 +46,29 @@
       "affiliation_number": 1
     },
     {
-      "affiliation": "University of Pennsylvania",
+      "affiliation": "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation",
       "affiliation_number": 2
+    },
+    {
+      "affiliation": "University of Pennsylvania",
+      "affiliation_number": 3
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "72a915711eacc18dd2bf60c0690144615374b6d8"
+    "commit": "7fd7b907f72c1e9b5d65111b2589f7bfba5890dc"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
-      "doi": 4,
+      "doi": 14,
       "pmcid": 1,
       "pmid": 1,
       "url": 2,
-      "total": 9
+      "total": 19
     },
-    "word_count": 1719
+    "word_count": 1886
   }
 }
