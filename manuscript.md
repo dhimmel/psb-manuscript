@@ -7,6 +7,7 @@ author-meta:
 - Trang Le
 - Luca Pinello
 - Jaclyn Taroni
+- Ryan Whaley
 date-meta: '2019-01-05'
 keywords:
 - manubot
@@ -26,9 +27,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/62c3b899c3bc57a0893ffba7cef341ba50e9e284/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/c3fd119b1fd3d0fb591b43b171d4c5794c041240/))
 was automatically generated
-from [dhimmel/psb-manuscript@62c3b89](https://github.com/dhimmel/psb-manuscript/tree/62c3b899c3bc57a0893ffba7cef341ba50e9e284)
+from [dhimmel/psb-manuscript@c3fd119](https://github.com/dhimmel/psb-manuscript/tree/c3fd119b1fd3d0fb591b43b171d4c5794c041240)
 on January 5, 2019.
 </em></small>
 
@@ -111,6 +112,17 @@ on January 5, 2019.
     [jaclyn_taroni](https://twitter.com/jaclyn_taroni)<br>
   <small>
      Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation
+  </small>
+
++ **Ryan Whaley**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0002-8810-3893](https://orcid.org/0000-0002-8810-3893)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [whaleyr](https://github.com/whaleyr)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [ryanatpharmgkb](https://twitter.com/ryanatpharmgkb)<br>
+  <small>
+     Stanford University
   </small>
 
 
@@ -936,7 +948,14 @@ With the CCDL, I've been working on [refine.bio](https://www.refine.bio), a proj
 
 <!-- Ryan Whaley -->
 
+### Ryan Whaley
 
+Hi, I'm Ryan and I'm one of the technical leads for [PharmGKB](https://www.pharmgkb.org).
+I'm also helping to run the A/V desk during this presentation.
+
+I'm trained in software development and started by career as a DBA.
+Over the past decade I've switched to Java and then web application development.
+I've contributed to PharmGKB [@3NKcTIrb], CPIC [@1EYG4hAqR], and other PGx consortia.
 
 <!-- Nicholas Wheeler -->
 

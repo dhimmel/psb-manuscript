@@ -88,6 +88,18 @@
       "affiliation_numbers": [
         3
       ]
+    },
+    {
+      "name": "Ryan Whaley",
+      "orcid": "0000-0002-8810-3893",
+      "github": "whaleyr",
+      "twitter": "ryanatpharmgkb",
+      "affiliations": [
+        "Stanford University"
+      ],
+      "affiliation_numbers": [
+        8
+      ]
     }
   ],
   "affiliations": [
@@ -118,23 +130,27 @@
     {
       "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
       "affiliation_number": 7
+    },
+    {
+      "affiliation": "Stanford University",
+      "affiliation_number": 8
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "62c3b899c3bc57a0893ffba7cef341ba50e9e284"
+    "commit": "c3fd119b1fd3d0fb591b43b171d4c5794c041240"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
       "doi": 17,
       "pmcid": 1,
-      "pmid": 2,
+      "pmid": 4,
       "url": 2,
-      "total": 23
+      "total": 25
     },
-    "word_count": 2280
+    "word_count": 2342
   }
 }

@@ -10139,6 +10139,98 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5832410/"
   },
   {
+    "title": "CPIC: Clinical Pharmacogenetics Implementation Consortium of the Pharmacogenomics Research Network.",
+    "volume": "89",
+    "issue": "3",
+    "page": "464-7",
+    "container-title": "Clinical pharmacology and therapeutics",
+    "container-title-short": "Clin. Pharmacol. Ther.",
+    "ISSN": "1532-6535",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          1,
+          26
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "M V",
+        "family": "Relling"
+      },
+      {
+        "given": "T E",
+        "family": "Klein"
+      }
+    ],
+    "PMID": "21270786",
+    "PMCID": "PMC3098762",
+    "DOI": "10.1038/clpt.2010.279",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/21270786",
+    "type": "article-journal",
+    "id": "1EYG4hAqR"
+  },
+  {
+    "title": "Pharmacogenomics knowledge for personalized medicine.",
+    "volume": "92",
+    "issue": "4",
+    "page": "414-7",
+    "container-title": "Clinical pharmacology and therapeutics",
+    "container-title-short": "Clin. Pharmacol. Ther.",
+    "ISSN": "1532-6535",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          10
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "M",
+        "family": "Whirl-Carrillo"
+      },
+      {
+        "given": "E M",
+        "family": "McDonagh"
+      },
+      {
+        "given": "J M",
+        "family": "Hebert"
+      },
+      {
+        "given": "L",
+        "family": "Gong"
+      },
+      {
+        "given": "K",
+        "family": "Sangkuhl"
+      },
+      {
+        "given": "C F",
+        "family": "Thorn"
+      },
+      {
+        "given": "R B",
+        "family": "Altman"
+      },
+      {
+        "given": "T E",
+        "family": "Klein"
+      }
+    ],
+    "PMID": "22992668",
+    "PMCID": "PMC3660037",
+    "DOI": "10.1038/clpt.2012.96",
+    "abstract": "The Pharmacogenomics Knowledgebase (PharmGKB) is a resource that collects, curates, and disseminates information about the impact of human genetic variation on drug responses. It provides clinically relevant information, including dosing guidelines, annotated drug labels, and potentially actionable gene-drug associations and genotype-phenotype relationships. Curators assign levels of evidence to variant-drug associations using well-defined criteria based on careful literature review. Thus, PharmGKB is a useful source of high-quality information supporting personalized medicine-implementation projects.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/22992668",
+    "type": "article-journal",
+    "id": "3NKcTIrb"
+  },
+  {
     "title": "Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes.",
     "volume": "11",
     "issue": "7",
