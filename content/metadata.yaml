@@ -1059,12 +1059,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - University of Manchester
-# - name: Ryan Whaley
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Stanford University
+- name: Ryan Whaley
+  orcid: orcid.org/0000-0002-8810-3893
+  github: whaleyr
+  twitter: ryanatpharmgkb
+  affiliations:
+  - Stanford University
 # - name: Nicholas Wheeler
 #   orcid: null
 #   github: null
