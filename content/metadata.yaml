@@ -272,12 +272,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - University of California, Santa Cruz
-# - name: Weixuan Fu
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - University of Pennsylvania
+- name: Weixuan Fu
+  orcid: 0000-0002-6434-5468
+  github: weixuanfu
+  twitter: weixuanfu
+  affiliations:
+  - "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania"
 # - name: Tetsu Furukawa
 #   orcid: null
 #   github: null
@@ -411,18 +411,19 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - University of California, Berkeley
-# - name: Lawrence Hunter
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - University of Colorado
+- name: Lawrence Hunter
+  orcid: 0000-0003-1455-3370
+  github: LEHunter
+  twitter: ProfLHunter
+  affiliations:
+   - University of Colorado Anschutz School of Medicine
+   - University of Colorado Boulder
 - name: Shantanu Jain
-orcid: null
-github: github.com/shajain
-twitter: null
-affiliations:
-- Northeastern University
+  orcid: null
+  github: github.com/shajain
+  twitter: null
+  affiliations:
+  - Northeastern University
 # - name: Yuexu Jiang
 #   orcid: null
 #   github: null
@@ -735,12 +736,12 @@ affiliations:
 #   twitter: null
 #   affiliations:
 #   - UCLA
-# - name: Luca Pinello
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Massachusetts General Hospital/ Harvard Medical School
+- name: Luca Pinello
+  orcid: 0000-0003-1109-3823
+  github: pinellolab
+  twitter: lucapinello
+  affiliations:
+  - Massachusetts General Hospital/ Harvard Medical School
 # - name: Niranjani Prasad
 #   orcid: null
 #   github: null
@@ -933,12 +934,12 @@ affiliations:
 #   twitter: null
 #   affiliations:
 #   - University of Texas
-# - name: Jaclyn Taroni
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Alex's Lemonade Stand Foundation
+- name: Jaclyn Taroni
+  orcid: 0000-0003-4734-4508
+  github: jaclyn-taroni
+  twitter: jaclyn_taroni
+  affiliations:
+  - "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation"
 # - name: Gunjan Thakur
 #   orcid: null
 #   github: null
@@ -981,12 +982,14 @@ affiliations:
 #   twitter: null
 #   affiliations:
 #   - Stanford University
-# - name: Robin van der Lee
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - The University of British Columbia
+- name: Robin van der Lee
+  orcid: 0000-0001-7391-9438
+  github: robinvanderlee
+  twitter: robinvdlee
+  affiliations:
+  - The University of British Columbia, Vancouver, Canada
+  - BC Children’s Hospital Research Institute
+  - Centre for Molecular Medicine and Therapeutics
 # - name: Maya Varma
 #   orcid: null
 #   github: null
@@ -1059,12 +1062,12 @@ affiliations:
 #   twitter: null
 #   affiliations:
 #   - University of Manchester
-# - name: Ryan Whaley
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Stanford University
+- name: Ryan Whaley
+  orcid: 0000-0002-8810-3893
+  github: whaleyr
+  twitter: ryanatpharmgkb
+  affiliations:
+  - Stanford University
 # - name: Nicholas Wheeler
 #   orcid: null
 #   github: null
