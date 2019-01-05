@@ -3,6 +3,7 @@ author-meta:
 - Weixuan Fu
 - Casey Greene
 - Daniel Himmelstein
+- Qiwen Hu
 - Lawrence Hunter
 - Shantanu Jain
 - Trang Le
@@ -29,9 +30,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/231b876476129477a2f8044205777439611dccb6/))
 was automatically generated
-from [dhimmel/psb-manuscript@f57f6c1](https://github.com/dhimmel/psb-manuscript/tree/f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a)
+from [dhimmel/psb-manuscript@231b876](https://github.com/dhimmel/psb-manuscript/tree/231b876476129477a2f8044205777439611dccb6)
 on January 5, 2019.
 </em></small>
 
@@ -68,6 +69,15 @@ on January 5, 2019.
     [dhimmel](https://github.com/dhimmel)
     · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
     [dhimmel](https://twitter.com/dhimmel)<br>
+  <small>
+     Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania
+  </small>
+
++ **Qiwen Hu**<br>
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [huqiwen0313](https://github.com/huqiwen0313)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [qiwen_hu](https://twitter.com/qiwen_hu)<br>
   <small>
      Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania
   </small>
@@ -484,8 +494,14 @@ text = parsed["content"]
 
 
 <!-- Qiwen Hu -->
+### Qiwen Hu
 
+I'm a postdoc from [Greene Lab](http://www.greenelab.com/) at the University of Pennsylvania.
+My research focus on integrating different types of high-throughput sequencing data to find meaningful biological signals behind it.
+I developed machine learning and statistical approaches to identify regulatory elements that affect transcription and translation.
+I also developed machine learning-based methods to extract regulatory signals from addicted brain [@1m3Egymh], developmental tissues [@M0crDyWe] and cell-type signals from single-cell datasets.
 
+This year at PSB, I will present our findings for analyzing single-cell data based on deep variation auto-encoders [@5CsWRjfp].
 
 <!-- Zhiyue Hu -->
 

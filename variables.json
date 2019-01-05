@@ -40,6 +40,17 @@
       ]
     },
     {
+      "name": "Qiwen Hu",
+      "github": "huqiwen0313",
+      "twitter": "qiwen_hu",
+      "affiliations": [
+        "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania"
+      ],
+      "affiliation_numbers": [
+        2
+      ]
+    },
+    {
       "name": "Lawrence Hunter",
       "orcid": "0000-0003-1455-3370",
       "github": "LEHunter",
@@ -182,17 +193,17 @@
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a"
+    "commit": "231b876476129477a2f8044205777439611dccb6"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
-      "doi": 17,
+      "doi": 19,
       "pmcid": 1,
       "pmid": 6,
       "url": 2,
-      "total": 27
+      "total": 29
     },
-    "word_count": 2479
+    "word_count": 2569
   }
 }
