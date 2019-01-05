@@ -411,12 +411,13 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - University of California, Berkeley
-# - name: Lawrence Hunter
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - University of Colorado
+- name: Lawrence Hunter
+  orcid: 0000-0003-1455-3370
+  github: LEHunter
+  twitter: ProfLHunter
+  affiliations:
+   - University of Colorado Anschutz School of Medicine
+   - University of Colorado Boulder
 # - name: Shantanu Jain
 #   orcid: null
 #   github: null
