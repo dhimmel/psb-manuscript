@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/dhimmel/psb-manuscript/tree/gh-pages) branch hosts the contents of this directory at https://dhimmel.github.io/psb-manuscript/.
-The permalink for this webpage version is https://dhimmel.github.io/psb-manuscript/v/f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a/.
+The permalink for this webpage version is https://dhimmel.github.io/psb-manuscript/v/231b876476129477a2f8044205777439611dccb6/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://dhimmel.github.io/psb-manuscript/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a`](https://github.com/dhimmel/psb-manuscript/commit/f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a).
+[`231b876476129477a2f8044205777439611dccb6`](https://github.com/dhimmel/psb-manuscript/commit/231b876476129477a2f8044205777439611dccb6).
