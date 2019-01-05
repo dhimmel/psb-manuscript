@@ -22,9 +22,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/d753ee91f82a6da19cbc6847cb0e9636e207f580/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/7760da8381cf48568f96ca5ad180f0c09d19f9e5/))
 was automatically generated
-from [dhimmel/psb-manuscript@d753ee9](https://github.com/dhimmel/psb-manuscript/tree/d753ee91f82a6da19cbc6847cb0e9636e207f580)
+from [dhimmel/psb-manuscript@7760da8](https://github.com/dhimmel/psb-manuscript/tree/7760da8381cf48568f96ca5ad180f0c09d19f9e5)
 on January 5, 2019.
 </em></small>
 
@@ -313,6 +313,8 @@ More information on the tool and its inception is available in the project manus
 
 
 <!-- Casey Greene -->
+
+### Casey Greene
 
 I run an integrative genomics research lab at the University of of Pennsylvania, and I direct the Childhood Cancer Data Lab for Alex's Lemonade Stand Foundation.
 The lab at Penn develops methods to integrate large-scale public datasets, primarily from transcriptomic assays, and applies these methods to a broad set of biological questions.
