@@ -22,9 +22,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/7fd7b907f72c1e9b5d65111b2589f7bfba5890dc/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/d753ee91f82a6da19cbc6847cb0e9636e207f580/))
 was automatically generated
-from [dhimmel/psb-manuscript@7fd7b90](https://github.com/dhimmel/psb-manuscript/tree/7fd7b907f72c1e9b5d65111b2589f7bfba5890dc)
+from [dhimmel/psb-manuscript@d753ee9](https://github.com/dhimmel/psb-manuscript/tree/d753ee91f82a6da19cbc6847cb0e9636e207f580)
 on January 5, 2019.
 </em></small>
 
