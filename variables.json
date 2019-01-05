@@ -52,6 +52,18 @@
       ]
     },
     {
+      "name": "Luca Pinello",
+      "orcid": "0000-0003-1109-3823",
+      "github": "pinellolab",
+      "twitter": "lucapinello",
+      "affiliations": [
+        "Massachusetts General Hospital/ Harvard Medical School"
+      ],
+      "affiliation_numbers": [
+        5
+      ]
+    },
+    {
       "name": "Jaclyn Taroni",
       "orcid": "0000-0003-4734-4508",
       "github": "jaclyn-taroni",
@@ -80,13 +92,17 @@
     {
       "affiliation": "University of Pennsylvania",
       "affiliation_number": 4
+    },
+    {
+      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
+      "affiliation_number": 5
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "29870e2c533f808aea553ca59907e8d0d6b3ba6c"
+    "commit": "a46991c65da6f003667c592221d863cc795a9d31"
   },
   "manuscript_stats": {
     "reference_counts": {

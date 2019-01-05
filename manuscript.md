@@ -4,6 +4,7 @@ author-meta:
 - Casey Greene
 - Daniel Himmelstein
 - Trang Le
+- Luca Pinello
 - Jaclyn Taroni
 date-meta: '2019-01-05'
 keywords:
@@ -24,9 +25,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/29870e2c533f808aea553ca59907e8d0d6b3ba6c/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/a46991c65da6f003667c592221d863cc795a9d31/))
 was automatically generated
-from [dhimmel/psb-manuscript@29870e2](https://github.com/dhimmel/psb-manuscript/tree/29870e2c533f808aea553ca59907e8d0d6b3ba6c)
+from [dhimmel/psb-manuscript@a46991c](https://github.com/dhimmel/psb-manuscript/tree/a46991c65da6f003667c592221d863cc795a9d31)
 on January 5, 2019.
 </em></small>
 
@@ -76,6 +77,17 @@ on January 5, 2019.
     [trang1618](https://twitter.com/trang1618)<br>
   <small>
      University of Pennsylvania
+  </small>
+
++ **Luca Pinello**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0003-1109-3823](https://orcid.org/0000-0003-1109-3823)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [pinellolab](https://github.com/pinellolab)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [lucapinello](https://twitter.com/lucapinello)<br>
+  <small>
+     Massachusetts General Hospital/ Harvard Medical School
   </small>
 
 + **Jaclyn Taroni**<br>
