@@ -9813,6 +9813,43 @@
     "id": "7V2oCvtf"
   },
   {
+    "publisher": "WORLD SCIENTIFIC",
+    "DOI": "10.1142/9789814447331_0049",
+    "type": "paper-conference",
+    "source": "Crossref",
+    "title": "EDGAR: Extraction of Drugs, Genes And Relations from the Biomedical Literature",
+    "author": [
+      {
+        "given": "Thomas C.",
+        "family": "Rindflesch"
+      },
+      {
+        "given": "Lorraine",
+        "family": "Tanabe"
+      },
+      {
+        "given": "John N.",
+        "family": "Weinstein"
+      },
+      {
+        "given": "Lawrence",
+        "family": "Hunter"
+      }
+    ],
+    "event": "Proceedings of the Pacific Symposium",
+    "container-title": "Biocomputing 2000",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          12
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfsptq",
+    "id": "mFhozBp8"
+  },
+  {
     "publisher": "Springer Nature",
     "issue": "1",
     "DOI": "10.1186/s13073-017-0417-1",

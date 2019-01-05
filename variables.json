@@ -40,6 +40,20 @@
       ]
     },
     {
+      "name": "Lawrence Hunter",
+      "orcid": "0000-0003-1455-3370",
+      "github": "LEHunter",
+      "twitter": "ProfLHunter",
+      "affiliations": [
+        "University of Colorado Anschutz School of Medicine",
+        "University of Colorado Boulder"
+      ],
+      "affiliation_numbers": [
+        4,
+        5
+      ]
+    },
+    {
       "name": "Trang Le",
       "orcid": "0000-0003-3737-6565",
       "github": "trang1618",
@@ -48,7 +62,7 @@
         "University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        4
+        6
       ]
     },
     {
@@ -60,7 +74,7 @@
         "Massachusetts General Hospital/ Harvard Medical School"
       ],
       "affiliation_numbers": [
-        5
+        7
       ]
     },
     {
@@ -90,29 +104,37 @@
       "affiliation_number": 3
     },
     {
-      "affiliation": "University of Pennsylvania",
+      "affiliation": "University of Colorado Anschutz School of Medicine",
       "affiliation_number": 4
     },
     {
-      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
+      "affiliation": "University of Colorado Boulder",
       "affiliation_number": 5
+    },
+    {
+      "affiliation": "University of Pennsylvania",
+      "affiliation_number": 6
+    },
+    {
+      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
+      "affiliation_number": 7
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "a46991c65da6f003667c592221d863cc795a9d31"
+    "commit": "b90a7385f00e52945a48bdf0b4da5f109d7a4c4a"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
-      "doi": 16,
+      "doi": 17,
       "pmcid": 1,
       "pmid": 2,
       "url": 2,
-      "total": 22
+      "total": 23
     },
-    "word_count": 2240
+    "word_count": 2277
   }
 }

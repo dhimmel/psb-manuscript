@@ -3,6 +3,7 @@ author-meta:
 - Weixuan Fu
 - Casey Greene
 - Daniel Himmelstein
+- Lawrence Hunter
 - Trang Le
 - Luca Pinello
 - Jaclyn Taroni
@@ -25,9 +26,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/a46991c65da6f003667c592221d863cc795a9d31/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/b90a7385f00e52945a48bdf0b4da5f109d7a4c4a/))
 was automatically generated
-from [dhimmel/psb-manuscript@a46991c](https://github.com/dhimmel/psb-manuscript/tree/a46991c65da6f003667c592221d863cc795a9d31)
+from [dhimmel/psb-manuscript@b90a738](https://github.com/dhimmel/psb-manuscript/tree/b90a7385f00e52945a48bdf0b4da5f109d7a4c4a)
 on January 5, 2019.
 </em></small>
 
@@ -66,6 +67,17 @@ on January 5, 2019.
     [dhimmel](https://twitter.com/dhimmel)<br>
   <small>
      Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania
+  </small>
+
++ **Lawrence Hunter**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0003-1455-3370](https://orcid.org/0000-0003-1455-3370)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [LEHunter](https://github.com/LEHunter)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [ProfLHunter](https://twitter.com/ProfLHunter)<br>
+  <small>
+     University of Colorado Anschutz School of Medicine; University of Colorado Boulder
   </small>
 
 + **Trang Le**<br>
@@ -449,7 +461,11 @@ text = parsed["content"]
 
 <!-- Lawrence Hunter -->
 
+### Lawrence Hunter 
 
+I'm a cofounder of the [PSB conference](http://psb.stanford.edu), and a professor at the University of Colorado School of Medicine.
+You can find information about my lab at <http://compbio.ucdenver.edu/Hunter>.
+One of my early papers is @mFhozBp8.
 
 <!-- Shantanu Jain -->
 
