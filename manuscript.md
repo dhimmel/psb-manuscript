@@ -4,6 +4,7 @@ author-meta:
 - Casey Greene
 - Daniel Himmelstein
 - Trang Le
+- Jaclyn Taroni
 date-meta: '2019-01-05'
 keywords:
 - manubot
@@ -23,9 +24,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/d2b2c08da1c54be7fde487c38bde0f17048df20a/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/3c59fbd655f785c36bf70d2c39ebaf7308daa2f0/))
 was automatically generated
-from [dhimmel/psb-manuscript@d2b2c08](https://github.com/dhimmel/psb-manuscript/tree/d2b2c08da1c54be7fde487c38bde0f17048df20a)
+from [dhimmel/psb-manuscript@3c59fbd](https://github.com/dhimmel/psb-manuscript/tree/3c59fbd655f785c36bf70d2c39ebaf7308daa2f0)
 on January 5, 2019.
 </em></small>
 
@@ -75,6 +76,17 @@ on January 5, 2019.
     [trang1618](https://twitter.com/trang1618)<br>
   <small>
      University of Pennsylvania
+  </small>
+
++ **Jaclyn Taroni**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0003-4734-4508](https://orcid.org/0000-0003-4734-4508)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [jaclyn-taroni](https://github.com/jaclyn-taroni)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [jaclyn_taroni](https://twitter.com/jaclyn_taroni)<br>
+  <small>
+     Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation
   </small>
 
 
@@ -795,8 +807,13 @@ This is an improved version of my main figure in this interesting study [@ih7MBG
 
 
 <!-- Jaclyn Taroni -->
+### Jaclyn Taroni
 
-
+I'm a data scientist at the [Childhood Cancer Data Lab](https://www.ccdatalab.org) (CCDL), an initiative of [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org).
+I'm interested in how diverse collections of publicly available transcriptomic data can help us learn about the biology of rare diseases. 
+As a graduate student, I studied systemic sclerosis [@1Av3x1pnk].
+In the [PSB 2019 Text Mining and Machine Learning for Precision Medicine Workshop](https://healthlanguageprocessing.org/psb-2019-tm-ml-pm-workshop/), I'll present our MultiPLIER project [@1GtRgPRxn].
+With the CCDL, I've been working on [refine.bio](https://www.refine.bio), a project for uniformly processing transcriptomic data from multiple species.
 
 <!-- Gunjan Thakur -->
 

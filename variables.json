@@ -50,6 +50,18 @@
       "affiliation_numbers": [
         4
       ]
+    },
+    {
+      "name": "Jaclyn Taroni",
+      "orcid": "0000-0003-4734-4508",
+      "github": "jaclyn-taroni",
+      "twitter": "jaclyn_taroni",
+      "affiliations": [
+        "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation"
+      ],
+      "affiliation_numbers": [
+        3
+      ]
     }
   ],
   "affiliations": [
@@ -74,17 +86,17 @@
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "d2b2c08da1c54be7fde487c38bde0f17048df20a"
+    "commit": "3c59fbd655f785c36bf70d2c39ebaf7308daa2f0"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
-      "doi": 15,
+      "doi": 16,
       "pmcid": 1,
       "pmid": 1,
       "url": 2,
-      "total": 20
+      "total": 21
     },
-    "word_count": 1964
+    "word_count": 2052
   }
 }

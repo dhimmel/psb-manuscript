@@ -9813,6 +9813,81 @@
     "id": "7V2oCvtf"
   },
   {
+    "publisher": "Springer Nature",
+    "issue": "1",
+    "DOI": "10.1186/s13073-017-0417-1",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "A novel multi-network approach reveals tissue-specific cellular modulators of fibrosis in systemic sclerosis",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Jaclyn N.",
+        "family": "Taroni"
+      },
+      {
+        "given": "Casey S.",
+        "family": "Greene"
+      },
+      {
+        "given": "Viktor",
+        "family": "Martyanov"
+      },
+      {
+        "given": "Tammara A.",
+        "family": "Wood"
+      },
+      {
+        "given": "Romy B.",
+        "family": "Christmann"
+      },
+      {
+        "given": "Harrison W.",
+        "family": "Farber"
+      },
+      {
+        "given": "Robert A.",
+        "family": "Lafyatis"
+      },
+      {
+        "given": "Christopher P.",
+        "family": "Denton"
+      },
+      {
+        "given": "Monique E.",
+        "family": "Hinchcliff"
+      },
+      {
+        "given": "Patricia A.",
+        "family": "Pioli"
+      },
+      {
+        "given": "J. Matthew",
+        "family": "Mahoney"
+      },
+      {
+        "given": "Michael L.",
+        "family": "Whitfield"
+      }
+    ],
+    "container-title": "Genome Medicine",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          23
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfsptx",
+    "container-title-short": "Genome Med",
+    "PMCID": "PMC5363043",
+    "PMID": "28330499",
+    "id": "1Av3x1pnk"
+  },
+  {
     "publisher": "eLife Sciences Publications, Ltd",
     "abstract": "<jats:p>The ability to computationally predict whether a compound treats a disease would improve the economy and success rate of drug approval. This study describes Project Rephetio to systematically model drug efficacy based on 755 existing treatments. First, we constructed Hetionet (neo4j.het.io), an integrative network encoding knowledge from millions of biomedical studies. Hetionet v1.0 consists of 47,031 nodes of 11 types and 2,250,197 relationships of 24 types. Data were integrated from 29 public resources to connect compounds, diseases, genes, anatomies, pathways, biological processes, molecular functions, cellular components, pharmacologic classes, side effects, and symptoms. Next, we identified network patterns that distinguish treatments from non-treatments. Then, we predicted the probability of treatment for 209,168 compound–disease pairs (het.io/repurpose). Our predictions validated on two external sets of treatment and provided pharmacological insights on epilepsy, suggesting they will help prioritize drug repurposing candidates. This study was entirely open and received realtime feedback from 40 community members.</jats:p>",
     "DOI": "10.7554/elife.26726",
