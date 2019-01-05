@@ -399,12 +399,11 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - Distributed Bio
-# - name: Qiwen Hu
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - University of Pennsylvania
+- name: Qiwen Hu
+  github: huqiwen0313
+  twitter: qiwen_hu
+  affiliations:
+  - "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania"
 # - name: Zhiyue Hu
 #   orcid: null
 #   github: null
