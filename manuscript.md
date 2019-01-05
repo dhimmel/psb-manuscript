@@ -30,9 +30,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/2135f86e1e7eeda5cb846416a96f6a29362cdc97/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/8b47c734fc4d35ef164919317b0ed04e748c6d04/))
 was automatically generated
-from [dhimmel/psb-manuscript@2135f86](https://github.com/dhimmel/psb-manuscript/tree/2135f86e1e7eeda5cb846416a96f6a29362cdc97)
+from [dhimmel/psb-manuscript@8b47c73](https://github.com/dhimmel/psb-manuscript/tree/8b47c734fc4d35ef164919317b0ed04e748c6d04)
 on January 5, 2019.
 </em></small>
 
@@ -611,9 +611,10 @@ Check out the Github repo for this study [here](https://github.com/insilico/priv
   $$a^p \equiv a \mod p$$
   Anyone recognize this theorem?
 - And a figure with a caption:
-![
-Participants tended to have older brain-predicted age when given placebo.
-](https://s3.amazonaws.com/media-p.slid.es/uploads/909204/images/5547949/fig2.png){#fig:ibuBrainAGE width="80%"}
+
+  ![
+    Participants tended to have older brain-predicted age when given placebo.
+  ](https://s3.amazonaws.com/media-p.slid.es/uploads/909204/images/5547949/fig2.png){#fig:ibuBrainAGE width="80%"}
 
 This is an improved version of my main figure in this interesting study [@ih7MBGjv].
 
