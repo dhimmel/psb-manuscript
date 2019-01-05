@@ -10137,6 +10137,94 @@
     "id": "XJuQlZl1"
   },
   {
+    "title": "CRISPR-SURF: discovering regulatory elements by deconvolution of CRISPR tiling screen data.",
+    "volume": "15",
+    "issue": "12",
+    "page": "992-993",
+    "container-title": "Nature methods",
+    "container-title-short": "Nat. Methods",
+    "ISSN": "1548-7105",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Jonathan Y",
+        "family": "Hsu"
+      },
+      {
+        "given": "Charles P",
+        "family": "Fulco"
+      },
+      {
+        "given": "Mitchel A",
+        "family": "Cole"
+      },
+      {
+        "given": "Matthew C",
+        "family": "Canver"
+      },
+      {
+        "given": "Danilo",
+        "family": "Pellin"
+      },
+      {
+        "given": "Falak",
+        "family": "Sher"
+      },
+      {
+        "given": "Rick",
+        "family": "Farouni"
+      },
+      {
+        "given": "Kendell",
+        "family": "Clement"
+      },
+      {
+        "given": "Jimmy A",
+        "family": "Guo"
+      },
+      {
+        "given": "Luca",
+        "family": "Biasco"
+      },
+      {
+        "given": "Stuart H",
+        "family": "Orkin"
+      },
+      {
+        "given": "Jesse M",
+        "family": "Engreitz"
+      },
+      {
+        "given": "Eric S",
+        "family": "Lander"
+      },
+      {
+        "given": "J Keith",
+        "family": "Joung"
+      },
+      {
+        "given": "Daniel E",
+        "family": "Bauer"
+      },
+      {
+        "given": "Luca",
+        "family": "Pinello"
+      }
+    ],
+    "PMID": "30504875",
+    "DOI": "10.1038/s41592-018-0225-6",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/30504875",
+    "type": "article-journal",
+    "id": "WXZIineW"
+  },
+  {
     "type": "webpage",
     "title": "Open collaborative writing with Manubot",
     "URL": "https://greenelab.github.io/meta-review/",

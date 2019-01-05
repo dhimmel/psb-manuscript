@@ -24,9 +24,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/3c59fbd655f785c36bf70d2c39ebaf7308daa2f0/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/29870e2c533f808aea553ca59907e8d0d6b3ba6c/))
 was automatically generated
-from [dhimmel/psb-manuscript@3c59fbd](https://github.com/dhimmel/psb-manuscript/tree/3c59fbd655f785c36bf70d2c39ebaf7308daa2f0)
+from [dhimmel/psb-manuscript@29870e2](https://github.com/dhimmel/psb-manuscript/tree/29870e2c533f808aea553ca59907e8d0d6b3ba6c)
 on January 5, 2019.
 </em></small>
 
@@ -676,6 +676,15 @@ This is an improved version of my main figure in this interesting study [@ih7MBG
 
 <!-- Luca Pinello -->
 
+Aloah from the [Pinello Lab!](http://pinellolab.org/)
+
+I am a computational biologist studying the role of chromatin structure/dynamics and non-coding regions including enhancers, promoters, insulators and their role in gene regulation. 
+The mission of my lab is the integration of omics data to explore and better understand the functional mechanisms of the non-coding genome and to provide accessible tools for the community to accelerate discovery in this field. 
+The long-term goal of my research is to develop innovative computational approaches and to use cutting-edge experimental assays, such as single cell and genome editing, to systematically analyze sources of genetic and epigenetic variation that affect gene regulation in different human traits and diseases. 
+I believe this will further our understanding of disease etiology involving these poorly characterized regions and will provide a foundation for the development of new drugs and more targeted treatments.
+
+I am excited to share during the workshop [Reading between the genes: Interpreting noncoding DNA in high throughput](http://lussierlab.net/pacific-symposium-2019/index.html) a new computational methods we have recently developed to analyze CRISPR tiling screen called CRISPR-SURF. 
+You can read more on the manuscript that was recently published in Nature Methods [@WXZIineW]. 
 
 
 <!-- Niranjani Prasad -->
