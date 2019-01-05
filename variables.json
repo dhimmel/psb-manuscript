@@ -2,6 +2,18 @@
   "date": "January 5, 2019",
   "authors": [
     {
+      "name": "Weixuan Fu",
+      "orcid": "0000-0002-6434-5468",
+      "github": "weixuanfu",
+      "twitter": "weixuanfu",
+      "affiliations": [
+        "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania"
+      ],
+      "affiliation_numbers": [
+        1
+      ]
+    },
+    {
       "name": "Casey Greene",
       "orcid": "0000-0001-8713-9213",
       "github": "cgreene",
@@ -11,8 +23,8 @@
         "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation"
       ],
       "affiliation_numbers": [
-        1,
-        2
+        2,
+        3
       ]
     },
     {
@@ -24,7 +36,7 @@
         "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        1
+        2
       ]
     },
     {
@@ -36,39 +48,43 @@
         "University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        3
+        4
       ]
     }
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania",
+      "affiliation": "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania",
       "affiliation_number": 1
     },
     {
-      "affiliation": "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation",
+      "affiliation": "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania",
       "affiliation_number": 2
     },
     {
-      "affiliation": "University of Pennsylvania",
+      "affiliation": "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation",
       "affiliation_number": 3
+    },
+    {
+      "affiliation": "University of Pennsylvania",
+      "affiliation_number": 4
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "7760da8381cf48568f96ca5ad180f0c09d19f9e5"
+    "commit": "d2b2c08da1c54be7fde487c38bde0f17048df20a"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
-      "doi": 14,
+      "doi": 15,
       "pmcid": 1,
       "pmid": 1,
       "url": 2,
-      "total": 19
+      "total": 20
     },
-    "word_count": 1889
+    "word_count": 1964
   }
 }

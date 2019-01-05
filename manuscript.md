@@ -1,5 +1,6 @@
 ---
 author-meta:
+- Weixuan Fu
 - Casey Greene
 - Daniel Himmelstein
 - Trang Le
@@ -22,15 +23,26 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/7760da8381cf48568f96ca5ad180f0c09d19f9e5/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/d2b2c08da1c54be7fde487c38bde0f17048df20a/))
 was automatically generated
-from [dhimmel/psb-manuscript@7760da8](https://github.com/dhimmel/psb-manuscript/tree/7760da8381cf48568f96ca5ad180f0c09d19f9e5)
+from [dhimmel/psb-manuscript@d2b2c08](https://github.com/dhimmel/psb-manuscript/tree/d2b2c08da1c54be7fde487c38bde0f17048df20a)
 on January 5, 2019.
 </em></small>
 
 ## Authors
 
 
+
++ **Weixuan Fu**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0002-6434-5468](https://orcid.org/0000-0002-6434-5468)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [weixuanfu](https://github.com/weixuanfu)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [weixuanfu](https://twitter.com/weixuanfu)<br>
+  <small>
+     Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania
+  </small>
 
 + **Casey Greene**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
@@ -282,6 +294,12 @@ More information on the tool and its inception is available in the project manus
 
 <!-- Weixuan Fu -->
 
+### Weixuan Fu
+
+Aloha, I'm in the [Institute for Biomedical Informatics (IBI)](http://upibi.org/) at the University of Pennsylvania and the developer of [TPOT](https://github.com/EpistasisLab/tpot) and PennAI [@MARd00zz].
+
+My main interest of research is developing automated machine learning tools for the analysis of large scale biomedical/sequencing data.
+Besides that, I am working on optimizing analysis pipeline of predicting neoantigen specifically presented in tumor cells using DNA and RNA sequencing data, for designing personalized neoantigen vaccines in cancer immunotherapies.
 
 
 <!-- Tetsu Furukawa -->
@@ -485,7 +503,7 @@ text = parsed["content"]
 ### Trang Le
 
 Hello from the [Moore lab](http://epistasis.org/) at the University of Pennsylvania!
-I'm [a mathematician](http://lelaboratoire.github.io) who's currently excited about automated machine learning. 
+I'm [a mathematician](http://lelaboratoire.github.io) who's currently excited about automated machine learning.
 
 Here goes the self-citations:
 

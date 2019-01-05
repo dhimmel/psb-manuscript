@@ -37,6 +37,66 @@
     "id": "10GH4uYUR"
   },
   {
+    "publisher": "Springer International Publishing",
+    "DOI": "10.1007/978-3-319-90512-9_8",
+    "type": "chapter",
+    "page": "121-134",
+    "source": "Crossref",
+    "title": "A System for Accessible Artificial Intelligence",
+    "author": [
+      {
+        "given": "Randal S.",
+        "family": "Olson"
+      },
+      {
+        "given": "Moshe",
+        "family": "Sipper"
+      },
+      {
+        "given": "William La",
+        "family": "Cava"
+      },
+      {
+        "given": "Sharon",
+        "family": "Tartarone"
+      },
+      {
+        "given": "Steven",
+        "family": "Vitale"
+      },
+      {
+        "given": "Weixuan",
+        "family": "Fu"
+      },
+      {
+        "given": "Patryk",
+        "family": "Orzechowski"
+      },
+      {
+        "given": "Ryan J.",
+        "family": "Urbanowicz"
+      },
+      {
+        "given": "John H.",
+        "family": "Holmes"
+      },
+      {
+        "given": "Jason H.",
+        "family": "Moore"
+      }
+    ],
+    "container-title": "Genetic Programming Theory and Practice XV",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfsptm",
+    "id": "MARd00zz"
+  },
+  {
     "publisher": "Elsevier BV",
     "issue": "10",
     "DOI": "10.1016/j.bpsc.2018.05.002",
