@@ -418,12 +418,10 @@ author_info:
   affiliations:
    - University of Colorado Anschutz School of Medicine
    - University of Colorado Boulder
-# - name: Shantanu Jain
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Northeastern University
+- name: Shantanu Jain
+  github: shajain
+  affiliations:
+  - Northeastern University
 # - name: Yuexu Jiang
 #   orcid: null
 #   github: null
