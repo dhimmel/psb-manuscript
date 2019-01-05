@@ -417,12 +417,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - University of Colorado
-# - name: Shantanu Jain
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Northeastern University
+- name: Shantanu Jain
+orcid: null
+github: github.com/shajain
+twitter: null
+affiliations:
+- Northeastern University
 # - name: Yuexu Jiang
 #   orcid: null
 #   github: null
