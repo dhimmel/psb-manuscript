@@ -4,6 +4,7 @@ author-meta:
 - Casey Greene
 - Daniel Himmelstein
 - Lawrence Hunter
+- Shantanu Jain
 - Trang Le
 - Luca Pinello
 - Jaclyn Taroni
@@ -28,9 +29,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/110c48c30cd8ac598c86046d32123455b525a4cb/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a/))
 was automatically generated
-from [dhimmel/psb-manuscript@110c48c](https://github.com/dhimmel/psb-manuscript/tree/110c48c30cd8ac598c86046d32123455b525a4cb)
+from [dhimmel/psb-manuscript@f57f6c1](https://github.com/dhimmel/psb-manuscript/tree/f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a)
 on January 5, 2019.
 </em></small>
 
@@ -80,6 +81,13 @@ on January 5, 2019.
     [ProfLHunter](https://twitter.com/ProfLHunter)<br>
   <small>
      University of Colorado Anschutz School of Medicine; University of Colorado Boulder
+  </small>
+
++ **Shantanu Jain**<br>
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [shajain](https://github.com/shajain)<br>
+  <small>
+     Northeastern University
   </small>
 
 + **Trang Le**<br>
@@ -493,7 +501,10 @@ One of my early papers is @mFhozBp8.
 
 <!-- Shantanu Jain -->
 
+### Shantanu Jain
 
+Hi this is Shantanu.
+My research area is positive unalabeled learning
 
 <!-- Yuexu Jiang -->
 

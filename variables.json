@@ -54,6 +54,16 @@
       ]
     },
     {
+      "name": "Shantanu Jain",
+      "github": "shajain",
+      "affiliations": [
+        "Northeastern University"
+      ],
+      "affiliation_numbers": [
+        6
+      ]
+    },
+    {
       "name": "Trang Le",
       "orcid": "0000-0003-3737-6565",
       "github": "trang1618",
@@ -62,7 +72,7 @@
         "University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        6
+        7
       ]
     },
     {
@@ -74,7 +84,7 @@
         "Massachusetts General Hospital/ Harvard Medical School"
       ],
       "affiliation_numbers": [
-        7
+        8
       ]
     },
     {
@@ -100,9 +110,9 @@
         "Centre for Molecular Medicine and Therapeutics"
       ],
       "affiliation_numbers": [
-        8,
         9,
-        10
+        10,
+        11
       ]
     },
     {
@@ -114,7 +124,7 @@
         "Stanford University"
       ],
       "affiliation_numbers": [
-        11
+        12
       ]
     }
   ],
@@ -140,35 +150,39 @@
       "affiliation_number": 5
     },
     {
-      "affiliation": "University of Pennsylvania",
+      "affiliation": "Northeastern University",
       "affiliation_number": 6
     },
     {
-      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
+      "affiliation": "University of Pennsylvania",
       "affiliation_number": 7
     },
     {
-      "affiliation": "The University of British Columbia, Vancouver, Canada",
+      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
       "affiliation_number": 8
     },
     {
-      "affiliation": "BC Children\u2019s Hospital Research Institute",
+      "affiliation": "The University of British Columbia, Vancouver, Canada",
       "affiliation_number": 9
     },
     {
-      "affiliation": "Centre for Molecular Medicine and Therapeutics",
+      "affiliation": "BC Children\u2019s Hospital Research Institute",
       "affiliation_number": 10
     },
     {
-      "affiliation": "Stanford University",
+      "affiliation": "Centre for Molecular Medicine and Therapeutics",
       "affiliation_number": 11
+    },
+    {
+      "affiliation": "Stanford University",
+      "affiliation_number": 12
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "110c48c30cd8ac598c86046d32123455b525a4cb"
+    "commit": "f57f6c12fd382dafa0f00e0b0d6e21b2cfab0e1a"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -179,6 +193,6 @@
       "url": 2,
       "total": 27
     },
-    "word_count": 2465
+    "word_count": 2479
   }
 }
