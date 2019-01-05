@@ -26,9 +26,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/b90a7385f00e52945a48bdf0b4da5f109d7a4c4a/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/62c3b899c3bc57a0893ffba7cef341ba50e9e284/))
 was automatically generated
-from [dhimmel/psb-manuscript@b90a738](https://github.com/dhimmel/psb-manuscript/tree/b90a7385f00e52945a48bdf0b4da5f109d7a4c4a)
+from [dhimmel/psb-manuscript@62c3b89](https://github.com/dhimmel/psb-manuscript/tree/62c3b899c3bc57a0893ffba7cef341ba50e9e284)
 on January 5, 2019.
 </em></small>
 
@@ -704,6 +704,8 @@ This is an improved version of my main figure in this interesting study [@ih7MBG
 
 <!-- Luca Pinello -->
 
+### Luca Pinello
+
 Aloah from the [Pinello Lab!](http://pinellolab.org/)
 
 I am a computational biologist studying the role of chromatin structure/dynamics and non-coding regions including enhancers, promoters, insulators and their role in gene regulation. 
@@ -713,7 +715,6 @@ I believe this will further our understanding of disease etiology involving thes
 
 I am excited to share during the workshop [Reading between the genes: Interpreting noncoding DNA in high throughput](http://lussierlab.net/pacific-symposium-2019/index.html) a new computational methods we have recently developed to analyze CRISPR tiling screen called CRISPR-SURF. 
 You can read more on the manuscript that was recently published in Nature Methods [@WXZIineW]. 
-
 
 <!-- Niranjani Prasad -->
 
@@ -844,6 +845,7 @@ You can read more on the manuscript that was recently published in Nature Method
 
 
 <!-- Jaclyn Taroni -->
+
 ### Jaclyn Taroni
 
 I'm a data scientist at the [Childhood Cancer Data Lab](https://www.ccdatalab.org) (CCDL), an initiative of [Alex's Lemonade Stand Foundation](https://www.alexslemonade.org).

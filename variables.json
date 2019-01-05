@@ -124,7 +124,7 @@
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "b90a7385f00e52945a48bdf0b4da5f109d7a4c4a"
+    "commit": "62c3b899c3bc57a0893ffba7cef341ba50e9e284"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -135,6 +135,6 @@
       "url": 2,
       "total": 23
     },
-    "word_count": 2277
+    "word_count": 2280
   }
 }
