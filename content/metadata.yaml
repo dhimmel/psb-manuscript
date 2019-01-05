@@ -982,12 +982,14 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - Stanford University
-# - name: Robin van der Lee
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - The University of British Columbia
+- name: Robin van der Lee
+  orcid: 0000-0001-7391-9438
+  github: robinvanderlee
+  twitter: robinvdlee
+  affiliations:
+  - The University of British Columbia, Vancouver, Canada
+  - BC Children’s Hospital Research Institute
+  - Centre for Molecular Medicine and Therapeutics
 # - name: Maya Varma
 #   orcid: null
 #   github: null
