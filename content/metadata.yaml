@@ -549,12 +549,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - Pusan National University
-# - name: Binglan Li
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - University of Pennsylvania
+- name: Binglan Li
+  orcid: null
+  github: BinglanLi
+  twitter: victoria_bll
+  affiliations:
+  - University of Pennsylvania
 # - name: Haiquan Li
 #   orcid: null
 #   github: null
