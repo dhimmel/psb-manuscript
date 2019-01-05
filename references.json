@@ -10266,6 +10266,112 @@
     "id": "XJuQlZl1"
   },
   {
+    "title": "Integrative Genomics-Based Discovery of Novel Regulators of the Innate Antiviral Response.",
+    "volume": "11",
+    "issue": "10",
+    "page": "e1004553",
+    "container-title": "PLoS computational biology",
+    "container-title-short": "PLoS Comput. Biol.",
+    "ISSN": "1553-7358",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          20
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Robin",
+        "family": "van der Lee"
+      },
+      {
+        "given": "Qian",
+        "family": "Feng"
+      },
+      {
+        "given": "Martijn A",
+        "family": "Langereis"
+      },
+      {
+        "given": "Rob",
+        "family": "Ter Horst"
+      },
+      {
+        "given": "Radek",
+        "family": "Szklarczyk"
+      },
+      {
+        "given": "Mihai G",
+        "family": "Netea"
+      },
+      {
+        "given": "Arno C",
+        "family": "Andeweg"
+      },
+      {
+        "given": "Frank J M",
+        "family": "van Kuppeveld"
+      },
+      {
+        "given": "Martijn A",
+        "family": "Huynen"
+      }
+    ],
+    "PMID": "26485378",
+    "PMCID": "PMC4618338",
+    "DOI": "10.1371/journal.pcbi.1004553",
+    "abstract": "The RIG-I-like receptor (RLR) pathway is essential for detecting cytosolic viral RNA to trigger the production of type I interferons (IFNα/β) that initiate an innate antiviral response. Through systematic assessment of a wide variety of genomics data, we discovered 10 molecular signatures of known RLR pathway components that collectively predict novel members. We demonstrate that RLR pathway genes, among others, tend to evolve rapidly, interact with viral proteins, contain a limited set of protein domains, are regulated by specific transcription factors, and form a tightly connected interaction network. Using a Bayesian approach to integrate these signatures, we propose likely novel RLR regulators. RNAi knockdown experiments revealed a high prediction accuracy, identifying 94 genes among 187 candidates tested (~50%) that affected viral RNA-induced production of IFNβ. The discovered antiviral regulators may participate in a wide range of processes that highlight the complexity of antiviral defense (e.g. MAP3K11, CDK11B, PSMA3, TRIM14, HSPA9B, CDC37, NUP98, G3BP1), and include uncharacterized factors (DDX17, C6orf58, C16orf57, PKN2, SNW1). Our validated RLR pathway list (http://rlr.cmbi.umcn.nl/), obtained using a combination of integrative genomics and experiments, is a new resource for innate antiviral immunity research. ",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/26485378",
+    "type": "article-journal",
+    "id": "6zDUsoSA"
+  },
+  {
+    "title": "Genome-scale detection of positive selection in nine primates predicts human-virus evolutionary conflicts.",
+    "volume": "45",
+    "issue": "18",
+    "page": "10634-10648",
+    "container-title": "Nucleic acids research",
+    "container-title-short": "Nucleic Acids Res.",
+    "ISSN": "1362-4962",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          10,
+          13
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Robin",
+        "family": "van der Lee"
+      },
+      {
+        "given": "Laurens",
+        "family": "Wiel"
+      },
+      {
+        "given": "Teunis J P",
+        "family": "van Dam"
+      },
+      {
+        "given": "Martijn A",
+        "family": "Huynen"
+      }
+    ],
+    "PMID": "28977405",
+    "PMCID": "PMC5737536",
+    "DOI": "10.1093/nar/gkx704",
+    "abstract": "Hotspots of rapid genome evolution hold clues about human adaptation. We present a comparative analysis of nine whole-genome sequenced primates to identify high-confidence targets of positive selection. We find strong statistical evidence for positive selection in 331 protein-coding genes (3%), pinpointing 934 adaptively evolving codons (0.014%). Our new procedure is stringent and reveals substantial artefacts (20% of initial predictions) that have inflated previous estimates. The final 331 positively selected genes (PSG) are strongly enriched for innate and adaptive immunity, secreted and cell membrane proteins (e.g. pattern recognition, complement, cytokines, immune receptors, MHC, Siglecs). We also find evidence for positive selection in reproduction and chromosome segregation (e.g. centromere-associated CENPO, CENPT), apolipoproteins, smell/taste receptors and mitochondrial proteins. Focusing on the virus-host interaction, we retrieve most evolutionary conflicts known to influence antiviral activity (e.g. TRIM5, MAVS, SAMHD1, tetherin) and predict 70 novel cases through integration with virus-human interaction data. Protein structure analysis further identifies positive selection in the interaction interfaces between viruses and their cellular receptors (CD4-HIV; CD46-measles, adenoviruses; CD55-picornaviruses). Finally, primate PSG consistently show high sequence variation in human exomes, suggesting ongoing evolution. Our curated dataset of positive selection is a rich source for studying the genetics underlying human (antiviral) phenotypes. Procedures and data are available at https://github.com/robinvanderlee/positive-selection.",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/28977405",
+    "type": "article-journal",
+    "id": "Myj0Ouv5"
+  },
+  {
     "title": "CRISPR-SURF: discovering regulatory elements by deconvolution of CRISPR tiling screen data.",
     "volume": "15",
     "issue": "12",

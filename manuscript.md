@@ -27,9 +27,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/c3fd119b1fd3d0fb591b43b171d4c5794c041240/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/bc6a48a7d424be4913e76e73d7b3c4901542a37b/))
 was automatically generated
-from [dhimmel/psb-manuscript@c3fd119](https://github.com/dhimmel/psb-manuscript/tree/c3fd119b1fd3d0fb591b43b171d4c5794c041240)
+from [dhimmel/psb-manuscript@bc6a48a](https://github.com/dhimmel/psb-manuscript/tree/bc6a48a7d424be4913e76e73d7b3c4901542a37b)
 on January 5, 2019.
 </em></small>
 
@@ -896,7 +896,20 @@ With the CCDL, I've been working on [refine.bio](https://www.refine.bio), a proj
 
 <!-- Robin van der Lee -->
 
+### Robin van der Lee
 
+Hi! I'm a post-doc with Wyeth Wasserman at UBC, Vancouver, Canada.
+Info about the lab can be found at <http://www.cisreg.ca> and <https://github.com/wassermanlab>.
+
+My PhD work was on integrative omics to discover genes involved in immunity [@6zDUsoSA].
+I also did some work on comparative genomics of primate genomes, finding that rapidly evolving genes are predictive of virus-human interactions [@Myj0Ouv5].
+
+In my post-doc work, I am developing methods for interpreting regulatory genomic variants based on alterations to transcription factor binding motifs.
+Some of that work is on **poster 71**, which I will present on Saturday 5 January 2018 at the PSB meeting.
+
+![
+This is the header of the poster I'll present here under its CC BY 4.0 License.
+](https://www.dropbox.com/s/am79upv58g788ua/Robin-van-der-Lee_Poster_Pacific_Symposium_on_Biocomputing_PSB_2019__MANTA-RAE_poster_header.jpg){width="100%"}
 
 <!-- Maya Varma -->
 
