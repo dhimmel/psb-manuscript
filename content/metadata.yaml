@@ -933,12 +933,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - University of Texas
-# - name: Jaclyn Taroni
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Alex's Lemonade Stand Foundation
+- name: Jaclyn Taroni
+  orcid: 0000-0003-4734-4508
+  github: jaclyn-taroni
+  twitter: jaclyn_taroni
+  affiliations:
+  - "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation"
 # - name: Gunjan Thakur
 #   orcid: null
 #   github: null
