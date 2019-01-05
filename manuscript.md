@@ -2,7 +2,7 @@
 author-meta:
 - Daniel Himmelstein
 - Trang Le
-date-meta: '2019-01-04'
+date-meta: '2019-01-05'
 keywords:
 - manubot
 - tutorial
@@ -21,10 +21,10 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/fd127607be80331185e0b3326a15890202acdcdc/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/72a915711eacc18dd2bf60c0690144615374b6d8/))
 was automatically generated
-from [dhimmel/psb-manuscript@fd12760](https://github.com/dhimmel/psb-manuscript/tree/fd127607be80331185e0b3326a15890202acdcdc)
-on January 4, 2019.
+from [dhimmel/psb-manuscript@72a9157](https://github.com/dhimmel/psb-manuscript/tree/72a915711eacc18dd2bf60c0690144615374b6d8)
+on January 5, 2019.
 </em></small>
 
 ## Authors
@@ -470,19 +470,18 @@ Here goes the self-citations:
 - My first (first-author) scholarly publication: Differential privacy-based evaporative cooling feature selection and classification with relief-F and random forests [@hUoMaAJ6].
 Check out the Github repo for this study [here](https://github.com/insilico/privateEC).
 - Code snippet I'm most proud of:
-```
-M = dec2bin(0:2^(n*n)-1,n*n)
-```
-I will be impressed if you could tell what the language is.
-This is my answer to a question on [Math StackExchange](https://math.stackexchange.com/questions/1943862/matlab-code-for-an-array-consisting-of-matrices/1943923#1943923).
-I have too many favorite mathematical equations, but here's one:
-
-$$a^p \equiv a (mod p)$$
-Anyone recognize this theorem?
+  ```
+  M = dec2bin(0:2^(n*n)-1,n*n)
+  ```
+  I will be impressed if you could tell what the language is.
+  This is my answer to a question on [Math StackExchange](https://math.stackexchange.com/questions/1943862/matlab-code-for-an-array-consisting-of-matrices/1943923#1943923).
+- I have too many favorite mathematical equations, but here's one:
+  $$a^p \equiv a \mod p$$
+  Anyone recognize this theorem?
 - And a figure with a caption:
 ![
 Participants tended to have older brain-predicted age when given placebo.
-](https://s3.amazonaws.com/media-p.slid.es/uploads/909204/images/5547949/fig2.png){#fig:ibuBrainAGE width="100%"}
+](https://s3.amazonaws.com/media-p.slid.es/uploads/909204/images/5547949/fig2.png){#fig:ibuBrainAGE width="80%"}
 
 This is an improved version of my main figure in this interesting study [@ih7MBGjv].
 
