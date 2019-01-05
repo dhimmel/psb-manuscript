@@ -735,12 +735,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - UCLA
-# - name: Luca Pinello
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Massachusetts General Hospital/ Harvard Medical School
+- name: Luca Pinello
+  orcid: 0000-0003-1109-3823
+  github: pinellolab
+  twitter: lucapinello
+  affiliations:
+  - Massachusetts General Hospital/ Harvard Medical School
 # - name: Niranjani Prasad
 #   orcid: null
 #   github: null
