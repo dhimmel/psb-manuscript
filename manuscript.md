@@ -7,6 +7,7 @@ author-meta:
 - Trang Le
 - Luca Pinello
 - Jaclyn Taroni
+- Robin van der Lee
 - Ryan Whaley
 date-meta: '2019-01-05'
 keywords:
@@ -27,9 +28,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/bc6a48a7d424be4913e76e73d7b3c4901542a37b/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/432bb599550d824a40e2dcbdfff2bdd40c5c3c58/))
 was automatically generated
-from [dhimmel/psb-manuscript@bc6a48a](https://github.com/dhimmel/psb-manuscript/tree/bc6a48a7d424be4913e76e73d7b3c4901542a37b)
+from [dhimmel/psb-manuscript@432bb59](https://github.com/dhimmel/psb-manuscript/tree/432bb599550d824a40e2dcbdfff2bdd40c5c3c58)
 on January 5, 2019.
 </em></small>
 
@@ -112,6 +113,17 @@ on January 5, 2019.
     [jaclyn_taroni](https://twitter.com/jaclyn_taroni)<br>
   <small>
      Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation
+  </small>
+
++ **Robin van der Lee**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0001-7391-9438](https://orcid.org/0000-0001-7391-9438)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [robinvanderlee](https://github.com/robinvanderlee)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [robinvdlee](https://twitter.com/robinvdlee)<br>
+  <small>
+     The University of British Columbia, Vancouver, Canada; BC Children’s Hospital Research Institute; Centre for Molecular Medicine and Therapeutics
   </small>
 
 + **Ryan Whaley**<br>

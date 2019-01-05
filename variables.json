@@ -90,6 +90,22 @@
       ]
     },
     {
+      "name": "Robin van der Lee",
+      "orcid": "0000-0001-7391-9438",
+      "github": "robinvanderlee",
+      "twitter": "robinvdlee",
+      "affiliations": [
+        "The University of British Columbia, Vancouver, Canada",
+        "BC Children\u2019s Hospital Research Institute",
+        "Centre for Molecular Medicine and Therapeutics"
+      ],
+      "affiliation_numbers": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
       "name": "Ryan Whaley",
       "orcid": "0000-0002-8810-3893",
       "github": "whaleyr",
@@ -98,7 +114,7 @@
         "Stanford University"
       ],
       "affiliation_numbers": [
-        8
+        11
       ]
     }
   ],
@@ -132,15 +148,27 @@
       "affiliation_number": 7
     },
     {
-      "affiliation": "Stanford University",
+      "affiliation": "The University of British Columbia, Vancouver, Canada",
       "affiliation_number": 8
+    },
+    {
+      "affiliation": "BC Children\u2019s Hospital Research Institute",
+      "affiliation_number": 9
+    },
+    {
+      "affiliation": "Centre for Molecular Medicine and Therapeutics",
+      "affiliation_number": 10
+    },
+    {
+      "affiliation": "Stanford University",
+      "affiliation_number": 11
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "bc6a48a7d424be4913e76e73d7b3c4901542a37b"
+    "commit": "432bb599550d824a40e2dcbdfff2bdd40c5c3c58"
   },
   "manuscript_stats": {
     "reference_counts": {
