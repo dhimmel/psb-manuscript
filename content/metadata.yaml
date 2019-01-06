@@ -111,11 +111,11 @@ author_info:
 #   affiliations:
 #   - Case Western Reserve University
 - name: J. Brian Byrd
-orcid: 0000-0002-0509-3520
-github: https://github.com/byrdjb
-twitter: @thebyrdlab
-affiliations:
-- University of Michigan Medical School
+  orcid: 0000-0002-0509-3520
+  github: https://github.com/byrdjb
+  twitter: @thebyrdlab
+  affiliations:
+  - University of Michigan Medical School
 # - name: Bin Chen
 #   orcid: null
 #   github: null
