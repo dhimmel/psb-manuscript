@@ -9881,6 +9881,59 @@
   },
   {
     "publisher": "WORLD SCIENTIFIC",
+    "DOI": "10.1142/9789813279827_0027",
+    "type": "paper-conference",
+    "source": "Crossref",
+    "title": "Influence of tissue context on gene prioritization for predicted transcriptome-wide association studies",
+    "author": [
+      {
+        "given": "Binglan",
+        "family": "Li"
+      },
+      {
+        "given": "Yogasudha",
+        "family": "Veturi"
+      },
+      {
+        "given": "Yuki",
+        "family": "Bradford"
+      },
+      {
+        "given": "Shefali S.",
+        "family": "Verma"
+      },
+      {
+        "given": "Anurag",
+        "family": "Verma"
+      },
+      {
+        "given": "Anastasia M.",
+        "family": "Lucas"
+      },
+      {
+        "given": "David W.",
+        "family": "Haas"
+      },
+      {
+        "given": "Marylyn D.",
+        "family": "Ritchie"
+      }
+    ],
+    "event": "Proceedings of the Pacific Symposium",
+    "container-title": "Biocomputing 2019",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfsqxj",
+    "id": "9B8DWkq3"
+  },
+  {
+    "publisher": "WORLD SCIENTIFIC",
     "DOI": "10.1142/9789814447331_0049",
     "type": "paper-conference",
     "source": "Crossref",

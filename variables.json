@@ -99,6 +99,18 @@
       ]
     },
     {
+      "name": "Binglan Li",
+      "orcid": null,
+      "github": "BinglanLi",
+      "twitter": "victoria_bll",
+      "affiliations": [
+        "University of Pennsylvania"
+      ],
+      "affiliation_numbers": [
+        8
+      ]
+    },
+    {
       "name": "Luca Pinello",
       "orcid": "0000-0003-1109-3823",
       "github": "pinellolab",
@@ -209,17 +221,17 @@
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "fb3ff5aff7a0f34a73d96ed152ac148378e38ee5"
+    "commit": "338da2645e1942c549815dfa248627d35a7853b0"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 2,
-      "doi": 19,
+      "doi": 20,
       "pmcid": 1,
       "pmid": 7,
       "url": 2,
-      "total": 31
+      "total": 32
     },
-    "word_count": 2683
+    "word_count": 2893
   }
 }

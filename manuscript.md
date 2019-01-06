@@ -8,6 +8,7 @@ author-meta:
 - Lawrence Hunter
 - Shantanu Jain
 - Trang Le
+- Binglan Li
 - Luca Pinello
 - Jaclyn Taroni
 - Robin van der Lee
@@ -31,9 +32,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/fb3ff5aff7a0f34a73d96ed152ac148378e38ee5/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/338da2645e1942c549815dfa248627d35a7853b0/))
 was automatically generated
-from [dhimmel/psb-manuscript@fb3ff5a](https://github.com/dhimmel/psb-manuscript/tree/fb3ff5aff7a0f34a73d96ed152ac148378e38ee5)
+from [dhimmel/psb-manuscript@338da26](https://github.com/dhimmel/psb-manuscript/tree/338da2645e1942c549815dfa248627d35a7853b0)
 on January 6, 2019.
 </em></small>
 
@@ -119,6 +120,17 @@ on January 6, 2019.
     [trang1618](https://github.com/trang1618)
     · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
     [trang1618](https://twitter.com/trang1618)<br>
+  <small>
+     University of Pennsylvania
+  </small>
+
++ **Binglan Li**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [None](https://orcid.org/None)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [BinglanLi](https://github.com/BinglanLi)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [victoria_bll](https://twitter.com/victoria_bll)<br>
   <small>
      University of Pennsylvania
   </small>
@@ -656,7 +668,44 @@ This is an improved version of my main figure in this interesting study [@ih7MBG
 
 <!-- Binglan Li -->
 
+### Binglan Li
 
+Greeting from the [Ritchie Lab](http://ritchielab.org/) at the University of Pennsylvania.
+I am a third year graduate student in the Genomics and Computational Biology programe and interested in prioritization of drug response-related gene via data integration approaches. 
+
+I am still on the early part of research journey.
+But I would love to share my latest work published in the PSB 2019 proceedings 2019.
+
+- Influence of tissue context on gene prioritization for predicted transcriptome-wide association studies [@9B8DWkq3].
+
+- Code snippet I'm most proud of:
+```
+############################################
+## Menu
+## 1. Food Preparation
+## 1.1. Load Necessary Libraries and Scripts
+## 1.2. Define Parameters
+## 2. Appetizers
+## 2.1. Data Simulation
+## 2.2. eQTL Detection
+## 3. Entree/Main Course
+## 3.1. Run single-tissue TWAS
+## 3.2. Run integrative TWAS
+## 3.3. Evaluate Power and Type I Error Rate of TWAS Results
+## 4. Dessert
+## 4.1. None. Sorry this is a healthy (aka anti-sweet) restaurant.
+############################################
+
+## actual code
+set.seed(random_seed, kind = "L'Ecuyer-CMRG")
+```
+
+- Here is a plot about minor allele frequency of the eQTLs in the GTEx v7 whole blood tissue.
+Please pretend that you do see a title in the figure.
+
+![
+Minor allele frequency of eQTLs in the GTEx v7 whole blood tissue.
+](https://user-images.githubusercontent.com/1117703/50731107-cd16b380-1100-11e9-930c-3a23cb4a0ec9.png){#fig:binglan width="50%"}
 
 <!-- Haiquan Li -->
 
