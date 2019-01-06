@@ -31,9 +31,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/2ea416d837fd16a41e513f219f3230ce0ecf33c8/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/fb3ff5aff7a0f34a73d96ed152ac148378e38ee5/))
 was automatically generated
-from [dhimmel/psb-manuscript@2ea416d](https://github.com/dhimmel/psb-manuscript/tree/2ea416d837fd16a41e513f219f3230ce0ecf33c8)
+from [dhimmel/psb-manuscript@fb3ff5a](https://github.com/dhimmel/psb-manuscript/tree/fb3ff5aff7a0f34a73d96ed152ac148378e38ee5)
 on January 6, 2019.
 </em></small>
 
@@ -539,8 +539,12 @@ One of my early papers is @mFhozBp8.
 
 ### Shantanu Jain
 
-Hi this is Shantanu.
-My research area is positive unalabeled learning
+Hi all, I am very excited to be here attending PSB.
+I am a research scientist at Northeastern University.
+I am broadly interested in Machine learning methods.
+During my Ph.D., I worked on positive unlabeled learning.
+I am most proud about my research on non parametric estimation of class priors from positive and unlabeled data [@BYxifaL7].
+I have started learning about Causal Inference lately and I am interested in applying it to Biological datasets.
 
 <!-- Yuexu Jiang -->
 

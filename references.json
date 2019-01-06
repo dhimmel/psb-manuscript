@@ -1,5 +1,39 @@
 [
   {
+    "number": "1601.01944v1",
+    "version": "1",
+    "URL": "https://arxiv.org/abs/1601.01944v1",
+    "title": "Nonparametric semi-supervised learning of class proportions",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          8
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "Shantanu Jain"
+      },
+      {
+        "literal": "Martha White"
+      },
+      {
+        "literal": "Michael W. Trosset"
+      },
+      {
+        "literal": "Predrag Radivojac"
+      }
+    ],
+    "container-title": "arXiv",
+    "publisher": "arXiv",
+    "abstract": "The problem of developing binary classifiers from positive and unlabeled data\nis often encountered in machine learning. A common requirement in this setting\nis to approximate posterior probabilities of positive and negative classes for\na previously unseen data point. This problem can be decomposed into two steps:\n(i) the development of accurate predictors that discriminate between positive\nand unlabeled data, and (ii) the accurate estimation of the prior probabilities\nof positive and negative examples. In this work we primarily focus on the\nlatter subproblem. We study nonparametric class prior estimation and formulate\nthis problem as an estimation of mixing proportions in two-component mixture\nmodels, given a sample from one of the components and another sample from the\nmixture itself. We show that estimation of mixing proportions is generally\nill-defined and propose a canonical form to obtain identifiability while\nmaintaining the flexibility to model any distribution. We use insights from\nthis theory to elucidate the optimization surface of the class priors and\npropose an algorithm for estimating them. To address the problems of\nhigh-dimensional density estimation, we provide practical transformations to\nlow-dimensional spaces that preserve class priors. Finally, we demonstrate the\nefficacy of our method on univariate and multivariate data.",
+    "type": "report",
+    "id": "BYxifaL7"
+  },
+  {
     "number": "1806.05726v1",
     "version": "1",
     "URL": "https://arxiv.org/abs/1806.05726v1",
