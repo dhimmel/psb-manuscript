@@ -1,5 +1,6 @@
 ---
 author-meta:
+- J. Brian Byrd
 - Weixuan Fu
 - Casey Greene
 - Daniel Himmelstein
@@ -30,15 +31,26 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/c2d54af3abe2c9ade3077fd193974d5d82e99802/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/2ea416d837fd16a41e513f219f3230ce0ecf33c8/))
 was automatically generated
-from [dhimmel/psb-manuscript@c2d54af](https://github.com/dhimmel/psb-manuscript/tree/c2d54af3abe2c9ade3077fd193974d5d82e99802)
+from [dhimmel/psb-manuscript@2ea416d](https://github.com/dhimmel/psb-manuscript/tree/2ea416d837fd16a41e513f219f3230ce0ecf33c8)
 on January 6, 2019.
 </em></small>
 
 ## Authors
 
 
+
++ **J. Brian Byrd**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0002-0509-3520](https://orcid.org/0000-0002-0509-3520)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [byrdjb](https://github.com/byrdjb)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [thebyrdlab](https://twitter.com/thebyrdlab)<br>
+  <small>
+     University of Michigan Medical School
+  </small>
 
 + **Weixuan Fu**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}

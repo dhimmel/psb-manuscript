@@ -2,6 +2,18 @@
   "date": "January 6, 2019",
   "authors": [
     {
+      "name": "J. Brian Byrd",
+      "orcid": "0000-0002-0509-3520",
+      "github": "byrdjb",
+      "twitter": "thebyrdlab",
+      "affiliations": [
+        "University of Michigan Medical School"
+      ],
+      "affiliation_numbers": [
+        1
+      ]
+    },
+    {
       "name": "Weixuan Fu",
       "orcid": "0000-0002-6434-5468",
       "github": "weixuanfu",
@@ -10,7 +22,7 @@
         "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        1
+        2
       ]
     },
     {
@@ -23,8 +35,8 @@
         "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation"
       ],
       "affiliation_numbers": [
-        2,
-        3
+        3,
+        4
       ]
     },
     {
@@ -36,7 +48,7 @@
         "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        2
+        3
       ]
     },
     {
@@ -47,7 +59,7 @@
         "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        2
+        3
       ]
     },
     {
@@ -60,8 +72,8 @@
         "University of Colorado Boulder"
       ],
       "affiliation_numbers": [
-        4,
-        5
+        5,
+        6
       ]
     },
     {
@@ -71,7 +83,7 @@
         "Northeastern University"
       ],
       "affiliation_numbers": [
-        6
+        7
       ]
     },
     {
@@ -83,7 +95,7 @@
         "University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        7
+        8
       ]
     },
     {
@@ -95,7 +107,7 @@
         "Massachusetts General Hospital/ Harvard Medical School"
       ],
       "affiliation_numbers": [
-        8
+        9
       ]
     },
     {
@@ -107,7 +119,7 @@
         "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation"
       ],
       "affiliation_numbers": [
-        3
+        4
       ]
     },
     {
@@ -121,9 +133,9 @@
         "Centre for Molecular Medicine and Therapeutics"
       ],
       "affiliation_numbers": [
-        9,
         10,
-        11
+        11,
+        12
       ]
     },
     {
@@ -135,65 +147,69 @@
         "Stanford University"
       ],
       "affiliation_numbers": [
-        12
+        13
       ]
     }
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania",
+      "affiliation": "University of Michigan Medical School",
       "affiliation_number": 1
     },
     {
-      "affiliation": "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania",
+      "affiliation": "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania",
       "affiliation_number": 2
     },
     {
-      "affiliation": "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation",
+      "affiliation": "Department of Systems Pharmacology & Translational Therapeutics, University of Pennsylvania",
       "affiliation_number": 3
     },
     {
-      "affiliation": "University of Colorado Anschutz School of Medicine",
+      "affiliation": "Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation",
       "affiliation_number": 4
     },
     {
-      "affiliation": "University of Colorado Boulder",
+      "affiliation": "University of Colorado Anschutz School of Medicine",
       "affiliation_number": 5
     },
     {
-      "affiliation": "Northeastern University",
+      "affiliation": "University of Colorado Boulder",
       "affiliation_number": 6
     },
     {
-      "affiliation": "University of Pennsylvania",
+      "affiliation": "Northeastern University",
       "affiliation_number": 7
     },
     {
-      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
+      "affiliation": "University of Pennsylvania",
       "affiliation_number": 8
     },
     {
-      "affiliation": "The University of British Columbia, Vancouver, Canada",
+      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
       "affiliation_number": 9
     },
     {
-      "affiliation": "BC Children\u2019s Hospital Research Institute",
+      "affiliation": "The University of British Columbia, Vancouver, Canada",
       "affiliation_number": 10
     },
     {
-      "affiliation": "Centre for Molecular Medicine and Therapeutics",
+      "affiliation": "BC Children\u2019s Hospital Research Institute",
       "affiliation_number": 11
     },
     {
-      "affiliation": "Stanford University",
+      "affiliation": "Centre for Molecular Medicine and Therapeutics",
       "affiliation_number": 12
+    },
+    {
+      "affiliation": "Stanford University",
+      "affiliation_number": 13
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "c2d54af3abe2c9ade3077fd193974d5d82e99802"
+    "commit": "2ea416d837fd16a41e513f219f3230ce0ecf33c8"
   },
   "manuscript_stats": {
     "reference_counts": {
