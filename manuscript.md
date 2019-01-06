@@ -11,7 +11,7 @@ author-meta:
 - Jaclyn Taroni
 - Robin van der Lee
 - Ryan Whaley
-date-meta: '2019-01-05'
+date-meta: '2019-01-06'
 keywords:
 - manubot
 - tutorial
@@ -30,10 +30,10 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/8b47c734fc4d35ef164919317b0ed04e748c6d04/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/c2d54af3abe2c9ade3077fd193974d5d82e99802/))
 was automatically generated
-from [dhimmel/psb-manuscript@8b47c73](https://github.com/dhimmel/psb-manuscript/tree/8b47c734fc4d35ef164919317b0ed04e748c6d04)
-on January 5, 2019.
+from [dhimmel/psb-manuscript@c2d54af](https://github.com/dhimmel/psb-manuscript/tree/c2d54af3abe2c9ade3077fd193974d5d82e99802)
+on January 6, 2019.
 </em></small>
 
 ## Authors
@@ -261,6 +261,14 @@ More information on the tool and its inception is available in the project manus
 <!-- William Bush -->
 
 
+
+<!-- J. Brian Byrd -->
+
+### J. Brian Byrd
+
+I'm a physician-scientist at the University of Michigan.
+My laboratory focuses on identifying novel biomarkers for a clinically important subtype of high blood pressure, called primary aldosteronism.
+Our principal interest is in detecting the transcriptional activity of the mineralocorticoid receptor [@GGRHirwN].
 
 <!-- Bin Chen -->
 

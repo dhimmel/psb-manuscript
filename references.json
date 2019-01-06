@@ -10459,6 +10459,59 @@
     "id": "Myj0Ouv5"
   },
   {
+    "title": "Human Urinary mRNA as a Biomarker of Cardiovascular Disease.",
+    "volume": "11",
+    "issue": "9",
+    "page": "e002213",
+    "container-title": "Circulation. Genomic and precision medicine",
+    "container-title-short": "Circ Genom Precis Med",
+    "ISSN": "2574-8300",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Brian G",
+        "family": "Bazzell"
+      },
+      {
+        "given": "William E",
+        "family": "Rainey"
+      },
+      {
+        "given": "Richard J",
+        "family": "Auchus"
+      },
+      {
+        "given": "Davide",
+        "family": "Zocco"
+      },
+      {
+        "given": "Marco",
+        "family": "Bruttini"
+      },
+      {
+        "given": "Scott L",
+        "family": "Hummel"
+      },
+      {
+        "given": "James Brian",
+        "family": "Byrd"
+      }
+    ],
+    "PMID": "30354328",
+    "DOI": "10.1161/circgen.118.002213",
+    "abstract": "Background mRNA in urine supernatant (US-mRNA) might encode information about renal and cardiorenal pathophysiology, including hypertension. H, whether the US-mRNA transcriptome reflects that of renal tissues and whether changes in renal physiology are detectable using US-mRNA is unknown. Methods We compared transcriptomes of human urinary extracellular vesicles and human renal cortex. To avoid similarities attributable to ubiquitously expressed genes, we separately analyzed ubiquitously expressed and highly kidney-enriched genes. To determine whether US-mRNA reflects changes in renal gene expression, we assayed cell-depleted urine for transcription factor activity of mineralocorticoid receptors (MR) using probe-based quantitative polymerase chain reaction. The urine was collected from prehypertensive individuals (n=18) after 4 days on low-sodium diet to stimulate MR activity and again after suppression of MR activity via sodium infusion. Results In comparing this US-mRNA and human kidney cortex, expression of 55 highly kidney-enriched genes correlated strongly (r",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/30354328",
+    "type": "article-journal",
+    "id": "GGRHirwN"
+  },
+  {
     "title": "CRISPR-SURF: discovering regulatory elements by deconvolution of CRISPR tiling screen data.",
     "volume": "15",
     "issue": "12",
@@ -10624,7 +10677,7 @@
         [
           "2019",
           1,
-          5
+          6
         ]
       ]
     },

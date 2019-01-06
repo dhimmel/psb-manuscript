@@ -1,5 +1,5 @@
 {
-  "date": "January 5, 2019",
+  "date": "January 6, 2019",
   "authors": [
     {
       "name": "Weixuan Fu",
@@ -193,17 +193,17 @@
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "8b47c734fc4d35ef164919317b0ed04e748c6d04"
+    "commit": "c2d54af3abe2c9ade3077fd193974d5d82e99802"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 1,
       "doi": 19,
       "pmcid": 1,
-      "pmid": 6,
+      "pmid": 7,
       "url": 2,
-      "total": 29
+      "total": 30
     },
-    "word_count": 2570
+    "word_count": 2620
   }
 }
