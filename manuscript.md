@@ -36,9 +36,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/74a21d9cc2bb0075aabe0aa682bd612311449597/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/830e13d9b3b01d97454cdd90f43aaaad132b14d1/))
 was automatically generated
-from [dhimmel/psb-manuscript@74a21d9](https://github.com/dhimmel/psb-manuscript/tree/74a21d9cc2bb0075aabe0aa682bd612311449597)
+from [dhimmel/psb-manuscript@830e13d](https://github.com/dhimmel/psb-manuscript/tree/830e13d9b3b01d97454cdd90f43aaaad132b14d1)
 on January 7, 2019.
 </em></small>
 
@@ -1214,6 +1214,14 @@ I've contributed to PharmGKB [@3NKcTIrb], CPIC [@1EYG4hAqR], and other PGx conso
 
 
 <!-- the end -->
+
+## Afterword
+
+Thanks to everyone who contributed and helped prototype Manubot for massively collaborative, open writing.
+We'd like to especially acknowledge [Anthony Gitter](https://github.com/agitter), who was not at the conference, but remotely reviewed proposed changes.
+We'd also like to acknowledge the Sloan Foundation, whose [support](https://sloan.org/grant-detail/8501) made this working group possible.
+
+![Sunset from the Western shore of the Big Island, Hawaii](images/turtles.jpg){#fig:turtles}
 
 
 ## References {.page_break_before}
