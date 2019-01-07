@@ -36,9 +36,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/581cbdd48f044ed180b0b9aa4b40f2da102960bb/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/6a49ed54d66524dd0f9eaba90308ebdc38983e6b/))
 was automatically generated
-from [dhimmel/psb-manuscript@581cbdd](https://github.com/dhimmel/psb-manuscript/tree/581cbdd48f044ed180b0b9aa4b40f2da102960bb)
+from [dhimmel/psb-manuscript@6a49ed5](https://github.com/dhimmel/psb-manuscript/tree/6a49ed54d66524dd0f9eaba90308ebdc38983e6b)
 on January 7, 2019.
 </em></small>
 
@@ -190,7 +190,9 @@ on January 7, 2019.
      Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation
   </small>
 
-+ **Yihsuan Tsai**<br><br>
++ **Yihsuan Tsai**<br>
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [ShannonSzeto](https://github.com/ShannonSzeto)<br>
   <small>
      University of North Carolina at Chapel Hill
   </small>
