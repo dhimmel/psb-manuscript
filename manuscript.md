@@ -36,9 +36,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/830e13d9b3b01d97454cdd90f43aaaad132b14d1/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/357d509102adcc3f9807f42facde6334f36fe315/))
 was automatically generated
-from [dhimmel/psb-manuscript@830e13d](https://github.com/dhimmel/psb-manuscript/tree/830e13d9b3b01d97454cdd90f43aaaad132b14d1)
+from [dhimmel/psb-manuscript@357d509](https://github.com/dhimmel/psb-manuscript/tree/357d509102adcc3f9807f42facde6334f36fe315)
 on January 7, 2019.
 </em></small>
 
@@ -726,26 +726,26 @@ But I would love to share my latest work published in the PSB 2019 proceedings.
 - Influence of tissue context on gene prioritization for predicted transcriptome-wide association studies [@9B8DWkq3].
 
 - Code snippet I'm most proud of:
-    ```
-    ############################################
-    ## Menu
-    ## 1. Food Preparation
-    ## 1.1. Load Necessary Libraries and Scripts
-    ## 1.2. Define Parameters
-    ## 2. Appetizers
-    ## 2.1. Data Simulation
-    ## 2.2. eQTL Detection
-    ## 3. Entree/Main Course
-    ## 3.1. Run single-tissue TWAS
-    ## 3.2. Run integrative TWAS
-    ## 3.3. Evaluate Power and Type I Error Rate of TWAS Results
-    ## 4. Dessert
-    ## 4.1. None. Sorry this is a healthy (aka anti-sweet) restaurant.
-    ############################################
+  ```
+  ############################################
+  ## Menu
+  ## 1. Food Preparation
+  ## 1.1. Load Necessary Libraries and Scripts
+  ## 1.2. Define Parameters
+  ## 2. Appetizers
+  ## 2.1. Data Simulation
+  ## 2.2. eQTL Detection
+  ## 3. Entree/Main Course
+  ## 3.1. Run single-tissue TWAS
+  ## 3.2. Run integrative TWAS
+  ## 3.3. Evaluate Power and Type I Error Rate of TWAS Results
+  ## 4. Dessert
+  ## 4.1. None. Sorry this is a healthy (aka anti-sweet) restaurant.
+  ############################################
 
-    ## actual code
-    set.seed(random_seed, kind = "L'Ecuyer-CMRG")
-    ```
+  ## actual code
+  set.seed(random_seed, kind = "L'Ecuyer-CMRG")
+  ```
 
 - Here is a plot about minor allele frequency of the eQTLs in the GTEx v7 whole blood tissue.
 Please pretend that you do see a title in the figure.
