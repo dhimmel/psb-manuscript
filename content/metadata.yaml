@@ -651,12 +651,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - Altius Institute
- - name: Jason Miller
-   orcid: 0000-0002-1835-3512
-   github: git-jemiller
-   twitter: JEMgenes
-   affiliations:
-   - "Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania"
+- name: Jason Miller
+  orcid: 0000-0002-1835-3512
+  github: git-jemiller
+  twitter: JEMgenes
+  affiliations:
+  - "Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania"
 # - name: Stephen Montgomery
 #   orcid: null
 #   github: null
