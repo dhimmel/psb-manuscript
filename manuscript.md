@@ -36,9 +36,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/e1d4d284a09b4391be326c54a29b1aaf7c306342/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/74a21d9cc2bb0075aabe0aa682bd612311449597/))
 was automatically generated
-from [dhimmel/psb-manuscript@e1d4d28](https://github.com/dhimmel/psb-manuscript/tree/e1d4d284a09b4391be326c54a29b1aaf7c306342)
+from [dhimmel/psb-manuscript@74a21d9](https://github.com/dhimmel/psb-manuscript/tree/74a21d9cc2bb0075aabe0aa682bd612311449597)
 on January 7, 2019.
 </em></small>
 
@@ -566,12 +566,13 @@ text = parsed["content"]
 
 
 <!-- Qiwen Hu -->
+
 ### Qiwen Hu
 
 I'm a postdoc from [Greene Lab](http://www.greenelab.com/) at the University of Pennsylvania.
-My research focus on integrating different types of high-throughput sequencing data to find meaningful biological signals behind it.
+My research focuses on integrating different types of high-throughput sequencing data to find meaningful biological signals behind it.
 I developed machine learning and statistical approaches to identify regulatory elements that affect transcription and translation.
-I also developed machine learning-based methods to extract regulatory signals from addicted brain [@1m3Egymh], developmental tissues [@M0crDyWe] and cell-type signals from single-cell datasets.
+I also developed machine learning-based methods to extract regulatory signals from addicted brain [@1m3Egymh], developmental tissues [@M0crDyWe], and cell-type signals from single-cell datasets.
 
 This year at PSB, I will present our findings for analyzing single-cell data based on deep variation auto-encoders [@5CsWRjfp].
 
@@ -593,10 +594,10 @@ One of my early papers is @mFhozBp8.
 
 Hi all, I am very excited to be here attending PSB.
 I am a research scientist at Northeastern University.
-I am broadly interested in Machine learning methods.
+I am broadly interested in machine learning methods.
 During my Ph.D., I worked on positive unlabeled learning.
-I am most proud about my research on non parametric estimation of class priors from positive and unlabeled data [@BYxifaL7].
-I have started learning about Causal Inference lately and I am interested in applying it to Biological datasets.
+I am most proud about my research on nonparametric estimation of class priors from positive and unlabeled data [@BYxifaL7].
+I have started learning about Causal Inference lately and I am interested in applying it to biological datasets.
 
 <!-- Yuexu Jiang -->
 
@@ -719,39 +720,39 @@ This is an improved version of my main figure in this interesting study [@ih7MBG
 Greeting from the [Ritchie Lab](http://ritchielab.org/) at the University of Pennsylvania.
 I am a third year graduate student in the Genomics and Computational Biology programe and interested in prioritization of drug response-related gene via data integration approaches. 
 
-I am still on the early part of research journey.
-But I would love to share my latest work published in the PSB 2019 proceedings 2019.
+I am still on the early part of my research journey.
+But I would love to share my latest work published in the PSB 2019 proceedings.
 
 - Influence of tissue context on gene prioritization for predicted transcriptome-wide association studies [@9B8DWkq3].
 
 - Code snippet I'm most proud of:
-```
-############################################
-## Menu
-## 1. Food Preparation
-## 1.1. Load Necessary Libraries and Scripts
-## 1.2. Define Parameters
-## 2. Appetizers
-## 2.1. Data Simulation
-## 2.2. eQTL Detection
-## 3. Entree/Main Course
-## 3.1. Run single-tissue TWAS
-## 3.2. Run integrative TWAS
-## 3.3. Evaluate Power and Type I Error Rate of TWAS Results
-## 4. Dessert
-## 4.1. None. Sorry this is a healthy (aka anti-sweet) restaurant.
-############################################
+    ```
+    ############################################
+    ## Menu
+    ## 1. Food Preparation
+    ## 1.1. Load Necessary Libraries and Scripts
+    ## 1.2. Define Parameters
+    ## 2. Appetizers
+    ## 2.1. Data Simulation
+    ## 2.2. eQTL Detection
+    ## 3. Entree/Main Course
+    ## 3.1. Run single-tissue TWAS
+    ## 3.2. Run integrative TWAS
+    ## 3.3. Evaluate Power and Type I Error Rate of TWAS Results
+    ## 4. Dessert
+    ## 4.1. None. Sorry this is a healthy (aka anti-sweet) restaurant.
+    ############################################
 
-## actual code
-set.seed(random_seed, kind = "L'Ecuyer-CMRG")
-```
+    ## actual code
+    set.seed(random_seed, kind = "L'Ecuyer-CMRG")
+    ```
 
 - Here is a plot about minor allele frequency of the eQTLs in the GTEx v7 whole blood tissue.
 Please pretend that you do see a title in the figure.
 
-![
-Minor allele frequency of eQTLs in the GTEx v7 whole blood tissue.
-](https://user-images.githubusercontent.com/1117703/50731107-cd16b380-1100-11e9-930c-3a23cb4a0ec9.png){#fig:binglan width="50%"}
+    ![
+    Minor allele frequency of eQTLs in the GTEx v7 whole blood tissue.
+    ](https://user-images.githubusercontent.com/1117703/50731107-cd16b380-1100-11e9-930c-3a23cb4a0ec9.png){#fig:binglan width="50%"}
 
 <!-- Haiquan Li -->
 
@@ -823,11 +824,11 @@ Minor allele frequency of eQTLs in the GTEx v7 whole blood tissue.
 
 Hi, I'm a postdoctoral fellow from the [Ritchie lab](https://ritchielab.org) at the University of Pennsylvania. 
 
-I'm currently focussed on identifying how genetic variation leads to Alzheimer's disease through perturbation of gene regulatory mechanisms.
+I'm currently focused on identifying how genetic variation leads to Alzheimer's disease through perturbation of gene regulatory mechanisms.
 
 My favorite study from my career identified specific types of codon bias among synonymous variants, such as those related to codon optimality and frequency, that are associated with an Alzheimer's disease imaging endophenotype [@czfw16Ig].
 
-If you are interested, you can check out my github page [here](https://github.com/git-jemiller).
+If you are interested, you can check out my GitHub page [here](https://github.com/git-jemiller).
 
 <!-- Stephen Montgomery -->
 
@@ -893,7 +894,7 @@ The long-term goal of my research is to develop innovative computational approac
 I believe this will further our understanding of disease etiology involving these poorly characterized regions and will provide a foundation for the development of new drugs and more targeted treatments.
 
 I am excited to share during the workshop [Reading between the genes: Interpreting noncoding DNA in high throughput](http://lussierlab.net/pacific-symposium-2019/index.html) a new computational methods we have recently developed to analyze CRISPR tiling screen called CRISPR-SURF. 
-You can read more on the manuscript that was recently published in Nature Methods [@WXZIineW]. 
+You can read more on the manuscript that was recently published in _Nature Methods_ [@WXZIineW]. 
 
 <!-- Niranjani Prasad -->
 
@@ -1069,7 +1070,7 @@ With the CCDL, I've been working on [refine.bio](https://www.refine.bio), a proj
 ### Yihsuan Tsai (Shannon)
 
 This is Shannon from UNC at Chapel Hill.
-I'm a bioinformatics scientis at [UNC lineberger cancer center](https://lbc.unc.edu/). 
+I'm a bioinformatics scientist at [UNC lineberger cancer center](https://lbc.unc.edu/). 
 My recent research project could be found at PSB poster section #69.
 It's about using methylation data to predict tumor infiltrating lymphocytes, which is highly correlated with patient survival in Melanoma. 
 
