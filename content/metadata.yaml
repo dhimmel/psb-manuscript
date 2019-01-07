@@ -775,12 +775,12 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - Northeastern University
-# - name: Rashika Ramola
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - Northeastern University
+- name: Rashika Ramola
+  orcid: null
+  github: Rashika40
+  twitter: null
+  affiliations:
+  - Northeastern University
 # - name: Jayamary Divya Ravichandar
 #   orcid: null
 #   github: null
