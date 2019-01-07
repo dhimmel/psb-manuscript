@@ -10255,6 +10255,66 @@
         [
           2019,
           1,
+          7
+        ]
+      ]
+    },
+    "id": "czfw16Ig",
+    "title": "Codon bias among synonymous rare variants is associated with Alzheimer's disease imaging biomarker",
+    "author": [
+      {
+        "family": "Miller",
+        "given": "Jason E"
+      },
+      {
+        "family": "Shivakumar",
+        "given": "Manu K"
+      },
+      {
+        "family": "Risacher",
+        "given": "Shannon L"
+      },
+      {
+        "family": "Saykin",
+        "given": "Andrew J"
+      },
+      {
+        "family": "Lee",
+        "given": "Seunggeun"
+      },
+      {
+        "family": "Nho",
+        "given": "Kwangsik"
+      },
+      {
+        "family": "Kim",
+        "given": "Dokyoon"
+      }
+    ],
+    "container-title-short": "Pac Symp Biocomput",
+    "container-title": "Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing",
+    "ISSN": "2335-6928",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "365-376",
+    "volume": "23",
+    "PMID": "29218897",
+    "PMCID": "PMC5756629",
+    "type": "article-journal",
+    "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756629/"
+  },
+  {
+    "source": "PubMed",
+    "accessed": {
+      "date-parts": [
+        [
+          2019,
+          1,
           4
         ]
       ]
@@ -10764,7 +10824,7 @@
         [
           "2019",
           1,
-          6
+          7
         ]
       ]
     },

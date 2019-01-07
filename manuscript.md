@@ -9,11 +9,12 @@ author-meta:
 - Shantanu Jain
 - Trang Le
 - Binglan Li
+- Jason Miller
 - Luca Pinello
 - Jaclyn Taroni
 - Robin van der Lee
 - Ryan Whaley
-date-meta: '2019-01-06'
+date-meta: '2019-01-07'
 keywords:
 - manubot
 - tutorial
@@ -32,10 +33,10 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/338da2645e1942c549815dfa248627d35a7853b0/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/e10df0ea6b3f9c6712acecb01d79b0ac4d414438/))
 was automatically generated
-from [dhimmel/psb-manuscript@338da26](https://github.com/dhimmel/psb-manuscript/tree/338da2645e1942c549815dfa248627d35a7853b0)
-on January 6, 2019.
+from [dhimmel/psb-manuscript@e10df0e](https://github.com/dhimmel/psb-manuscript/tree/e10df0ea6b3f9c6712acecb01d79b0ac4d414438)
+on January 7, 2019.
 </em></small>
 
 ## Authors
@@ -133,6 +134,17 @@ on January 6, 2019.
     [victoria_bll](https://twitter.com/victoria_bll)<br>
   <small>
      University of Pennsylvania
+  </small>
+
++ **Jason Miller**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [0000-0002-1835-3512](https://orcid.org/0000-0002-1835-3512)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [git-jemiller](https://github.com/git-jemiller)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [JEMgenes](https://twitter.com/JEMgenes)<br>
+  <small>
+     Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania
   </small>
 
 + **Luca Pinello**<br>
@@ -773,7 +785,15 @@ Minor allele frequency of eQTLs in the GTEx v7 whole blood tissue.
 
 <!-- Jason Miller -->
 
+### Jason E. Miller
 
+Hi, I'm a postdoctoral fellow from the [Ritchie lab](https://ritchielab.org) at the University of Pennsylvania. 
+
+I'm currently focussed on identifying how genetic variation leads to Alzheimer's disease through perturbation of gene regulatory mechanisms.
+
+My favorite study from my career identified specific types of codon bias among synonymous variants, such as those related to codon optimality and frequency, that are associated with an Alzheimer's disease imaging endophenotype [@czfw16Ig].
+
+If you are interested, you can check out my github page [here](https://github.com/git-jemiller).
 
 <!-- Stephen Montgomery -->
 

@@ -1,5 +1,5 @@
 {
-  "date": "January 6, 2019",
+  "date": "January 7, 2019",
   "authors": [
     {
       "name": "J. Brian Byrd",
@@ -111,6 +111,18 @@
       ]
     },
     {
+      "name": "Jason Miller",
+      "orcid": "0000-0002-1835-3512",
+      "github": "git-jemiller",
+      "twitter": "JEMgenes",
+      "affiliations": [
+        "Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania"
+      ],
+      "affiliation_numbers": [
+        9
+      ]
+    },
+    {
       "name": "Luca Pinello",
       "orcid": "0000-0003-1109-3823",
       "github": "pinellolab",
@@ -119,7 +131,7 @@
         "Massachusetts General Hospital/ Harvard Medical School"
       ],
       "affiliation_numbers": [
-        9
+        10
       ]
     },
     {
@@ -145,9 +157,9 @@
         "Centre for Molecular Medicine and Therapeutics"
       ],
       "affiliation_numbers": [
-        10,
         11,
-        12
+        12,
+        13
       ]
     },
     {
@@ -159,7 +171,7 @@
         "Stanford University"
       ],
       "affiliation_numbers": [
-        13
+        14
       ]
     }
   ],
@@ -197,41 +209,45 @@
       "affiliation_number": 8
     },
     {
-      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
+      "affiliation": "Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania",
       "affiliation_number": 9
     },
     {
-      "affiliation": "The University of British Columbia, Vancouver, Canada",
+      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
       "affiliation_number": 10
     },
     {
-      "affiliation": "BC Children\u2019s Hospital Research Institute",
+      "affiliation": "The University of British Columbia, Vancouver, Canada",
       "affiliation_number": 11
     },
     {
-      "affiliation": "Centre for Molecular Medicine and Therapeutics",
+      "affiliation": "BC Children\u2019s Hospital Research Institute",
       "affiliation_number": 12
     },
     {
-      "affiliation": "Stanford University",
+      "affiliation": "Centre for Molecular Medicine and Therapeutics",
       "affiliation_number": 13
+    },
+    {
+      "affiliation": "Stanford University",
+      "affiliation_number": 14
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "338da2645e1942c549815dfa248627d35a7853b0"
+    "commit": "e10df0ea6b3f9c6712acecb01d79b0ac4d414438"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 2,
       "doi": 20,
-      "pmcid": 1,
+      "pmcid": 2,
       "pmid": 7,
       "url": 2,
-      "total": 32
+      "total": 33
     },
-    "word_count": 2893
+    "word_count": 2975
   }
 }
