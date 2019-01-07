@@ -7,6 +7,7 @@ string	citation	standard_citation	citation_id
 @doi:10.1016/j.celrep.2018.03.046	doi:10.1016/j.celrep.2018.03.046	doi:10.1016/j.celrep.2018.03.046	17XHtmqPY
 @doi:10.1016/j.celrep.2018.03.076	doi:10.1016/j.celrep.2018.03.076	doi:10.1016/j.celrep.2018.03.076	X6oQhIf8
 @doi:10.1016/j.cels.2017.06.003	doi:10.1016/j.cels.2017.06.003	doi:10.1016/j.cels.2017.06.003	Hlprh8TG
+@doi:10.1016/j.jid.2018.11.024	doi:10.1016/j.jid.2018.11.024	doi:10.1016/j.jid.2018.11.024	yKr4neGw
 @doi:10.1093/bioinformatics/btx298	doi:10.1093/bioinformatics/btx298	doi:10.1093/bioinformatics/btx298	hUoMaAJ6
 @doi:10.1098/rsif.2017.0387	doi:10.1098/rsif.2017.0387	doi:10.1098/rsif.2017.0387	PZMP42Ak
 @doi:10.1101/361816	doi:10.1101/361816	doi:10.1101/361816	M0crDyWe
@@ -27,9 +28,12 @@ string	citation	standard_citation	citation_id
 @pmcid:PMC5832410	pmcid:PMC5832410	pmcid:PMC5832410	vkig9eAb
 @pmid:21270786	pmid:21270786	pmid:21270786	1EYG4hAqR
 @pmid:22992668	pmid:22992668	pmid:22992668	3NKcTIrb
+@pmid:24667216	pmid:24667216	pmid:24667216	jk5tACP8
+@pmid:25749525	pmid:25749525	pmid:25749525	9sfG2U7T
 @pmid:26158728	pmid:26158728	pmid:26158728	XJuQlZl1
 @pmid:26485378	pmid:26485378	pmid:26485378	6zDUsoSA
 @pmid:28977405	pmid:28977405	pmid:28977405	Myj0Ouv5
+@pmid:29650561	pmid:29650561	pmid:29650561	r7HvVKdn
 @pmid:30354328	pmid:30354328	pmid:30354328	GGRHirwN
 @pmid:30504875	pmid:30504875	pmid:30504875	WXZIineW
 @url:https://greenelab.github.io/meta-review/	url:https://greenelab.github.io/meta-review/	url:https://greenelab.github.io/meta-review/	1GGGHdsew

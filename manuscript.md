@@ -35,9 +35,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/5f5b9df2f92c96e4b471f6d41160cf5e8a5123fc/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/5f8682229f49ff41ef778f44ef9d06efb51be17d/))
 was automatically generated
-from [dhimmel/psb-manuscript@5f5b9df](https://github.com/dhimmel/psb-manuscript/tree/5f5b9df2f92c96e4b471f6d41160cf5e8a5123fc)
+from [dhimmel/psb-manuscript@5f86822](https://github.com/dhimmel/psb-manuscript/tree/5f8682229f49ff41ef778f44ef9d06efb51be17d)
 on January 7, 2019.
 </em></small>
 
@@ -1058,7 +1058,19 @@ With the CCDL, I've been working on [refine.bio](https://www.refine.bio), a proj
 
 <!-- Yihsuan Tsai -->
 
+### Yihsuan Tsai (Shannon)
 
+This is Shannon from UNC at Chapel Hill.
+I'm a bioinformatics scientis at [UNC lineberger cancer center](https://lbc.unc.edu/). 
+My recent research project could be found at PSB poster section #69.
+It's about using methylation data to predict tumor infiltrating lymphocytes, which is highly correlated with patient survival in Melanoma. 
+
+Here are some of my publications:
+
+1. Meta-analysis of airway epithelium gene expression in asthma [@r7HvVKdn].
+2. Identification of a robust methylation classifier for cutaneous melanoma diagnosis [@yKr4neGw].
+3. Transcriptome-wide identification and study of cancer-specific splicing events across multiple tumors [@9sfG2U7T].
+4. Prevalent RNA recognition motif duplication in the human genome [@jk5tACP8].
 
 <!-- Brian Yik Tak Tsui -->
 

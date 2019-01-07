@@ -9457,6 +9457,105 @@
     "id": "Hlprh8TG"
   },
   {
+    "publisher": "Elsevier BV",
+    "DOI": "10.1016/j.jid.2018.11.024",
+    "type": "article-journal",
+    "source": "Crossref",
+    "title": "Identification of a robust methylation classifier for cutaneous melanoma diagnosis",
+    "author": [
+      {
+        "given": "Kathleen",
+        "family": "Conway"
+      },
+      {
+        "given": "Sharon N.",
+        "family": "Edmiston"
+      },
+      {
+        "given": "Joel S.",
+        "family": "Parker"
+      },
+      {
+        "given": "Pei Fen",
+        "family": "Kuan"
+      },
+      {
+        "given": "Yi-Hsuan",
+        "family": "Tsai"
+      },
+      {
+        "given": "Pamela A.",
+        "family": "Groben"
+      },
+      {
+        "given": "Daniel C.",
+        "family": "Zedek"
+      },
+      {
+        "given": "Glynis A.",
+        "family": "Scott"
+      },
+      {
+        "given": "Eloise A.",
+        "family": "Parrish"
+      },
+      {
+        "given": "Honglin",
+        "family": "Hao"
+      },
+      {
+        "given": "Michelle V.",
+        "family": "Pearlstein"
+      },
+      {
+        "given": "Jill S.",
+        "family": "Frank"
+      },
+      {
+        "given": "Craig C.",
+        "family": "Carson"
+      },
+      {
+        "given": "Matthew D.",
+        "family": "Wilkerson"
+      },
+      {
+        "given": "Xiaobei",
+        "family": "Zhao"
+      },
+      {
+        "given": "Nathaniel A.",
+        "family": "Slater"
+      },
+      {
+        "given": "Stergios J.",
+        "family": "Moschos"
+      },
+      {
+        "given": "David W.",
+        "family": "Ollila"
+      },
+      {
+        "given": "Nancy E.",
+        "family": "Thomas"
+      }
+    ],
+    "container-title": "Journal of Investigative Dermatology",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          12
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfsvbj",
+    "container-title-short": "Journal of Investigative Dermatology",
+    "PMID": "30529013",
+    "id": "yKr4neGw"
+  },
+  {
     "publisher": "Oxford University Press (OUP)",
     "issue": "18",
     "DOI": "10.1093/bioinformatics/btx298",
@@ -10574,6 +10673,88 @@
     "id": "3NKcTIrb"
   },
   {
+    "title": "Prevalent RNA recognition motif duplication in the human genome.",
+    "volume": "20",
+    "issue": "5",
+    "page": "702-12",
+    "container-title": "RNA (New York, N.Y.)",
+    "container-title-short": "RNA",
+    "ISSN": "1469-9001",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          3,
+          25
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yihsuan S",
+        "family": "Tsai"
+      },
+      {
+        "given": "Shawn M",
+        "family": "Gomez"
+      },
+      {
+        "given": "Zefeng",
+        "family": "Wang"
+      }
+    ],
+    "PMID": "24667216",
+    "PMCID": "PMC3988571",
+    "DOI": "10.1261/rna.044081.113",
+    "abstract": "The sequence-specific recognition of RNA by proteins is mediated through various RNA binding domains, with the RNA recognition motif (RRM) being the most frequent and present in >50% of RNA-binding proteins (RBPs). Many RBPs contain multiple RRMs, and it is unclear how each RRM contributes to the binding specificity of the entire protein. We found that RRMs within the same RBP (i.e., sibling RRMs) tend to have significantly higher similarity than expected by chance. Sibling RRM pairs from RBPs shared by multiple species tend to have lower similarity than those found only in a single species, suggesting that multiple RRMs within the same protein might arise from domain duplication followed by divergence through random mutations. This finding is exemplified by a recent RRM domain duplication in DAZ proteins and an ancient duplication in PABP proteins. Additionally, we found that different similarities between sibling RRMs are associated with distinct functions of an RBP and that the RBPs tend to contain repetitive sequences with low complexity. Taken together, this study suggests that the number of RBPs with multiple RRMs has expanded in mammals and that the multiple sibling RRMs may recognize similar target motifs in a cooperative manner. ",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/24667216",
+    "type": "article-journal",
+    "id": "jk5tACP8"
+  },
+  {
+    "title": "Transcriptome-wide identification and study of cancer-specific splicing events across multiple tumors.",
+    "volume": "6",
+    "issue": "9",
+    "page": "6825-39",
+    "container-title": "Oncotarget",
+    "container-title-short": "Oncotarget",
+    "ISSN": "1949-2553",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          3,
+          30
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yihsuan S",
+        "family": "Tsai"
+      },
+      {
+        "given": "Daniel",
+        "family": "Dominguez"
+      },
+      {
+        "given": "Shawn M",
+        "family": "Gomez"
+      },
+      {
+        "given": "Zefeng",
+        "family": "Wang"
+      }
+    ],
+    "PMID": "25749525",
+    "PMCID": "PMC4466652",
+    "DOI": "10.18632/oncotarget.3145",
+    "abstract": "Dysregulation of alternative splicing (AS) is one of the molecular hallmarks of cancer, with splicing alteration of numerous genes in cancer patients. However, studying splicing mis-regulation in cancer is complicated by the large noise generated from tissue-specific splicing. To obtain a global picture of cancer-specific splicing, we analyzed transcriptome sequencing data from 1149 patients in The Cancer Genome Atlas project, producing a core set of AS events significantly altered across multiple cancer types. These cancer-specific AS events are highly conserved, are more likely to maintain protein reading frame, and mainly function in cell cycle, cell adhesion/migration, and insulin signaling pathways. Furthermore, these events can serve as new molecular biomarkers to distinguish cancer from normal tissues, to separate cancer subtypes, and to predict patient survival. We also found that most genes whose expression is closely associated with cancer-specific splicing are key regulators of the cell cycle. This study uncovers a common set of cancer-specific AS events altered across multiple cancers, providing mechanistic insight into how splicing is mis-regulated in cancers. ",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/25749525",
+    "type": "article-journal",
+    "id": "9sfG2U7T"
+  },
+  {
     "title": "Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes.",
     "volume": "11",
     "issue": "7",
@@ -10713,6 +10894,47 @@
     "URL": "https://www.ncbi.nlm.nih.gov/pubmed/28977405",
     "type": "article-journal",
     "id": "Myj0Ouv5"
+  },
+  {
+    "title": "Meta-analysis of airway epithelium gene expression in asthma.",
+    "volume": "51",
+    "issue": "5",
+    "container-title": "The European respiratory journal",
+    "container-title-short": "Eur. Respir. J.",
+    "ISSN": "1399-3003",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          17
+        ]
+      ]
+    },
+    "author": [
+      {
+        "given": "Yi-Hsuan",
+        "family": "Tsai"
+      },
+      {
+        "given": "Joel S",
+        "family": "Parker"
+      },
+      {
+        "given": "Ivana V",
+        "family": "Yang"
+      },
+      {
+        "given": "Samir N P",
+        "family": "Kelada"
+      }
+    ],
+    "PMID": "29650561",
+    "DOI": "10.1183/13993003.01962-2017",
+    "abstract": "Differential gene expression in the airway epithelium of patients with asthma ",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/29650561",
+    "type": "article-journal",
+    "id": "r7HvVKdn"
   },
   {
     "title": "Human Urinary mRNA as a Biomarker of Cardiovascular Disease.",
