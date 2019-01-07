@@ -11,6 +11,7 @@ author-meta:
 - Binglan Li
 - Jason Miller
 - Luca Pinello
+- Rashika Ramola
 - Jaclyn Taroni
 - Robin van der Lee
 - Ryan Whaley
@@ -33,9 +34,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/e10df0ea6b3f9c6712acecb01d79b0ac4d414438/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/f75b542a8dee559c28f391a528546ee4f20c5220/))
 was automatically generated
-from [dhimmel/psb-manuscript@e10df0e](https://github.com/dhimmel/psb-manuscript/tree/e10df0ea6b3f9c6712acecb01d79b0ac4d414438)
+from [dhimmel/psb-manuscript@f75b542](https://github.com/dhimmel/psb-manuscript/tree/f75b542a8dee559c28f391a528546ee4f20c5220)
 on January 7, 2019.
 </em></small>
 
@@ -156,6 +157,17 @@ on January 7, 2019.
     [lucapinello](https://twitter.com/lucapinello)<br>
   <small>
      Massachusetts General Hospital/ Harvard Medical School
+  </small>
+
++ **Rashika Ramola**<br>
+    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
+    [None](https://orcid.org/None)
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [Rashika40](https://github.com/Rashika40)
+    · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
+    [None](https://twitter.com/None)<br>
+  <small>
+     Northeastern University
   </small>
 
 + **Jaclyn Taroni**<br>
@@ -883,7 +895,26 @@ You can read more on the manuscript that was recently published in Nature Method
 
 <!-- Rashika Ramola -->
 
+### Rashika Ramola
 
+Hi I am Rashika Ramola.
+I am a PhD student at Northeastern University.
+This is my first PSB.
+I like computational biology, and I am excited to be here.
+
+My first paper studies some performance measures (accuracy, balanced accuracy, f-measure and Matthews Correlation Coefficient) in positive-unlabeled learning [@10OhwB9If].
+In this work, we demonstrate how performance measure can be inaccurate in positive unlabeled setting, and then we introduce correction measures.
+
+I am including an important formula from the abovementioned mauscript:
+
+$$
+\mcc=\frac{1}{\mpl-\mpu}\sqrt{\frac{\mpt\paren*{1-\mpt}}{\propL(1-\propL)}}\cdot \mccPU
+$$
+
+It shows that Matthews correlation coefficient (MCC) is directly proportional to its equivalent in positive unlabeled setting.
+Thus, MCC is a well behaved performance measure.
+
+Here is a beautiful aerial shot of [Hawaii](https://www.myhawaii.com.au/wp-content/uploads/sites/13/2018/08/Hawaii-Landscape-Copy.jpg).
 
 <!-- Jayamary Divya Ravichandar -->
 

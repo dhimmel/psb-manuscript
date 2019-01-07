@@ -9881,6 +9881,39 @@
   },
   {
     "publisher": "WORLD SCIENTIFIC",
+    "DOI": "10.1142/9789813279827_0012",
+    "type": "paper-conference",
+    "source": "Crossref",
+    "title": "Estimating classification accuracy in positive-unlabeled learning: characterization and correction strategies",
+    "author": [
+      {
+        "given": "Rashika",
+        "family": "Ramola"
+      },
+      {
+        "given": "Shantanu",
+        "family": "Jain"
+      },
+      {
+        "given": "Predrag",
+        "family": "Radivojac"
+      }
+    ],
+    "event": "Proceedings of the Pacific Symposium",
+    "container-title": "Biocomputing 2019",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gfspvd",
+    "id": "10OhwB9If"
+  },
+  {
+    "publisher": "WORLD SCIENTIFIC",
     "DOI": "10.1142/9789813279827_0027",
     "type": "paper-conference",
     "source": "Crossref",

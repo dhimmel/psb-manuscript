@@ -135,6 +135,18 @@
       ]
     },
     {
+      "name": "Rashika Ramola",
+      "orcid": null,
+      "github": "Rashika40",
+      "twitter": null,
+      "affiliations": [
+        "Northeastern University"
+      ],
+      "affiliation_numbers": [
+        7
+      ]
+    },
+    {
       "name": "Jaclyn Taroni",
       "orcid": "0000-0003-4734-4508",
       "github": "jaclyn-taroni",
@@ -237,17 +249,17 @@
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "e10df0ea6b3f9c6712acecb01d79b0ac4d414438"
+    "commit": "f75b542a8dee559c28f391a528546ee4f20c5220"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 2,
-      "doi": 20,
+      "doi": 21,
       "pmcid": 2,
       "pmid": 7,
       "url": 2,
-      "total": 33
+      "total": 34
     },
-    "word_count": 2975
+    "word_count": 3094
   }
 }
