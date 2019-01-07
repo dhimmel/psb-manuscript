@@ -511,12 +511,10 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - University of Vienna
-# - name: Adam Kurkiewicz
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - University of Glasgow
+- name: Adam Kurkiewicz
+  github: picrin
+  affiliations:
+  - University of Glasgow
 # - name: Nicholas Larson
 #   orcid: null
 #   github: null
