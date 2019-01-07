@@ -14,6 +14,7 @@ author-meta:
 - Luca Pinello
 - Rashika Ramola
 - Jaclyn Taroni
+- Yihsuan Tsai
 - Robin van der Lee
 - Ryan Whaley
 date-meta: '2019-01-07'
@@ -35,9 +36,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/5f8682229f49ff41ef778f44ef9d06efb51be17d/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/581cbdd48f044ed180b0b9aa4b40f2da102960bb/))
 was automatically generated
-from [dhimmel/psb-manuscript@5f86822](https://github.com/dhimmel/psb-manuscript/tree/5f8682229f49ff41ef778f44ef9d06efb51be17d)
+from [dhimmel/psb-manuscript@581cbdd](https://github.com/dhimmel/psb-manuscript/tree/581cbdd48f044ed180b0b9aa4b40f2da102960bb)
 on January 7, 2019.
 </em></small>
 
@@ -187,6 +188,11 @@ on January 7, 2019.
     [jaclyn_taroni](https://twitter.com/jaclyn_taroni)<br>
   <small>
      Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation
+  </small>
+
++ **Yihsuan Tsai**<br><br>
+  <small>
+     University of North Carolina at Chapel Hill
   </small>
 
 + **Robin van der Lee**<br>

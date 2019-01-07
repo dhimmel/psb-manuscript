@@ -169,6 +169,15 @@
       ]
     },
     {
+      "name": "Yihsuan Tsai",
+      "affiliations": [
+        "University of North Carolina at Chapel Hill"
+      ],
+      "affiliation_numbers": [
+        12
+      ]
+    },
+    {
       "name": "Robin van der Lee",
       "orcid": "0000-0001-7391-9438",
       "github": "robinvanderlee",
@@ -179,9 +188,9 @@
         "Centre for Molecular Medicine and Therapeutics"
       ],
       "affiliation_numbers": [
-        12,
         13,
-        14
+        14,
+        15
       ]
     },
     {
@@ -193,7 +202,7 @@
         "Stanford University"
       ],
       "affiliation_numbers": [
-        15
+        16
       ]
     }
   ],
@@ -243,27 +252,31 @@
       "affiliation_number": 11
     },
     {
-      "affiliation": "The University of British Columbia, Vancouver, Canada",
+      "affiliation": "University of North Carolina at Chapel Hill",
       "affiliation_number": 12
     },
     {
-      "affiliation": "BC Children\u2019s Hospital Research Institute",
+      "affiliation": "The University of British Columbia, Vancouver, Canada",
       "affiliation_number": 13
     },
     {
-      "affiliation": "Centre for Molecular Medicine and Therapeutics",
+      "affiliation": "BC Children\u2019s Hospital Research Institute",
       "affiliation_number": 14
     },
     {
-      "affiliation": "Stanford University",
+      "affiliation": "Centre for Molecular Medicine and Therapeutics",
       "affiliation_number": 15
+    },
+    {
+      "affiliation": "Stanford University",
+      "affiliation_number": 16
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "5f8682229f49ff41ef778f44ef9d06efb51be17d"
+    "commit": "581cbdd48f044ed180b0b9aa4b40f2da102960bb"
   },
   "manuscript_stats": {
     "reference_counts": {
