@@ -959,12 +959,9 @@ author_info:
 #   twitter: null
 #   affiliations:
 #   - Dordt College
-# - name: Yihsuan Tsai
-#   orcid: null
-#   github: null
-#   twitter: null
-#   affiliations:
-#   - University of North Carolina
+- name: Yihsuan Tsai
+  affiliations: 
+  - University of North Carolina at Chapel Hill
 # - name: Brian Yik Tak Tsui
 #   orcid: null
 #   github: null
