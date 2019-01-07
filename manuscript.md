@@ -36,9 +36,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/6a49ed54d66524dd0f9eaba90308ebdc38983e6b/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/e1d4d284a09b4391be326c54a29b1aaf7c306342/))
 was automatically generated
-from [dhimmel/psb-manuscript@6a49ed5](https://github.com/dhimmel/psb-manuscript/tree/6a49ed54d66524dd0f9eaba90308ebdc38983e6b)
+from [dhimmel/psb-manuscript@e1d4d28](https://github.com/dhimmel/psb-manuscript/tree/e1d4d284a09b4391be326c54a29b1aaf7c306342)
 on January 7, 2019.
 </em></small>
 
@@ -927,10 +927,10 @@ I like computational biology, and I am excited to be here.
 My first paper studies some performance measures (accuracy, balanced accuracy, f-measure and Matthews Correlation Coefficient) in positive-unlabeled learning [@10OhwB9If].
 In this work, we demonstrate how performance measure can be inaccurate in positive unlabeled setting, and then we introduce correction measures.
 
-I am including an important formula from the abovementioned mauscript:
+I am including an important formula from the aforementioned manuscript:
 
 $$
-\mcc=\frac{1}{\mpl-\mpu}\sqrt{\frac{\mpt\paren*{1-\mpt}}{\propL(1-\propL)}}\cdot \mccPU
+\textrm{mcc} = \frac{1}{\beta-\alpha}\sqrt{\frac{\pi(1-\pi)}{c(1-c)}}\cdot\textrm{mcc}^\textrm{pu}
 $$
 
 It shows that Matthews correlation coefficient (MCC) is directly proportional to its equivalent in positive unlabeled setting.
