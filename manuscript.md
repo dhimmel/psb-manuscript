@@ -7,6 +7,7 @@ author-meta:
 - Qiwen Hu
 - Lawrence Hunter
 - Shantanu Jain
+- Adam Kurkiewicz
 - Trang Le
 - Binglan Li
 - Jason Miller
@@ -34,9 +35,9 @@ title: "The people of the 24\u1D57\u02B0 annual Pacific Symposium on Biocomputin
 
 <small><em>
 This manuscript
-([permalink](https://dhimmel.github.io/psb-manuscript/v/f75b542a8dee559c28f391a528546ee4f20c5220/))
+([permalink](https://dhimmel.github.io/psb-manuscript/v/5f5b9df2f92c96e4b471f6d41160cf5e8a5123fc/))
 was automatically generated
-from [dhimmel/psb-manuscript@f75b542](https://github.com/dhimmel/psb-manuscript/tree/f75b542a8dee559c28f391a528546ee4f20c5220)
+from [dhimmel/psb-manuscript@5f5b9df](https://github.com/dhimmel/psb-manuscript/tree/5f5b9df2f92c96e4b471f6d41160cf5e8a5123fc)
 on January 7, 2019.
 </em></small>
 
@@ -113,6 +114,13 @@ on January 7, 2019.
     [shajain](https://github.com/shajain)<br>
   <small>
      Northeastern University
+  </small>
+
++ **Adam Kurkiewicz**<br>
+    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
+    [picrin](https://github.com/picrin)<br>
+  <small>
+     University of Glasgow
   </small>
 
 + **Trang Le**<br>
@@ -640,6 +648,11 @@ I have started learning about Causal Inference lately and I am interested in app
 
 <!-- Adam Kurkiewicz -->
 
+### Adam Kurkiewicz
+
+I'm interested in building a tool to do SNP calling from single cell RNASeq data.
+This has been tried before by various groups, e.g. check out the honeyBADGER paper [@1elWGdf0], but ultimately none of the approaches were successful.
+I have a few ideas on how to make progress --- give me a shout if you'd like to discuss!
 
 
 <!-- Nicholas Larson -->
@@ -651,6 +664,7 @@ I have started learning about Causal Inference lately and I am interested in app
 
 
 <!-- Trang Le -->
+
 ### Trang Le
 
 Hello from the [Moore lab](http://epistasis.org/) at the University of Pennsylvania!

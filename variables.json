@@ -87,6 +87,16 @@
       ]
     },
     {
+      "name": "Adam Kurkiewicz",
+      "github": "picrin",
+      "affiliations": [
+        "University of Glasgow"
+      ],
+      "affiliation_numbers": [
+        8
+      ]
+    },
+    {
       "name": "Trang Le",
       "orcid": "0000-0003-3737-6565",
       "github": "trang1618",
@@ -95,7 +105,7 @@
         "University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        8
+        9
       ]
     },
     {
@@ -107,7 +117,7 @@
         "University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        8
+        9
       ]
     },
     {
@@ -119,7 +129,7 @@
         "Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania"
       ],
       "affiliation_numbers": [
-        9
+        10
       ]
     },
     {
@@ -131,7 +141,7 @@
         "Massachusetts General Hospital/ Harvard Medical School"
       ],
       "affiliation_numbers": [
-        10
+        11
       ]
     },
     {
@@ -169,9 +179,9 @@
         "Centre for Molecular Medicine and Therapeutics"
       ],
       "affiliation_numbers": [
-        11,
         12,
-        13
+        13,
+        14
       ]
     },
     {
@@ -183,7 +193,7 @@
         "Stanford University"
       ],
       "affiliation_numbers": [
-        14
+        15
       ]
     }
   ],
@@ -217,49 +227,53 @@
       "affiliation_number": 7
     },
     {
-      "affiliation": "University of Pennsylvania",
+      "affiliation": "University of Glasgow",
       "affiliation_number": 8
     },
     {
-      "affiliation": "Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania",
+      "affiliation": "University of Pennsylvania",
       "affiliation_number": 9
     },
     {
-      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
+      "affiliation": "Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania",
       "affiliation_number": 10
     },
     {
-      "affiliation": "The University of British Columbia, Vancouver, Canada",
+      "affiliation": "Massachusetts General Hospital/ Harvard Medical School",
       "affiliation_number": 11
     },
     {
-      "affiliation": "BC Children\u2019s Hospital Research Institute",
+      "affiliation": "The University of British Columbia, Vancouver, Canada",
       "affiliation_number": 12
     },
     {
-      "affiliation": "Centre for Molecular Medicine and Therapeutics",
+      "affiliation": "BC Children\u2019s Hospital Research Institute",
       "affiliation_number": 13
     },
     {
-      "affiliation": "Stanford University",
+      "affiliation": "Centre for Molecular Medicine and Therapeutics",
       "affiliation_number": 14
+    },
+    {
+      "affiliation": "Stanford University",
+      "affiliation_number": 15
     }
   ],
   "ci_source": {
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "f75b542a8dee559c28f391a528546ee4f20c5220"
+    "commit": "5f5b9df2f92c96e4b471f6d41160cf5e8a5123fc"
   },
   "manuscript_stats": {
     "reference_counts": {
       "arxiv": 2,
-      "doi": 21,
+      "doi": 22,
       "pmcid": 2,
       "pmid": 7,
       "url": 2,
-      "total": 34
+      "total": 35
     },
-    "word_count": 3094
+    "word_count": 3155
   }
 }

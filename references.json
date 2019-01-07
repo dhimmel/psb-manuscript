@@ -9800,6 +9800,82 @@
     "id": "1GtRgPRxn"
   },
   {
+    "publisher": "Cold Spring Harbor Laboratory",
+    "issue": "8",
+    "DOI": "10.1101/gr.228080.117",
+    "type": "article-journal",
+    "page": "1217-1227",
+    "source": "Crossref",
+    "title": "Linking transcriptional and genetic tumor heterogeneity through allele analysis of single-cell RNA-seq data",
+    "volume": "28",
+    "author": [
+      {
+        "given": "Jean",
+        "family": "Fan"
+      },
+      {
+        "given": "Hae-Ock",
+        "family": "Lee"
+      },
+      {
+        "given": "Soohyun",
+        "family": "Lee"
+      },
+      {
+        "given": "Da-eun",
+        "family": "Ryu"
+      },
+      {
+        "given": "Semin",
+        "family": "Lee"
+      },
+      {
+        "given": "Catherine",
+        "family": "Xue"
+      },
+      {
+        "given": "Seok Jin",
+        "family": "Kim"
+      },
+      {
+        "given": "Kihyun",
+        "family": "Kim"
+      },
+      {
+        "given": "Nikolaos",
+        "family": "Barkas"
+      },
+      {
+        "given": "Peter J.",
+        "family": "Park"
+      },
+      {
+        "given": "Woong-Yang",
+        "family": "Park"
+      },
+      {
+        "given": "Peter V.",
+        "family": "Kharchenko"
+      }
+    ],
+    "container-title": "Genome Research",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          6,
+          13
+        ]
+      ]
+    },
+    "URL": "https://doi.org/gdrgwz",
+    "container-title-short": "Genome Res.",
+    "PMCID": "PMC6071640",
+    "PMID": "29898899",
+    "id": "1elWGdf0"
+  },
+  {
     "publisher": "American Society for Microbiology",
     "issue": "1",
     "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    The increasing number of genome-wide assays of gene expression available from public databases presents opportunities for computational methods that facilitate hypothesis generation and biological interpretation of these data. We present an unsupervised machine learning approach, ADAGE (\n                    <jats:italic>a</jats:italic>\n                    nalysis using\n                    <jats:italic>d</jats:italic>\n                    enoising\n                    <jats:italic>a</jats:italic>\n                    utoencoders of\n                    <jats:italic>g</jats:italic>\n                    ene\n                    <jats:italic>e</jats:italic>\n                    xpression), and apply it to the publicly available gene expression data compendium for\n                    <jats:italic>Pseudomonas aeruginosa</jats:italic>\n                    . In this approach, the machine-learned ADAGE model contained 50 nodes which we predicted would correspond to gene expression patterns across the gene expression compendium. While no biological knowledge was used during model construction, cooperonic genes had similar weights across nodes, and genes with similar weights across nodes were significantly more likely to share KEGG pathways. By analyzing newly generated and previously published microarray and transcriptome sequencing data, the ADAGE model identified differences between strains, modeled the cellular response to low oxygen, and predicted the involvement of biological processes based on low-level gene expression differences. ADAGE compared favorably with traditional principal component analysis and independent component analysis approaches in its ability to extract validated patterns, and based on our analyses, we propose that these approaches differ in the types of patterns they preferentially identify. We provide the ADAGE model with analysis of all publicly available\n                    <jats:italic>P. aeruginosa</jats:italic>\n                    GeneChip experiments and open source code for use with other species and settings. Extraction of consistent patterns across large-scale collections of genomic data using methods like ADAGE provides the opportunity to identify general principles and biologically important patterns in microbial biology. This approach will be particularly useful in less-well-studied microbial species.\n                  </jats:p>\n                  <jats:p>\n                     <jats:bold>IMPORTANCE</jats:bold>\n                    The quantity and breadth of genome-scale data sets that examine RNA expression in diverse bacterial and eukaryotic species are increasing more rapidly than for curated knowledge. Our ADAGE method integrates such data without requiring gene function, gene pathway, or experiment labeling, making practical its application to any large gene expression compendium. We built a\n                    <jats:italic>Pseudomonas aeruginosa</jats:italic>\n                    ADAGE model from a diverse set of publicly available experiments without any prespecified biological knowledge, and this model was accurate and predictive. We provide ADAGE results for the complete\n                    <jats:italic>P. aeruginosa</jats:italic>\n                    GeneChip compendium for use by researchers studying\n                    <jats:italic>P. aeruginosa</jats:italic>\n                    and source code that facilitates ADAGE’s application to other species and data types.\n                  </jats:p>",
