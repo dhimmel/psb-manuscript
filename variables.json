@@ -1,5 +1,5 @@
 {
-  "date": "January 7, 2019",
+  "date": "March 21, 2019",
   "authors": [
     {
       "name": "J. Brian Byrd",
@@ -277,7 +277,7 @@
     "repo_slug": "dhimmel/psb-manuscript",
     "repo_owner": "dhimmel",
     "repo_name": "psb-manuscript",
-    "commit": "357d509102adcc3f9807f42facde6334f36fe315"
+    "commit": "d017a7066f178597a971fc9b652128dfa34a12c1"
   },
   "manuscript_stats": {
     "reference_counts": {
@@ -288,6 +288,6 @@
       "url": 2,
       "total": 39
     },
-    "word_count": 3318
+    "word_count": 3334
   }
 }
