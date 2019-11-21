@@ -2,8 +2,8 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://dhimmel.github.io/psb-manuscript/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://dhimmel.github.io/psb-manuscript/manuscript.pdf)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://git.dhimmel.com/psb-manuscript/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://git.dhimmel.com/psb-manuscript/manuscript.pdf)
 [![Build Status](https://travis-ci.com/dhimmel/psb-manuscript.svg?branch=master)](https://travis-ci.com/dhimmel/psb-manuscript)
 
 ## Manuscript description
