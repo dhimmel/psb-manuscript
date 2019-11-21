@@ -21,7 +21,7 @@
   <meta name="author" content="Yihsuan Tsai" />
   <meta name="author" content="Robin van der Lee" />
   <meta name="author" content="Ryan Whaley" />
-  <meta name="dcterms.date" content="2019-03-21" />
+  <meta name="dcterms.date" content="2019-11-21" />
   <meta name="keywords" content="manubot, tutorial, conference, psb19, pacific symposium on biocomputing" />
   <title>The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii</title>
   <style>
@@ -31,9 +31,9 @@
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
   <style>
-a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height: 1.2em; }
+code.sourceCode > span { display: inline-block; line-height: 1.25; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode { white-space: pre; position: relative; }
 div.sourceCode { margin: 1em 0; }
@@ -43,14 +43,16 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 code.sourceCode { white-space: pre-wrap; }
-a.sourceLine { text-indent: -1em; padding-left: 1em; }
+code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
-pre.numberSource a.sourceLine
-  { position: relative; left: -4em; }
-pre.numberSource a.sourceLine::before
-  { content: attr(title);
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
     position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; pointer-events: all; display: inline-block;
+    border: none; display: inline-block;
     -webkit-touch-callout: none; -webkit-user-select: none;
     -khtml-user-select: none; -moz-user-select: none;
     -ms-user-select: none; user-select: none;
@@ -59,9 +61,9 @@ pre.numberSource a.sourceLine::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {  }
+  {   }
 @media screen {
-a.sourceLine::before { text-decoration: underline; }
+code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ff0000; font-weight: bold; } /* Alert */
 code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
@@ -96,31 +98,126 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
+  <!--
+  Manubot generated metadata rendered from header-includes-template.html.
+  Suggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html
+  -->
+  <meta name="dc.format" content="text/html" />
+  <meta name="dc.title" content="The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii" />
+  <meta name="citation_title" content="The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii" />
+  <meta property="og:title" content="The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii" />
+  <meta property="twitter:title" content="The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii" />
+  <meta name="dc.date" content="2019-11-21" />
+  <meta name="citation_publication_date" content="2019-11-21" />
+  <meta name="dc.language" content="en-US" />
+  <meta name="citation_language" content="en-US" />
+  <meta name="dc.relation.ispartof" content="Manubot" />
+  <meta name="dc.publisher" content="Manubot" />
+  <meta name="citation_journal_title" content="Manubot" />
+  <meta name="citation_technical_report_institution" content="Manubot" />
+  <meta name="citation_author" content="J. Brian Byrd" />
+  <meta name="citation_author_institution" content="University of Michigan Medical School" />
+  <meta name="citation_author_orcid" content="0000-0002-0509-3520" />
+  <meta name="twitter:creator" content="@thebyrdlab" />
+  <meta name="citation_author" content="Weixuan Fu" />
+  <meta name="citation_author_institution" content="Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania" />
+  <meta name="citation_author_orcid" content="0000-0002-6434-5468" />
+  <meta name="twitter:creator" content="@weixuanfu" />
+  <meta name="citation_author" content="Casey Greene" />
+  <meta name="citation_author_institution" content="Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania" />
+  <meta name="citation_author_institution" content="Childhood Cancer Data Lab, Alex&#39;s Lemonade Stand Foundation" />
+  <meta name="citation_author_orcid" content="0000-0001-8713-9213" />
+  <meta name="twitter:creator" content="@greenescientist" />
+  <meta name="citation_author" content="Daniel Himmelstein" />
+  <meta name="citation_author_institution" content="Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania" />
+  <meta name="citation_author_orcid" content="0000-0002-3012-7446" />
+  <meta name="twitter:creator" content="@dhimmel" />
+  <meta name="citation_author" content="Qiwen Hu" />
+  <meta name="citation_author_institution" content="Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania" />
+  <meta name="twitter:creator" content="@qiwen_hu" />
+  <meta name="citation_author" content="Lawrence Hunter" />
+  <meta name="citation_author_institution" content="University of Colorado Anschutz School of Medicine" />
+  <meta name="citation_author_institution" content="University of Colorado Boulder" />
+  <meta name="citation_author_orcid" content="0000-0003-1455-3370" />
+  <meta name="twitter:creator" content="@ProfLHunter" />
+  <meta name="citation_author" content="Shantanu Jain" />
+  <meta name="citation_author_institution" content="Northeastern University" />
+  <meta name="citation_author" content="Adam Kurkiewicz" />
+  <meta name="citation_author_institution" content="University of Glasgow" />
+  <meta name="citation_author" content="Trang Le" />
+  <meta name="citation_author_institution" content="University of Pennsylvania" />
+  <meta name="citation_author_orcid" content="0000-0003-3737-6565" />
+  <meta name="twitter:creator" content="@trang1618" />
+  <meta name="citation_author" content="Binglan Li" />
+  <meta name="citation_author_institution" content="University of Pennsylvania" />
+  <meta name="citation_author_orcid" content="None" />
+  <meta name="twitter:creator" content="@victoria_bll" />
+  <meta name="citation_author" content="Jason Miller" />
+  <meta name="citation_author_institution" content="Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania" />
+  <meta name="citation_author_orcid" content="0000-0002-1835-3512" />
+  <meta name="twitter:creator" content="@JEMgenes" />
+  <meta name="citation_author" content="Luca Pinello" />
+  <meta name="citation_author_institution" content="Massachusetts General Hospital/ Harvard Medical School" />
+  <meta name="citation_author_orcid" content="0000-0003-1109-3823" />
+  <meta name="twitter:creator" content="@lucapinello" />
+  <meta name="citation_author" content="Rashika Ramola" />
+  <meta name="citation_author_institution" content="Northeastern University" />
+  <meta name="citation_author_orcid" content="None" />
+  <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author" content="Jaclyn Taroni" />
+  <meta name="citation_author_institution" content="Childhood Cancer Data Lab, Alex&#39;s Lemonade Stand Foundation" />
+  <meta name="citation_author_orcid" content="0000-0003-4734-4508" />
+  <meta name="twitter:creator" content="@jaclyn_taroni" />
+  <meta name="citation_author" content="Yihsuan Tsai" />
+  <meta name="citation_author_institution" content="University of North Carolina at Chapel Hill" />
+  <meta name="citation_author" content="Robin van der Lee" />
+  <meta name="citation_author_institution" content="The University of British Columbia, Vancouver, Canada" />
+  <meta name="citation_author_institution" content="BC Children’s Hospital Research Institute" />
+  <meta name="citation_author_institution" content="Centre for Molecular Medicine and Therapeutics" />
+  <meta name="citation_author_orcid" content="0000-0001-7391-9438" />
+  <meta name="twitter:creator" content="@robinvdlee" />
+  <meta name="citation_author" content="Ryan Whaley" />
+  <meta name="citation_author_institution" content="Stanford University" />
+  <meta name="citation_author_orcid" content="0000-0002-8810-3893" />
+  <meta name="twitter:creator" content="@ryanatpharmgkb" />
+  <link rel="canonical" href="https://dhimmel.github.io/psb-manuscript/" />
+  <meta property="og:url" content="https://dhimmel.github.io/psb-manuscript/" />
+  <meta property="twitter:url" content="https://dhimmel.github.io/psb-manuscript/" />
+  <meta name="citation_fulltext_html_url" content="https://dhimmel.github.io/psb-manuscript/" />
+  <meta name="citation_pdf_url" content="https://dhimmel.github.io/psb-manuscript/manuscript.pdf" />
+  <link rel="alternate" type="application/pdf" href="https://dhimmel.github.io/psb-manuscript/manuscript.pdf" /> <link rel="alternate" type="text/html" href="https://dhimmel.github.io/psb-manuscript/v/8d7e79dcf853c9f68f5315ded465f8017f1dc4a8/" />
+  <meta name="manubot_html_url_versioned" content="https://dhimmel.github.io/psb-manuscript/v/8d7e79dcf853c9f68f5315ded465f8017f1dc4a8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://dhimmel.github.io/psb-manuscript/v/8d7e79dcf853c9f68f5315ded465f8017f1dc4a8/manuscript.pdf" />
+  <meta property="og:type" content="article" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" /> <link rel="mask-icon" href="https://manubot.org/safari-pinned-tab.svg" color="#ad1457" />
+  <meta name="theme-color" content="#ad1457" />
+  <!-- end Manubot generated metadata -->
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">The people of the 24ᵗʰ annual Pacific Symposium on Biocomputing in Hawaii</h1>
 </header>
-<p><small><em> This manuscript (<a href="https://dhimmel.github.io/psb-manuscript/v/d017a7066f178597a971fc9b652128dfa34a12c1/">permalink</a>) was automatically generated from <a href="https://github.com/dhimmel/psb-manuscript/tree/d017a7066f178597a971fc9b652128dfa34a12c1">dhimmel/psb-manuscript@d017a70</a> on March 21, 2019. </em></small></p>
+<p><small><em> This manuscript (<a href="https://dhimmel.github.io/psb-manuscript/v/8d7e79dcf853c9f68f5315ded465f8017f1dc4a8/">permalink</a>) was automatically generated from <a href="https://github.com/dhimmel/psb-manuscript/tree/8d7e79dcf853c9f68f5315ded465f8017f1dc4a8">dhimmel/psb-manuscript@8d7e79d</a> on November 21, 2019. </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
-<li><p><strong>J. Brian Byrd</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0002-0509-3520">0000-0002-0509-3520</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/byrdjb">byrdjb</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/thebyrdlab">thebyrdlab</a><br> <small> University of Michigan Medical School </small></p></li>
-<li><p><strong>Weixuan Fu</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0002-6434-5468">0000-0002-6434-5468</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/weixuanfu">weixuanfu</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/weixuanfu">weixuanfu</a><br> <small> Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania </small></p></li>
-<li><p><strong>Casey Greene</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0001-8713-9213">0000-0001-8713-9213</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/cgreene">cgreene</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/greenescientist">greenescientist</a><br> <small> Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania; Childhood Cancer Data Lab, Alex’s Lemonade Stand Foundation </small></p></li>
-<li><p><strong>Daniel Himmelstein</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0002-3012-7446">0000-0002-3012-7446</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/dhimmel">dhimmel</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/dhimmel">dhimmel</a><br> <small> Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania </small></p></li>
-<li><p><strong>Qiwen Hu</strong><br> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/huqiwen0313">huqiwen0313</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/qiwen_hu">qiwen_hu</a><br> <small> Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania </small></p></li>
-<li><p><strong>Lawrence Hunter</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0003-1455-3370">0000-0003-1455-3370</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/LEHunter">LEHunter</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/ProfLHunter">ProfLHunter</a><br> <small> University of Colorado Anschutz School of Medicine; University of Colorado Boulder </small></p></li>
-<li><p><strong>Shantanu Jain</strong><br> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/shajain">shajain</a><br> <small> Northeastern University </small></p></li>
-<li><p><strong>Adam Kurkiewicz</strong><br> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/picrin">picrin</a><br> <small> University of Glasgow </small></p></li>
-<li><p><strong>Trang Le</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0003-3737-6565">0000-0003-3737-6565</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/trang1618">trang1618</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/trang1618">trang1618</a><br> <small> University of Pennsylvania </small></p></li>
-<li><p><strong>Binglan Li</strong><br> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/BinglanLi">BinglanLi</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/victoria_bll">victoria_bll</a><br> <small> University of Pennsylvania </small></p></li>
-<li><p><strong>Jason Miller</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0002-1835-3512">0000-0002-1835-3512</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/git-jemiller">git-jemiller</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/JEMgenes">JEMgenes</a><br> <small> Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania </small></p></li>
-<li><p><strong>Luca Pinello</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0003-1109-3823">0000-0003-1109-3823</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/pinellolab">pinellolab</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/lucapinello">lucapinello</a><br> <small> Massachusetts General Hospital/ Harvard Medical School </small></p></li>
-<li><p><strong>Rashika Ramola</strong><br> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/Rashika40">Rashika40</a><br> <small> Northeastern University </small></p></li>
-<li><p><strong>Jaclyn Taroni</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0003-4734-4508">0000-0003-4734-4508</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/jaclyn-taroni">jaclyn-taroni</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/jaclyn_taroni">jaclyn_taroni</a><br> <small> Childhood Cancer Data Lab, Alex’s Lemonade Stand Foundation </small></p></li>
-<li><p><strong>Yihsuan Tsai</strong><br> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/ShannonSzeto">ShannonSzeto</a><br> <small> University of North Carolina at Chapel Hill </small></p></li>
-<li><p><strong>Robin van der Lee</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0001-7391-9438">0000-0001-7391-9438</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/robinvanderlee">robinvanderlee</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/robinvdlee">robinvdlee</a><br> <small> The University of British Columbia, Vancouver, Canada; BC Children’s Hospital Research Institute; Centre for Molecular Medicine and Therapeutics </small></p></li>
-<li><p><strong>Ryan Whaley</strong><br> <img src="images/orcid.svg" alt="ORCID icon" class="inline_icon" /> <a href="https://orcid.org/0000-0002-8810-3893">0000-0002-8810-3893</a> · <img src="images/github.svg" alt="GitHub icon" class="inline_icon" /> <a href="https://github.com/whaleyr">whaleyr</a> · <img src="images/twitter.svg" alt="Twitter icon" class="inline_icon" /> <a href="https://twitter.com/ryanatpharmgkb">ryanatpharmgkb</a><br> <small> Stanford University </small></p></li>
+<li><p><strong>J. Brian Byrd</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0002-0509-3520">0000-0002-0509-3520</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/byrdjb">byrdjb</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/thebyrdlab">thebyrdlab</a><br> <small> University of Michigan Medical School </small></p></li>
+<li><p><strong>Weixuan Fu</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0002-6434-5468">0000-0002-6434-5468</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/weixuanfu">weixuanfu</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/weixuanfu">weixuanfu</a><br> <small> Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania </small></p></li>
+<li><p><strong>Casey Greene</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0001-8713-9213">0000-0001-8713-9213</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/cgreene">cgreene</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/greenescientist">greenescientist</a><br> <small> Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania; Childhood Cancer Data Lab, Alex’s Lemonade Stand Foundation </small></p></li>
+<li><p><strong>Daniel Himmelstein</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0002-3012-7446">0000-0002-3012-7446</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/dhimmel">dhimmel</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/dhimmel">dhimmel</a><br> <small> Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania </small></p></li>
+<li><p><strong>Qiwen Hu</strong><br> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/huqiwen0313">huqiwen0313</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/qiwen_hu">qiwen_hu</a><br> <small> Department of Systems Pharmacology &amp; Translational Therapeutics, University of Pennsylvania </small></p></li>
+<li><p><strong>Lawrence Hunter</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0003-1455-3370">0000-0003-1455-3370</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/LEHunter">LEHunter</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/ProfLHunter">ProfLHunter</a><br> <small> University of Colorado Anschutz School of Medicine; University of Colorado Boulder </small></p></li>
+<li><p><strong>Shantanu Jain</strong><br> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/shajain">shajain</a><br> <small> Northeastern University </small></p></li>
+<li><p><strong>Adam Kurkiewicz</strong><br> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/picrin">picrin</a><br> <small> University of Glasgow </small></p></li>
+<li><p><strong>Trang Le</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0003-3737-6565">0000-0003-3737-6565</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/trang1618">trang1618</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/trang1618">trang1618</a><br> <small> University of Pennsylvania </small></p></li>
+<li><p><strong>Binglan Li</strong><br> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/BinglanLi">BinglanLi</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/victoria_bll">victoria_bll</a><br> <small> University of Pennsylvania </small></p></li>
+<li><p><strong>Jason Miller</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0002-1835-3512">0000-0002-1835-3512</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/git-jemiller">git-jemiller</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/JEMgenes">JEMgenes</a><br> <small> Department of Genetics, Institute for Biomedical Informatics, and Perelman School of Medicine, University of Pennsylvania </small></p></li>
+<li><p><strong>Luca Pinello</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0003-1109-3823">0000-0003-1109-3823</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/pinellolab">pinellolab</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/lucapinello">lucapinello</a><br> <small> Massachusetts General Hospital/ Harvard Medical School </small></p></li>
+<li><p><strong>Rashika Ramola</strong><br> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/Rashika40">Rashika40</a><br> <small> Northeastern University </small></p></li>
+<li><p><strong>Jaclyn Taroni</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0003-4734-4508">0000-0003-4734-4508</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/jaclyn-taroni">jaclyn-taroni</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/jaclyn_taroni">jaclyn_taroni</a><br> <small> Childhood Cancer Data Lab, Alex’s Lemonade Stand Foundation </small></p></li>
+<li><p><strong>Yihsuan Tsai</strong><br> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/ShannonSzeto">ShannonSzeto</a><br> <small> University of North Carolina at Chapel Hill </small></p></li>
+<li><p><strong>Robin van der Lee</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0001-7391-9438">0000-0001-7391-9438</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/robinvanderlee">robinvanderlee</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/robinvdlee">robinvdlee</a><br> <small> The University of British Columbia, Vancouver, Canada; BC Children’s Hospital Research Institute; Centre for Molecular Medicine and Therapeutics </small></p></li>
+<li><p><strong>Ryan Whaley</strong><br> <img src="images/orcid.svg" class="inline_icon" alt="ORCID icon" /> <a href="https://orcid.org/0000-0002-8810-3893">0000-0002-8810-3893</a> · <img src="images/github.svg" class="inline_icon" alt="GitHub icon" /> <a href="https://github.com/whaleyr">whaleyr</a> · <img src="images/twitter.svg" class="inline_icon" alt="Twitter icon" /> <a href="https://twitter.com/ryanatpharmgkb">ryanatpharmgkb</a><br> <small> Stanford University </small></p></li>
 </ul>
 <h2 id="abstract" class="page_break_before">Abstract</h2>
 <p>Manubot is an open source tool for writing manuscripts on GitHub in markdown format. Manubot applies the git-based software workflow to scholarly writing, enabling enhanced transparency, collaboration, automation, and reproducibility.</p>
@@ -138,7 +235,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul>
 <p>Self-citations are explicitly encouraged, since one goal of this activity is to introduce attendees to the concept of <a href="https://github.com/dhimmel/psb-manuscript/blob/master/USAGE.md#citations">citation by persistent identifier</a>. By having attendees cite their existing works, we hope to show researchers how references can be created from just persistent identifiers, and how this can assist with collaborative and transparent authoring.</p>
 <p>The <a href="https://github.com/dhimmel/psb-manuscript/tree/master/content">markdown manuscript source</a> has a section for each PSB 2019 attendee, generated from the online <a href="https://github.com/dhimmel/psb-manuscript/blob/master/attendees/attendees.pdf">attendee list</a>. Names are ordered alphabetically by last name. If you’d like to contribute, but are not already in the list, please insert your section at the appropriate alphabetical location.</p>
-<p>For questions on how to use Manubot, see the <a href="https://github.com/dhimmel/psb-manuscript/blob/master/USAGE.md">usage documentation</a>. More information on the tool and its inception is available in the project manuscript <span class="citation" data-cites="1GGGHdsew">[<a href="#ref-1GGGHdsew">1</a>]</span>.</p>
+<p>For questions on how to use Manubot, see the <a href="https://github.com/dhimmel/psb-manuscript/blob/master/USAGE.md">usage documentation</a>. More information on the tool and its inception is available in the project manuscript <span class="citation" data-cites="1GGGHdsew">[<a href="#ref-1GGGHdsew" role="doc-biblioref">1</a>]</span>.</p>
 <h2 id="attendees" class="page_break_before">Attendees</h2>
 <!-- Max Alekseyev -->
 <!-- Russ Altman -->
@@ -159,7 +256,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- William Bush -->
 <!-- J. Brian Byrd -->
 <h3 id="j.-brian-byrd">J. Brian Byrd</h3>
-<p>I’m a physician-scientist at the University of Michigan. My laboratory focuses on identifying novel biomarkers for a clinically important subtype of high blood pressure, called primary aldosteronism. Our principal interest is in detecting the transcriptional activity of the mineralocorticoid receptor <span class="citation" data-cites="GGRHirwN">[<a href="#ref-GGRHirwN">2</a>]</span>.</p>
+<p>I’m a physician-scientist at the University of Michigan. My laboratory focuses on identifying novel biomarkers for a clinically important subtype of high blood pressure, called primary aldosteronism. Our principal interest is in detecting the transcriptional activity of the mineralocorticoid receptor <span class="citation" data-cites="GGRHirwN">[<a href="#ref-GGRHirwN" role="doc-biblioref">2</a>]</span>.</p>
 <!-- Bin Chen -->
 <!-- Rachel Chen -->
 <!-- Yong Chen -->
@@ -189,7 +286,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- Verena Friedl -->
 <!-- Weixuan Fu -->
 <h3 id="weixuan-fu">Weixuan Fu</h3>
-<p>Aloha, I’m in the <a href="http://upibi.org/">Institute for Biomedical Informatics (IBI)</a> at the University of Pennsylvania and the developer of <a href="https://github.com/EpistasisLab/tpot">TPOT</a> and PennAI <span class="citation" data-cites="MARd00zz">[<a href="#ref-MARd00zz">3</a>]</span>.</p>
+<p>Aloha, I’m in the <a href="http://upibi.org/">Institute for Biomedical Informatics (IBI)</a> at the University of Pennsylvania and the developer of <a href="https://github.com/EpistasisLab/tpot">TPOT</a> and PennAI <span class="citation" data-cites="MARd00zz">[<a href="#ref-MARd00zz" role="doc-biblioref">3</a>]</span>.</p>
 <p>My main interest of research is developing automated machine learning tools for the analysis of large scale biomedical/sequencing data. Besides that, I am working on optimizing analysis pipeline of predicting neoantigen specifically presented in tumor cells using DNA and RNA sequencing data, for designing personalized neoantigen vaccines in cancer immunotherapies.</p>
 <!-- Tetsu Furukawa -->
 <!-- Lana Garmire -->
@@ -200,8 +297,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- Kiley Graim -->
 <!-- Casey Greene -->
 <h3 id="casey-greene">Casey Greene</h3>
-<p>I run an integrative genomics research lab at the University of of Pennsylvania, and I direct the Childhood Cancer Data Lab for Alex’s Lemonade Stand Foundation. The lab at Penn develops methods to integrate large-scale public datasets, primarily from transcriptomic assays, and applies these methods to a broad set of biological questions. We’ve studied numerous systems, and we currently have active research projects in the application areas of microbial systems <span class="citation" data-cites="1CFhfCyWN Hlprh8TG">[<a href="#ref-1CFhfCyWN">4</a>,<a href="#ref-Hlprh8TG">5</a>]</span>, cancers <span class="citation" data-cites="7V2oCvtf 17XHtmqPY X6oQhIf8 11ZPgRuLk">[<a href="#ref-7V2oCvtf">6</a>,<a href="#ref-17XHtmqPY">7</a>,<a href="#ref-X6oQhIf8">8</a>,<a href="#ref-11ZPgRuLk">9</a>]</span>, and rare diseases <span class="citation" data-cites="1GtRgPRxn">[<a href="#ref-1GtRgPRxn">10</a>]</span>. At this PSB, a postdoc from the group will present a paper describing Continental Breakfast Included (CBI) effect in the final talk of the final session of this year’s meeting <span class="citation" data-cites="5CsWRjfp">[<a href="#ref-5CsWRjfp">11</a>]</span>.</p>
-<p>I’m also interested in technologies that enhance the future of scientific communication. Our lab has studied Sci-Hub <span class="citation" data-cites="IhliSZDo">[<a href="#ref-IhliSZDo">12</a>]</span>. We’ve led a large collaborative review of deep learning in biology and medicine <span class="citation" data-cites="PZMP42Ak">[<a href="#ref-PZMP42Ak">13</a>]</span>. Members of the lab have developed tools like manubot <span class="citation" data-cites="1GGGHdsew">[<a href="#ref-1GGGHdsew">1</a>]</span>, which you are using now. More publications are available on our <a href="http://www.greenelab.com/publications">lab website</a>.</p>
+<p>I run an integrative genomics research lab at the University of of Pennsylvania, and I direct the Childhood Cancer Data Lab for Alex’s Lemonade Stand Foundation. The lab at Penn develops methods to integrate large-scale public datasets, primarily from transcriptomic assays, and applies these methods to a broad set of biological questions. We’ve studied numerous systems, and we currently have active research projects in the application areas of microbial systems <span class="citation" data-cites="1CFhfCyWN Hlprh8TG">[<a href="#ref-1CFhfCyWN" role="doc-biblioref">4</a>,<a href="#ref-Hlprh8TG" role="doc-biblioref">5</a>]</span>, cancers <span class="citation" data-cites="7V2oCvtf 17XHtmqPY X6oQhIf8 11ZPgRuLk">[<a href="#ref-7V2oCvtf" role="doc-biblioref">6</a>,<a href="#ref-17XHtmqPY" role="doc-biblioref">7</a>,<a href="#ref-X6oQhIf8" role="doc-biblioref">8</a>,<a href="#ref-11ZPgRuLk" role="doc-biblioref">9</a>]</span>, and rare diseases <span class="citation" data-cites="1GtRgPRxn">[<a href="#ref-1GtRgPRxn" role="doc-biblioref">10</a>]</span>. At this PSB, a postdoc from the group will present a paper describing Continental Breakfast Included (CBI) effect in the final talk of the final session of this year’s meeting <span class="citation" data-cites="5CsWRjfp">[<a href="#ref-5CsWRjfp" role="doc-biblioref">11</a>]</span>.</p>
+<p>I’m also interested in technologies that enhance the future of scientific communication. Our lab has studied Sci-Hub <span class="citation" data-cites="IhliSZDo">[<a href="#ref-IhliSZDo" role="doc-biblioref">12</a>]</span>. We’ve led a large collaborative review of deep learning in biology and medicine <span class="citation" data-cites="PZMP42Ak">[<a href="#ref-PZMP42Ak" role="doc-biblioref">13</a>]</span>. Members of the lab have developed tools like manubot <span class="citation" data-cites="1GGGHdsew">[<a href="#ref-1GGGHdsew" role="doc-biblioref">1</a>]</span>, which you are using now. More publications are available on our <a href="http://www.greenelab.com/publications">lab website</a>.</p>
 <!-- Peyton Greenside -->
 <!-- Gamze Gursoy -->
 <!-- Jonathan Haines -->
@@ -213,29 +310,31 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- Daniel Himmelstein -->
 <h3 id="daniel-himmelstein">Daniel Himmelstein</h3>
 <p>Greetings, I’m in the <a href="http://www.greenelab.com/">Greene Lab</a> at the University of Pennsylvania and am the lead developer of the Manubot project. 2019 is my first PSB and I’m exciting to backpack around the Big Island following the conference.</p>
-<p>My main area of research is integrating biomedical knowledge using hetnets <span class="citation" data-cites="XJuQlZl1 O21tn8vf">[<a href="#ref-XJuQlZl1">14</a>,<a href="#ref-O21tn8vf">15</a>]</span>. However, I’ve also studied Sci-Hub, finding that it provides access to nearly all paywalled scholarly literature <span class="citation" data-cites="vkig9eAb">[<a href="#ref-vkig9eAb">16</a>]</span>. Perhaps my biggest discovery was observing an epidemiological association that higher elevation counties have lower rates of lung cancer, suggesting that oxygen is an inhaled carcinogen (Figure <a href="#fig:elevcan">1</a>) <span class="citation" data-cites="17wiYglmF 8YjPCnYe">[<a href="#ref-17wiYglmF">17</a>,<a href="#ref-8YjPCnYe">18</a>]</span>.</p>
+<p>My main area of research is integrating biomedical knowledge using hetnets <span class="citation" data-cites="XJuQlZl1 O21tn8vf">[<a href="#ref-XJuQlZl1" role="doc-biblioref">14</a>,<a href="#ref-O21tn8vf" role="doc-biblioref">15</a>]</span>. However, I’ve also studied Sci-Hub, finding that it provides access to nearly all paywalled scholarly literature <span class="citation" data-cites="vkig9eAb">[<a href="#ref-vkig9eAb" role="doc-biblioref">16</a>]</span>. Perhaps my biggest discovery was observing an epidemiological association that higher elevation counties have lower rates of lung cancer, suggesting that oxygen is an inhaled carcinogen (Figure <a href="#fig:elevcan">1</a>) <span class="citation" data-cites="17wiYglmF 8YjPCnYe">[<a href="#ref-17wiYglmF" role="doc-biblioref">17</a>,<a href="#ref-8YjPCnYe" role="doc-biblioref">18</a>]</span>.</p>
+<div id="fig:elevcan" class="fignos">
 <figure>
-<img src="https://github.com/dhimmel/elevcan/raw/7aed9f29d2371eb4918f337a138608e6b6d9e311/manual/figures/peerj/Figure_4.png" alt="Figure 1: The association between elevation and lung cancer across Western U.S. counties. This figure is reused from here under its CC BY 4.0 License." id="fig:elevcan" style="width:100.0%" /><figcaption><span>Figure 1:</span> The association between elevation and lung cancer across Western U.S. counties. This figure is reused from <a href="https://doi.org/10.7717/peerj.705/fig-4">here</a> under its CC BY 4.0 License.</figcaption>
+<img src="https://github.com/dhimmel/elevcan/raw/7aed9f29d2371eb4918f337a138608e6b6d9e311/manual/figures/peerj/Figure_4.png" style="width:100.0%" alt="" /><figcaption><span>Figure 1:</span> The association between elevation and lung cancer across Western U.S. counties. This figure is reused from <a href="https://doi.org/10.7717/peerj.705/fig-4">here</a> under its CC BY 4.0 License.</figcaption>
 </figure>
+</div>
 <p>I haven’t done much text mining, but I did enjoy extracting attendee names for PSB from the online PDF. Converting the PDF to text in Python was <a href="https://github.com/dhimmel/psb-manuscript/blob/15babecdf2a915f88088703e23a61e34e1294b1f/attendees/attendees.ipynb">as easy as</a>:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><a class="sourceLine" id="cb1-1" title="1"><span class="co"># https://stackoverflow.com/a/48673754</span></a>
-<a class="sourceLine" id="cb1-2" title="2"><span class="im">import</span> tika.parser</a>
-<a class="sourceLine" id="cb1-3" title="3">parsed <span class="op">=</span> tika.parser.from_file(<span class="st">&#39;attendees.pdf&#39;</span>)</a>
-<a class="sourceLine" id="cb1-4" title="4">text <span class="op">=</span> parsed[<span class="st">&quot;content&quot;</span>]</a></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a><span class="co"># https://stackoverflow.com/a/48673754</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a><span class="im">import</span> tika.parser</span>
+<span id="cb1-3"><a href="#cb1-3"></a>parsed <span class="op">=</span> tika.parser.from_file(<span class="st">&#39;attendees.pdf&#39;</span>)</span>
+<span id="cb1-4"><a href="#cb1-4"></a>text <span class="op">=</span> parsed[<span class="st">&quot;content&quot;</span>]</span></code></pre></div>
 <!-- Michael Hoffman -->
 <!-- John Holmes -->
 <!-- Rachel Hovde -->
 <!-- Qiwen Hu -->
 <h3 id="qiwen-hu">Qiwen Hu</h3>
-<p>I’m a postdoc from <a href="http://www.greenelab.com/">Greene Lab</a> at the University of Pennsylvania. My research focuses on integrating different types of high-throughput sequencing data to find meaningful biological signals behind it. I developed machine learning and statistical approaches to identify regulatory elements that affect transcription and translation. I also developed machine learning-based methods to extract regulatory signals from addicted brain <span class="citation" data-cites="1m3Egymh">[<a href="#ref-1m3Egymh">19</a>]</span>, developmental tissues <span class="citation" data-cites="M0crDyWe">[<a href="#ref-M0crDyWe">20</a>]</span>, and cell-type signals from single-cell datasets.</p>
-<p>This year at PSB, I will present our findings for analyzing single-cell data based on deep variation auto-encoders <span class="citation" data-cites="5CsWRjfp">[<a href="#ref-5CsWRjfp">11</a>]</span>.</p>
+<p>I’m a postdoc from <a href="http://www.greenelab.com/">Greene Lab</a> at the University of Pennsylvania. My research focuses on integrating different types of high-throughput sequencing data to find meaningful biological signals behind it. I developed machine learning and statistical approaches to identify regulatory elements that affect transcription and translation. I also developed machine learning-based methods to extract regulatory signals from addicted brain <span class="citation" data-cites="1m3Egymh">[<a href="#ref-1m3Egymh" role="doc-biblioref">19</a>]</span>, developmental tissues <span class="citation" data-cites="M0crDyWe">[<a href="#ref-M0crDyWe" role="doc-biblioref">20</a>]</span>, and cell-type signals from single-cell datasets.</p>
+<p>This year at PSB, I will present our findings for analyzing single-cell data based on deep variation auto-encoders <span class="citation" data-cites="5CsWRjfp">[<a href="#ref-5CsWRjfp" role="doc-biblioref">11</a>]</span>.</p>
 <!-- Zhiyue Hu -->
 <!-- Lawrence Hunter -->
 <h3 id="lawrence-hunter">Lawrence Hunter</h3>
-<p>I’m a cofounder of the <a href="http://psb.stanford.edu">PSB conference</a>, and a professor at the University of Colorado School of Medicine. You can find information about my lab at <a href="http://compbio.ucdenver.edu/Hunter" class="uri">http://compbio.ucdenver.edu/Hunter</a>. One of my early papers is <span class="citation" data-cites="mFhozBp8"><a href="#ref-mFhozBp8">21</a></span>.</p>
+<p>I’m a cofounder of the <a href="http://psb.stanford.edu">PSB conference</a>, and a professor at the University of Colorado School of Medicine. You can find information about my lab at <a href="http://compbio.ucdenver.edu/Hunter" class="uri">http://compbio.ucdenver.edu/Hunter</a>. One of my early papers is <span class="citation" data-cites="mFhozBp8"><a href="#ref-mFhozBp8" role="doc-biblioref">21</a></span>.</p>
 <!-- Shantanu Jain -->
 <h3 id="shantanu-jain">Shantanu Jain</h3>
-<p>Hi all, I am very excited to be here attending PSB. I am a research scientist at Northeastern University. I am broadly interested in machine learning methods. During my Ph.D., I worked on positive unlabeled learning. I am most proud about my research on nonparametric estimation of class priors from positive and unlabeled data <span class="citation" data-cites="BYxifaL7">[<a href="#ref-BYxifaL7">22</a>]</span>. I have started learning about Causal Inference lately and I am interested in applying it to biological datasets.</p>
+<p>Hi all, I am very excited to be here attending PSB. I am a research scientist at Northeastern University. I am broadly interested in machine learning methods. During my Ph.D., I worked on positive unlabeled learning. I am most proud about my research on nonparametric estimation of class priors from positive and unlabeled data <span class="citation" data-cites="BYxifaL7">[<a href="#ref-BYxifaL7" role="doc-biblioref">22</a>]</span>. I have started learning about Causal Inference lately and I am interested in applying it to biological datasets.</p>
 <!-- Yuexu Jiang -->
 <!-- Kipp Johnson -->
 <!-- Kory Johnson -->
@@ -252,7 +351,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <!-- Milica Krunic -->
 <!-- Adam Kurkiewicz -->
 <h3 id="adam-kurkiewicz">Adam Kurkiewicz</h3>
-<p>I’m interested in building a tool to do SNP calling from single cell RNASeq data. This has been tried before by various groups, e.g. check out the honeyBADGER paper <span class="citation" data-cites="1elWGdf0">[<a href="#ref-1elWGdf0">23</a>]</span>, but ultimately none of the approaches were successful. I have a few ideas on how to make progress — give me a shout if you’d like to discuss!</p>
+<p>I’m interested in building a tool to do SNP calling from single cell RNASeq data. This has been tried before by various groups, e.g. check out the honeyBADGER paper <span class="citation" data-cites="1elWGdf0">[<a href="#ref-1elWGdf0" role="doc-biblioref">23</a>]</span>, but ultimately none of the approaches were successful. I have a few ideas on how to make progress — give me a shout if you’d like to discuss!</p>
 <!-- Nicholas Larson -->
 <!-- Janet Layne -->
 <!-- Trang Le -->
@@ -260,18 +359,20 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>Hello from the <a href="http://epistasis.org/">Moore lab</a> at the University of Pennsylvania! I’m <a href="http://lelaboratoire.github.io">a mathematician</a> who’s currently excited about automated machine learning.</p>
 <p>Here goes the self-citations:</p>
 <ul>
-<li>My own favorite study: Generalization of the Fermi Pseudopotential <span class="citation" data-cites="10GH4uYUR">[<a href="#ref-10GH4uYUR">24</a>]</span> - a piece of mathematical physics work I got to do when procrastinating writing my dissertation.</li>
-<li>My first (first-author) scholarly publication: Differential privacy-based evaporative cooling feature selection and classification with relief-F and random forests <span class="citation" data-cites="hUoMaAJ6">[<a href="#ref-hUoMaAJ6">25</a>]</span>. Check out the Github repo for this study <a href="https://github.com/insilico/privateEC">here</a>.</li>
+<li><p>My own favorite study: Generalization of the Fermi Pseudopotential <span class="citation" data-cites="10GH4uYUR">[<a href="#ref-10GH4uYUR" role="doc-biblioref">24</a>]</span> - a piece of mathematical physics work I got to do when procrastinating writing my dissertation.</p></li>
+<li><p>My first (first-author) scholarly publication: Differential privacy-based evaporative cooling feature selection and classification with relief-F and random forests <span class="citation" data-cites="hUoMaAJ6">[<a href="#ref-hUoMaAJ6" role="doc-biblioref">25</a>]</span>. Check out the Github repo for this study <a href="https://github.com/insilico/privateEC">here</a>.</p></li>
 <li><p>Code snippet I’m most proud of:</p>
 <pre><code>M = dec2bin(0:2^(n*n)-1,n*n)</code></pre>
-I will be impressed if you could tell what the language is. This is my answer to a question on <a href="https://math.stackexchange.com/questions/1943862/matlab-code-for-an-array-consisting-of-matrices/1943923#1943923">Math StackExchange</a>.</li>
-<li>I have too many favorite mathematical equations, but here’s one: <span class="math display">\[a^p \equiv a \mod p\]</span> Anyone recognize this theorem?</li>
+<p>I will be impressed if you could tell what the language is. This is my answer to a question on <a href="https://math.stackexchange.com/questions/1943862/matlab-code-for-an-array-consisting-of-matrices/1943923#1943923">Math StackExchange</a>.</p></li>
+<li><p>I have too many favorite mathematical equations, but here’s one: <span class="math display">\[a^p \equiv a \mod p\]</span> Anyone recognize this theorem?</p></li>
 <li><p>And a figure with a caption:</p>
+<div id="fig:ibuBrainAGE" class="fignos">
 <figure>
-<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/909204/images/5547949/fig2.png" alt="Figure 2: Participants tended to have older brain-predicted age when given placebo." id="fig:ibuBrainAGE" style="width:80.0%" /><figcaption><span>Figure 2:</span> Participants tended to have older brain-predicted age when given placebo.</figcaption>
-</figure></li>
+<img src="https://s3.amazonaws.com/media-p.slid.es/uploads/909204/images/5547949/fig2.png" style="width:80.0%" alt="" /><figcaption><span>Figure 2:</span> Participants tended to have older brain-predicted age when given placebo.</figcaption>
+</figure>
+</div></li>
 </ul>
-<p>This is an improved version of my main figure in this interesting study <span class="citation" data-cites="ih7MBGjv">[<a href="#ref-ih7MBGjv">26</a>]</span>.</p>
+<p>This is an improved version of my main figure in this interesting study <span class="citation" data-cites="ih7MBGjv">[<a href="#ref-ih7MBGjv" role="doc-biblioref">26</a>]</span>.</p>
 <!-- Jinhee Lee -->
 <!-- Nicholas Lee -->
 <!-- DoHyeon Lee -->
@@ -280,7 +381,7 @@ I will be impressed if you could tell what the language is. This is my answer to
 <p>Greeting from the <a href="http://ritchielab.org/">Ritchie Lab</a> at the University of Pennsylvania. I am a third year graduate student in the Genomics and Computational Biology programe and interested in prioritization of drug response-related gene via data integration approaches.</p>
 <p>I am still on the early part of my research journey. But I would love to share my latest work published in the PSB 2019 proceedings.</p>
 <ul>
-<li><p>Influence of tissue context on gene prioritization for predicted transcriptome-wide association studies <span class="citation" data-cites="9B8DWkq3">[<a href="#ref-9B8DWkq3">27</a>]</span>.</p></li>
+<li><p>Influence of tissue context on gene prioritization for predicted transcriptome-wide association studies <span class="citation" data-cites="9B8DWkq3">[<a href="#ref-9B8DWkq3" role="doc-biblioref">27</a>]</span>.</p></li>
 <li><p>Code snippet I’m most proud of:</p>
 <pre><code>############################################
 ## Menu
@@ -301,9 +402,11 @@ I will be impressed if you could tell what the language is. This is my answer to
 ## actual code
 set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <li><p>Here is a plot about minor allele frequency of the eQTLs in the GTEx v7 whole blood tissue. Please pretend that you do see a title in the figure.</p>
+<div id="fig:binglan" class="fignos">
 <figure>
-<img src="https://user-images.githubusercontent.com/1117703/50731107-cd16b380-1100-11e9-930c-3a23cb4a0ec9.png" alt="Figure 3: Minor allele frequency of eQTLs in the GTEx v7 whole blood tissue." id="fig:binglan" style="width:50.0%" /><figcaption><span>Figure 3:</span> Minor allele frequency of eQTLs in the GTEx v7 whole blood tissue.</figcaption>
-</figure></li>
+<img src="https://user-images.githubusercontent.com/1117703/50731107-cd16b380-1100-11e9-930c-3a23cb4a0ec9.png" style="width:50.0%" alt="" /><figcaption><span>Figure 3:</span> Minor allele frequency of eQTLs in the GTEx v7 whole blood tissue.</figcaption>
+</figure>
+</div></li>
 </ul>
 <!-- Haiquan Li -->
 <!-- Hua Li -->
@@ -325,7 +428,7 @@ set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <h3 id="jason-e.-miller">Jason E. Miller</h3>
 <p>Hi, I’m a postdoctoral fellow from the <a href="https://ritchielab.org">Ritchie lab</a> at the University of Pennsylvania.</p>
 <p>I’m currently focused on identifying how genetic variation leads to Alzheimer’s disease through perturbation of gene regulatory mechanisms.</p>
-<p>My favorite study from my career identified specific types of codon bias among synonymous variants, such as those related to codon optimality and frequency, that are associated with an Alzheimer’s disease imaging endophenotype <span class="citation" data-cites="czfw16Ig">[<a href="#ref-czfw16Ig">28</a>]</span>.</p>
+<p>My favorite study from my career identified specific types of codon bias among synonymous variants, such as those related to codon optimality and frequency, that are associated with an Alzheimer’s disease imaging endophenotype <span class="citation" data-cites="czfw16Ig">[<a href="#ref-czfw16Ig" role="doc-biblioref">28</a>]</span>.</p>
 <p>If you are interested, you can check out my GitHub page <a href="https://github.com/git-jemiller">here</a>.</p>
 <!-- Stephen Montgomery -->
 <!-- Abigail Moore -->
@@ -344,7 +447,7 @@ set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <h3 id="luca-pinello">Luca Pinello</h3>
 <p>Aloah from the <a href="http://pinellolab.org/">Pinello Lab!</a></p>
 <p>I am a computational biologist studying the role of chromatin structure/dynamics and non-coding regions including enhancers, promoters, insulators and their role in gene regulation. The mission of my lab is the integration of omics data to explore and better understand the functional mechanisms of the non-coding genome and to provide accessible tools for the community to accelerate discovery in this field. The long-term goal of my research is to develop innovative computational approaches and to use cutting-edge experimental assays, such as single cell and genome editing, to systematically analyze sources of genetic and epigenetic variation that affect gene regulation in different human traits and diseases. I believe this will further our understanding of disease etiology involving these poorly characterized regions and will provide a foundation for the development of new drugs and more targeted treatments.</p>
-<p>I am excited to share during the workshop <a href="http://lussierlab.net/pacific-symposium-2019/index.html">Reading between the genes: Interpreting noncoding DNA in high throughput</a> a new computational methods we have recently developed to analyze CRISPR tiling screen called CRISPR-SURF. You can read more on the manuscript that was recently published in <em>Nature Methods</em> <span class="citation" data-cites="WXZIineW">[<a href="#ref-WXZIineW">29</a>]</span>.</p>
+<p>I am excited to share during the workshop <a href="http://lussierlab.net/pacific-symposium-2019/index.html">Reading between the genes: Interpreting noncoding DNA in high throughput</a> a new computational methods we have recently developed to analyze CRISPR tiling screen called CRISPR-SURF. You can read more on the manuscript that was recently published in <em>Nature Methods</em> <span class="citation" data-cites="WXZIineW">[<a href="#ref-WXZIineW" role="doc-biblioref">29</a>]</span>.</p>
 <!-- Niranjani Prasad -->
 <!-- Blake Pyman -->
 <!-- Tielin Qin -->
@@ -353,7 +456,7 @@ set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <!-- Rashika Ramola -->
 <h3 id="rashika-ramola">Rashika Ramola</h3>
 <p>Hi I am Rashika Ramola. I am a PhD student at Northeastern University. This is my first PSB. I like computational biology, and I am excited to be here.</p>
-<p>My first paper studies some performance measures (accuracy, balanced accuracy, f-measure and Matthews Correlation Coefficient) in positive-unlabeled learning <span class="citation" data-cites="10OhwB9If">[<a href="#ref-10OhwB9If">30</a>]</span>. In this work, we demonstrate how performance measure can be inaccurate in positive unlabeled setting, and then we introduce correction measures.</p>
+<p>My first paper studies some performance measures (accuracy, balanced accuracy, f-measure and Matthews Correlation Coefficient) in positive-unlabeled learning <span class="citation" data-cites="10OhwB9If">[<a href="#ref-10OhwB9If" role="doc-biblioref">30</a>]</span>. In this work, we demonstrate how performance measure can be inaccurate in positive unlabeled setting, and then we introduce correction measures.</p>
 <p>I am including an important formula from the aforementioned manuscript:</p>
 <p><span class="math display">\[
 \textrm{mcc} = \frac{1}{\beta-\alpha}\sqrt{\frac{\pi(1-\pi)}{c(1-c)}}\cdot\textrm{mcc}^\textrm{pu}
@@ -388,7 +491,7 @@ set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <!-- Cui Tao -->
 <!-- Jaclyn Taroni -->
 <h3 id="jaclyn-taroni">Jaclyn Taroni</h3>
-<p>I’m a data scientist at the <a href="https://www.ccdatalab.org">Childhood Cancer Data Lab</a> (CCDL), an initiative of <a href="https://www.alexslemonade.org">Alex’s Lemonade Stand Foundation</a>. I’m interested in how diverse collections of publicly available transcriptomic data can help us learn about the biology of rare diseases. As a graduate student, I studied systemic sclerosis <span class="citation" data-cites="1Av3x1pnk">[<a href="#ref-1Av3x1pnk">31</a>]</span>. In the <a href="https://healthlanguageprocessing.org/psb-2019-tm-ml-pm-workshop/">PSB 2019 Text Mining and Machine Learning for Precision Medicine Workshop</a>, I’ll present our MultiPLIER project <span class="citation" data-cites="1GtRgPRxn">[<a href="#ref-1GtRgPRxn">10</a>]</span>. With the CCDL, I’ve been working on <a href="https://www.refine.bio">refine.bio</a>, a project for uniformly processing transcriptomic data from multiple species.</p>
+<p>I’m a data scientist at the <a href="https://www.ccdatalab.org">Childhood Cancer Data Lab</a> (CCDL), an initiative of <a href="https://www.alexslemonade.org">Alex’s Lemonade Stand Foundation</a>. I’m interested in how diverse collections of publicly available transcriptomic data can help us learn about the biology of rare diseases. As a graduate student, I studied systemic sclerosis <span class="citation" data-cites="1Av3x1pnk">[<a href="#ref-1Av3x1pnk" role="doc-biblioref">31</a>]</span>. In the <a href="https://healthlanguageprocessing.org/psb-2019-tm-ml-pm-workshop/">PSB 2019 Text Mining and Machine Learning for Precision Medicine Workshop</a>, I’ll present our MultiPLIER project <span class="citation" data-cites="1GtRgPRxn">[<a href="#ref-1GtRgPRxn" role="doc-biblioref">10</a>]</span>. With the CCDL, I’ve been working on <a href="https://www.refine.bio">refine.bio</a>, a project for uniformly processing transcriptomic data from multiple species.</p>
 <!-- Gunjan Thakur -->
 <!-- Robert Thurman -->
 <!-- Nathan Tintle -->
@@ -397,10 +500,10 @@ set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <p>This is Shannon from UNC at Chapel Hill. I’m a bioinformatics scientist at <a href="https://lbc.unc.edu/">UNC lineberger cancer center</a>. My recent research project could be found at PSB poster section #69. It’s about using methylation data to predict tumor infiltrating lymphocytes, which is highly correlated with patient survival in Melanoma.</p>
 <p>Here are some of my publications:</p>
 <ol type="1">
-<li>Meta-analysis of airway epithelium gene expression in asthma <span class="citation" data-cites="r7HvVKdn">[<a href="#ref-r7HvVKdn">32</a>]</span>.</li>
-<li>Identification of a robust methylation classifier for cutaneous melanoma diagnosis <span class="citation" data-cites="yKr4neGw">[<a href="#ref-yKr4neGw">33</a>]</span>.</li>
-<li>Transcriptome-wide identification and study of cancer-specific splicing events across multiple tumors <span class="citation" data-cites="9sfG2U7T">[<a href="#ref-9sfG2U7T">34</a>]</span>.</li>
-<li>Prevalent RNA recognition motif duplication in the human genome <span class="citation" data-cites="jk5tACP8">[<a href="#ref-jk5tACP8">35</a>]</span>.</li>
+<li>Meta-analysis of airway epithelium gene expression in asthma <span class="citation" data-cites="r7HvVKdn">[<a href="#ref-r7HvVKdn" role="doc-biblioref">32</a>]</span>.</li>
+<li>Identification of a robust methylation classifier for cutaneous melanoma diagnosis <span class="citation" data-cites="yKr4neGw">[<a href="#ref-yKr4neGw" role="doc-biblioref">33</a>]</span>.</li>
+<li>Transcriptome-wide identification and study of cancer-specific splicing events across multiple tumors <span class="citation" data-cites="9sfG2U7T">[<a href="#ref-9sfG2U7T" role="doc-biblioref">34</a>]</span>.</li>
+<li>Prevalent RNA recognition motif duplication in the human genome <span class="citation" data-cites="jk5tACP8">[<a href="#ref-jk5tACP8" role="doc-biblioref">35</a>]</span>.</li>
 </ol>
 <!-- Brian Yik Tak Tsui -->
 <!-- Anders Ulrik Eliasen -->
@@ -408,11 +511,13 @@ set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <!-- Robin van der Lee -->
 <h3 id="robin-van-der-lee">Robin van der Lee</h3>
 <p>Hi! I’m a post-doc with Wyeth Wasserman at UBC, Vancouver, Canada. Info about the lab can be found at <a href="http://www.cisreg.ca" class="uri">http://www.cisreg.ca</a> and <a href="https://github.com/wassermanlab" class="uri">https://github.com/wassermanlab</a>.</p>
-<p>My PhD work was on integrative omics to discover genes involved in immunity <span class="citation" data-cites="6zDUsoSA">[<a href="#ref-6zDUsoSA">36</a>]</span>. I also did some work on comparative genomics of primate genomes, finding that rapidly evolving genes are predictive of virus-human interactions <span class="citation" data-cites="Myj0Ouv5">[<a href="#ref-Myj0Ouv5">37</a>]</span>.</p>
+<p>My PhD work was on integrative omics to discover genes involved in immunity <span class="citation" data-cites="6zDUsoSA">[<a href="#ref-6zDUsoSA" role="doc-biblioref">36</a>]</span>. I also did some work on comparative genomics of primate genomes, finding that rapidly evolving genes are predictive of virus-human interactions <span class="citation" data-cites="Myj0Ouv5">[<a href="#ref-Myj0Ouv5" role="doc-biblioref">37</a>]</span>.</p>
 <p>In my post-doc work, I am developing methods for interpreting regulatory genomic variants based on alterations to transcription factor binding motifs. Some of that work is on <strong>poster 71</strong>, which I will present on Saturday 5 January 2018 at the PSB meeting.</p>
+<div id="fig:vanderlee" class="fignos">
 <figure>
-<img src="images/Robin-van-der-Lee_Poster_Pacific_Symposium_on_Biocomputing_PSB_2019__MANTA-RAE_poster_header.jpg" alt="Figure 4: This is the header of the poster I’ll present here under its CC BY 4.0 License." id="fig:vanderlee" style="width:100.0%" /><figcaption><span>Figure 4:</span> This is the header of the poster I’ll present here under its CC BY 4.0 License.</figcaption>
+<img src="images/Robin-van-der-Lee_Poster_Pacific_Symposium_on_Biocomputing_PSB_2019__MANTA-RAE_poster_header.jpg" style="width:100.0%" alt="" /><figcaption><span>Figure 4:</span> This is the header of the poster I’ll present here under its CC BY 4.0 License.</figcaption>
 </figure>
+</div>
 <!-- Maya Varma -->
 <!-- Anurag Verma -->
 <!-- Shefali Verma -->
@@ -428,7 +533,7 @@ set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <!-- Ryan Whaley -->
 <h3 id="ryan-whaley">Ryan Whaley</h3>
 <p>Hi, I’m Ryan and I’m one of the technical leads for <a href="https://www.pharmgkb.org">PharmGKB</a>. I’m also helping to run the A/V desk during this presentation.</p>
-<p>I’m trained in software development and started by career as a DBA. Over the past decade I’ve switched to Java and then web application development. I’ve contributed to PharmGKB <span class="citation" data-cites="3NKcTIrb">[<a href="#ref-3NKcTIrb">38</a>]</span>, CPIC <span class="citation" data-cites="1EYG4hAqR">[<a href="#ref-1EYG4hAqR">39</a>]</span>, and other PGx consortia.</p>
+<p>I’m trained in software development and started by career as a DBA. Over the past decade I’ve switched to Java and then web application development. I’ve contributed to PharmGKB <span class="citation" data-cites="3NKcTIrb">[<a href="#ref-3NKcTIrb" role="doc-biblioref">38</a>]</span>, CPIC <span class="citation" data-cites="1EYG4hAqR">[<a href="#ref-1EYG4hAqR" role="doc-biblioref">39</a>]</span>, and other PGx consortia.</p>
 <!-- Nicholas Wheeler -->
 <!-- Michelle Whirl-Carrillo -->
 <!-- Scott Williams -->
@@ -443,12 +548,14 @@ set.seed(random_seed, kind = &quot;L&#39;Ecuyer-CMRG&quot;)</code></pre></li>
 <!-- the end -->
 <h2 id="afterword">Afterword</h2>
 <p>Thanks to everyone who contributed and helped prototype Manubot for massively collaborative, open writing. We’d like to especially acknowledge <a href="https://github.com/agitter">Anthony Gitter</a>, who was not at the conference, but remotely reviewed proposed changes. We’d also like to acknowledge the Sloan Foundation, whose <a href="https://sloan.org/grant-detail/8501">support</a> made this working group possible.</p>
+<div id="fig:turtles" class="fignos">
 <figure>
-<img src="images/turtles.jpg" alt="Figure 5: Sunset from the Western shore of the Big Island, Hawaii" id="fig:turtles" /><figcaption><span>Figure 5:</span> Sunset from the Western shore of the Big Island, Hawaii</figcaption>
+<img src="images/turtles.jpg" alt="" /><figcaption><span>Figure 5:</span> Sunset from the Western shore of the Big Island, Hawaii</figcaption>
 </figure>
+</div>
 <h2 id="references" class="page_break_before">References</h2>
 <!-- Explicitly insert bibliography here -->
-<div id="refs">
+<div id="refs" role="doc-bibliography">
 <div id="ref-1GGGHdsew">
 <p>1. <strong>Open collaborative writing with Manubot</strong><br />
 Daniel S. Himmelstein, David R. Slochower, Venkat S. Malladi, Casey S. Greene, Anthony Gitter<br />
@@ -458,7 +565,7 @@ Daniel S. Himmelstein, David R. Slochower, Venkat S. Malladi, Casey S. Greene, A
 <p>2. <strong>Human Urinary mRNA as a Biomarker of Cardiovascular Disease.</strong><br />
 Brian G Bazzell, William E Rainey, Richard J Auchus, Davide Zocco, Marco Bruttini, Scott L Hummel, James Brian Byrd<br />
 <em>Circulation. Genomic and precision medicine</em> (2018-09) <a href="https://www.ncbi.nlm.nih.gov/pubmed/30354328">https://www.ncbi.nlm.nih.gov/pubmed/30354328</a><br />
-DOI: <a href="https://doi.org/10.1161/circgen.118.002213">10.1161/circgen.118.002213</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30354328">30354328</a></p>
+DOI: <a href="https://doi.org/10.1161/circgen.118.002213">10.1161/circgen.118.002213</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30354328">30354328</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6760265">PMC6760265</a></p>
 </div>
 <div id="ref-MARd00zz">
 <p>3. <strong>A System for Accessible Artificial Intelligence</strong><br />
@@ -504,13 +611,13 @@ DOI: <a href="https://doi.org/10.1016/j.cell.2018.03.035">10.1016/j.cell.2018.03
 </div>
 <div id="ref-1GtRgPRxn">
 <p>10. <strong>MultiPLIER: a transfer learning framework for transcriptomics reveals systemic features of rare disease</strong><br />
-Jaclyn N Taroni, Peter C Grayson, Qiwen Hu, Sean Eddy, Matthias Kretzler, Peter A Merkel, Casey S Greene<br />
+Jaclyn N. Taroni, Peter C. Grayson, Qiwen Hu, Sean Eddy, Matthias Kretzler, Peter A. Merkel, Casey S. Greene<br />
 <em>Cold Spring Harbor Laboratory</em> (2018-08-20) <a href="https://doi.org/gfc9bb">https://doi.org/gfc9bb</a><br />
 DOI: <a href="https://doi.org/10.1101/395947">10.1101/395947</a></p>
 </div>
 <div id="ref-5CsWRjfp">
 <p>11. <strong>Parameter tuning is a key part of dimensionality reduction via deep variational autoencoders for single cell RNA transcriptomics</strong><br />
-Qiwen Hu, Casey S Greene<br />
+Qiwen Hu, Casey S. Greene<br />
 <em>Cold Spring Harbor Laboratory</em> (2018-08-05) <a href="https://doi.org/gdxxjf">https://doi.org/gdxxjf</a><br />
 DOI: <a href="https://doi.org/10.1101/385534">10.1101/385534</a></p>
 </div>
@@ -523,7 +630,7 @@ DOI: <a href="https://doi.org/10.7554/elife.32822">10.7554/elife.32822</a> · PM
 <div id="ref-PZMP42Ak">
 <p>13. <strong>Opportunities and obstacles for deep learning in biology and medicine</strong><br />
 Travers Ching, Daniel S. Himmelstein, Brett K. Beaulieu-Jones, Alexandr A. Kalinin, Brian T. Do, Gregory P. Way, Enrico Ferrero, Paul-Michael Agapow, Michael Zietz, Michael M. Hoffman, … Casey S. Greene<br />
-<em>Journal of The Royal Society Interface</em> (2018-04) <a href="https://doi.org/gddkhn">https://doi.org/gddkhn</a><br />
+<em>Journal of The Royal Society Interface</em> (2018-04-04) <a href="https://doi.org/gddkhn">https://doi.org/gddkhn</a><br />
 DOI: <a href="https://doi.org/10.1098/rsif.2017.0387">10.1098/rsif.2017.0387</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29618526">29618526</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5938574">PMC5938574</a></p>
 </div>
 <div id="ref-XJuQlZl1">
@@ -563,7 +670,7 @@ DOI: <a href="https://doi.org/10.1371/journal.pcbi.1005602">10.1371/journal.pcbi
 </div>
 <div id="ref-M0crDyWe">
 <p>20. <strong>Specific histone modifications associate with alternative exon selection during mammalian development</strong><br />
-Qiwen Hu, Casey Greene, Elizabeth Heller<br />
+Q Hu, CS Greene, EA Heller<br />
 <em>Cold Spring Harbor Laboratory</em> (2018-07-04) <a href="https://doi.org/gfsptv">https://doi.org/gfsptv</a><br />
 DOI: <a href="https://doi.org/10.1101/361816">10.1101/361816</a></p>
 </div>
@@ -571,7 +678,7 @@ DOI: <a href="https://doi.org/10.1101/361816">10.1101/361816</a></p>
 <p>21. <strong>EDGAR: Extraction of Drugs, Genes And Relations from the Biomedical Literature</strong><br />
 Thomas C. Rindflesch, Lorraine Tanabe, John N. Weinstein, Lawrence Hunter<br />
 <em>Biocomputing 2000</em> (1999-12) <a href="https://doi.org/gfsptq">https://doi.org/gfsptq</a><br />
-DOI: <a href="https://doi.org/10.1142/9789814447331_0049">10.1142/9789814447331_0049</a></p>
+DOI: <a href="https://doi.org/10.1142/9789814447331_0049">10.1142/9789814447331_0049</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/10902199">10902199</a></p>
 </div>
 <div id="ref-BYxifaL7">
 <p>22. <strong>Nonparametric semi-supervised learning of class proportions</strong><br />
@@ -587,7 +694,8 @@ DOI: <a href="https://doi.org/10.1101/gr.228080.117">10.1101/gr.228080.117</a> �
 <div id="ref-10GH4uYUR">
 <p>24. <strong>Generalization of the Fermi Pseudopotential</strong><br />
 Trang T. Le, Zach Osman, D. K. Watson, Martin Dunn, B. A. McKinney<br />
-<em>arXiv</em> (2018-06-14) <a href="https://arxiv.org/abs/1806.05726v1">https://arxiv.org/abs/1806.05726v1</a></p>
+<em>arXiv</em> (2018-06-14) <a href="https://arxiv.org/abs/1806.05726v1">https://arxiv.org/abs/1806.05726v1</a><br />
+DOI: <a href="https://doi.org/10.1088/1402-4896/ab0811">10.1088/1402-4896/ab0811</a></p>
 </div>
 <div id="ref-hUoMaAJ6">
 <p>25. <strong>Differential privacy-based evaporative cooling feature selection and classification with relief-F and random forests</strong><br />
@@ -599,7 +707,7 @@ DOI: <a href="https://doi.org/10.1093/bioinformatics/btx298">10.1093/bioinformat
 <p>26. <strong>Effect of Ibuprofen on BrainAGE: A Randomized, Placebo-Controlled, Dose-Response Exploratory Study</strong><br />
 Trang T. Le, Rayus Kuplicki, Hung-Wen Yeh, Robin L. Aupperle, Sahib S. Khalsa, W. Kyle Simmons, Martin P. Paulus<br />
 <em>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</em> (2018-10) <a href="https://doi.org/gfsprv">https://doi.org/gfsprv</a><br />
-DOI: <a href="https://doi.org/10.1016/j.bpsc.2018.05.002">10.1016/j.bpsc.2018.05.002</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29941380">29941380</a></p>
+DOI: <a href="https://doi.org/10.1016/j.bpsc.2018.05.002">10.1016/j.bpsc.2018.05.002</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29941380">29941380</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6510235">PMC6510235</a></p>
 </div>
 <div id="ref-9B8DWkq3">
 <p>27. <strong>Influence of tissue context on gene prioritization for predicted transcriptome-wide association studies</strong><br />
@@ -617,7 +725,7 @@ PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29218897">29218897</a> · PMC
 <p>29. <strong>CRISPR-SURF: discovering regulatory elements by deconvolution of CRISPR tiling screen data.</strong><br />
 Jonathan Y Hsu, Charles P Fulco, Mitchel A Cole, Matthew C Canver, Danilo Pellin, Falak Sher, Rick Farouni, Kendell Clement, Jimmy A Guo, Luca Biasco, … Luca Pinello<br />
 <em>Nature methods</em> (2018-12) <a href="https://www.ncbi.nlm.nih.gov/pubmed/30504875">https://www.ncbi.nlm.nih.gov/pubmed/30504875</a><br />
-DOI: <a href="https://doi.org/10.1038/s41592-018-0225-6">10.1038/s41592-018-0225-6</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30504875">30504875</a></p>
+DOI: <a href="https://doi.org/10.1038/s41592-018-0225-6">10.1038/s41592-018-0225-6</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30504875">30504875</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6620603">PMC6620603</a></p>
 </div>
 <div id="ref-10OhwB9If">
 <p>30. <strong>Estimating classification accuracy in positive-unlabeled learning: characterization and correction strategies</strong><br />
@@ -640,8 +748,8 @@ DOI: <a href="https://doi.org/10.1183/13993003.01962-2017">10.1183/13993003.0196
 <div id="ref-yKr4neGw">
 <p>33. <strong>Identification of a Robust Methylation Classifier for Cutaneous Melanoma Diagnosis</strong><br />
 Kathleen Conway, Sharon N. Edmiston, Joel S. Parker, Pei Fen Kuan, Yi-Hsuan Tsai, Pamela A. Groben, Daniel C. Zedek, Glynis A. Scott, Eloise A. Parrish, Honglin Hao, … Nancy E. Thomas<br />
-<em>Journal of Investigative Dermatology</em> (2018-12) <a href="https://doi.org/gfsvbj">https://doi.org/gfsvbj</a><br />
-DOI: <a href="https://doi.org/10.1016/j.jid.2018.11.024">10.1016/j.jid.2018.11.024</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30529013">30529013</a></p>
+<em>Journal of Investigative Dermatology</em> (2019-06) <a href="https://doi.org/gfsvbj">https://doi.org/gfsvbj</a><br />
+DOI: <a href="https://doi.org/10.1016/j.jid.2018.11.024">10.1016/j.jid.2018.11.024</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30529013">30529013</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6535139">PMC6535139</a></p>
 </div>
 <div id="ref-9sfG2U7T">
 <p>34. <strong>Transcriptome-wide identification and study of cancer-specific splicing events across multiple tumors.</strong><br />
@@ -708,17 +816,15 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
         body {
             position: relative;
             box-sizing: border-box;
-            max-width: 8.5in;
             font-size: 12pt;
             line-height: 1.5;
+            max-width: 8.5in;
             margin: 20px auto;
             padding: 40px;
             border-radius: 5px;
             border: solid 1px #bdbdbd;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
             background: #ffffff;
-            word-break: all;
-            word-break: break-word;
         }
     }
 
@@ -753,8 +859,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
 
     /* biggest heading */
     h1 {
-        margin-top: 40px;
-        margin-bottom: 30px;
+        margin: 40px 0;
         text-align: center;
     }
 
@@ -777,7 +882,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
     /* manuscript title caption text (ie "automatically generated on") */
     header + p {
         text-align: center;
-        margin-top: 0;
+        margin-top: 10px;
     }
 
     /* -------------------------------------------------- */
@@ -787,7 +892,13 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
     /* links */
     a {
         color: #2196f3;
-        word-break: break-all;
+        overflow-wrap: break-word;
+    }
+
+    /* normal links (not empty, not button link, not syntax highlighting link) */
+    a:not(:empty):not(.button):not(.sourceLine) {
+        padding-left: 1px;
+        padding-right: 1px;
     }
 
     /* superscripts and subscripts */
@@ -907,16 +1018,13 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
         border: solid 1px #bdbdbd;
         padding: 10px;
         /* squash table if too wide for page by forcing line breaks */
-        /* put line break break anywhere in text */
-        word-break: break-all;
-        /* put line break between words. if not supported by browser, will fall back to break-all */
-        word-break: break-word;
+        overflow-wrap: break-word;
     }
 
     /* header row and even rows */
     th,
     tr:nth-child(2n) {
-        background-color: #f5f5f5;
+        background-color: #fafafa;
     }
 
     /* odd rows */
@@ -1167,7 +1275,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
     @media print {
         @page {
             /* suggested printing margin */
-            margin: 0.75in;
+            margin: 0.5in;
         }
 
         /* document and "page" elements */
@@ -1176,6 +1284,64 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             padding: 0;
             width: 100%;
             height: 100%;
+        }
+
+        /* "page" element */
+        body {
+            font-size: 11pt !important;
+            line-height: 1.35;
+        }
+
+        /* all headings */
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            margin: 15px 0;
+        }
+
+        /* heading 1 */
+        h1 {
+            font-size: 1.75em;
+        }
+
+        /* heading 2 */
+        h2 {
+            font-size: 1.25em;
+            margin-top: 0;
+        }
+
+        /* heading 3 */
+        h3 {
+            font-size: 1.10em;
+        }
+
+        /* figures and tables */
+        figure, table {
+            font-size: 0.85em;
+        }
+
+        /* table cells */
+        th,
+        td {
+            padding: 5px;
+        }
+
+        /* shrink font awesome icons */
+        i.fas,
+        i.fab,
+        i.far,
+        i.fal {
+            transform: scale(0.85);
+        }
+
+        /* decrease banner margins */
+        .banner {
+            margin-top: 15px;
+            margin-bottom: 15px;
+            padding: 15px;
         }
 
         /* class for centering an element vertically on its own page */
@@ -1188,11 +1354,6 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             vertical-align: middle;
             break-before: page;
             break-after: page;
-        }
-
-        /* <h2> heading */
-        h2 {
-            margin-top: 0;
         }
 
         /* always insert a page break before the element */
@@ -1405,8 +1566,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             border: solid 1px #bdbdbd;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
             background: #ffffff;
-            word-break: all;
-            word-break: break-word;
+            overflow-wrap: break-word;
         }
 
         /* tooltip copy of paragraphs and figures */
@@ -1511,19 +1671,13 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
     /* -------------------------------------------------- */
 
     @media only screen {
-        /* toc panel when open */
+        /* toc panel */
         #toc_panel {
             box-sizing: border-box;
             position: fixed;
             top: 0;
             left: 0;
-            min-width: 260px;
-            max-width: 480px;
-            /* keep panel edge consistent distance away from "page" edge */
-            width: calc(((100vw - 8.5in) / 2) - 30px - 40px);
-            bottom: 0;
             background: #ffffff;
-            border-right: solid 1px #bdbdbd;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
             z-index: 2;
         }
@@ -1533,39 +1687,48 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             min-width: 60px;
             width: 60px;
             height: 60px;
+            border-right: solid 1px #bdbdbd;
             border-bottom: solid 1px #bdbdbd;
+        }
+
+        /* toc panel when open */
+        #toc_panel[data-open="true"] {
+            min-width: 260px;
+            max-width: 480px;
+            /* keep panel edge consistent distance away from "page" edge */
+            width: calc(((100vw - 8.5in) / 2) - 30px - 40px);
+            bottom: 0;
+            border-right: solid 1px #bdbdbd;
         }
 
         /* toc panel header */
-        #toc_panel > h3 {
+        #toc_header {
             box-sizing: border-box;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
             height: 60px;
             margin: 0;
             padding: 20px;
-            border-bottom: solid 1px #bdbdbd;
         }
 
-        /* toc panel when hovered */
-        #toc_panel > h3:hover {
+        /* toc panel header when hovered */
+        #toc_header:hover {
             cursor: pointer;
+        }
+
+        /* toc panel header when panel open */
+        #toc_panel[data-open="true"] > #toc_header {
+            border-bottom: solid 1px #bdbdbd;
         }
 
         /* toc open/close header button */
         #toc_button {
             margin-right: 20px;
-            vertical-align: top;
-        }
-
-        /* toc header text */
-        #toc_header_text {
-            vertical-align: top;
-            font-weight: 600;
-            position: relative;
-            top: -4px;
         }
 
         /* hide toc list and header text when closed */
-        #toc_panel[data-open="false"] #toc_header_text,
+        #toc_panel[data-open="false"] > #toc_header > *:not(#toc_button),
         #toc_panel[data-open="false"] > #toc_list {
             display: none;
         }
@@ -2138,6 +2301,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             // trigger any function listening for "onscroll" event
             window.dispatchEvent(new Event('scroll'));
             window.scrollTo(0, y);
+            document.activeElement.blur();
             element.focus();
         }
 
@@ -2343,9 +2507,6 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             // whether user must click off to close tooltip instead of just
             // un-hovering
             clickClose: 'false',
-            // whether to keep tooltip horizontal position when moving between
-            // prev/next occurrences
-            keepHorizontal: 'true',
             // delay (in ms) between opening and closing tooltip
             delay: '100',
             // whether plugin is on or not
@@ -2426,8 +2587,10 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             // regular link click (and navigation) on second tap
             if (event.target === document.activeElement)
                 event.target.click();
-            else
+            else {
+                document.activeElement.blur();
                 event.target.focus();
+            }
             if (event.cancelable)
                 event.preventDefault();
             event.stopPropagation();
@@ -2444,22 +2607,27 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             if (!event || !event.key)
                 return;
 
-            // trigger click of prev/next button
             switch (event.key) {
-            case 'ArrowLeft':
-                const prevButton = document.getElementById(
-                    'tooltip_prev_button'
-                );
-                if (prevButton)
-                    prevButton.click();
-                break;
-            case 'ArrowRight':
-                const nextButton = document.getElementById(
-                    'tooltip_next_button'
-                );
-                if (nextButton)
-                    nextButton.click();
-                break;
+                // trigger click of prev button
+                case 'ArrowLeft':
+                    const prevButton = document.getElementById(
+                        'tooltip_prev_button'
+                    );
+                    if (prevButton)
+                        prevButton.click();
+                    break;
+                // trigger click of next button
+                case 'ArrowRight':
+                    const nextButton = document.getElementById(
+                        'tooltip_next_button'
+                    );
+                    if (nextButton)
+                        nextButton.click();
+                    break;
+                // close on esc
+                case 'Escape':
+                    closeTooltip();
+                    break;
             }
         }
 
@@ -2501,12 +2669,8 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
 
         // open tooltip
         function openTooltip(link) {
-            // if setting is on and already-open tooltip can be found, store
-            // original x position of tooltip
-            let prevX;
-            const prevTooltip = document.getElementById('tooltip');
-            if (options.keepHorizontal === 'true' && prevTooltip)
-                prevX = getRectInPage(prevTooltip).left;
+            // delete tooltip if it exists, start fresh
+            closeTooltip();
 
             // make tooltip element
             const tooltip = makeTooltip(link);
@@ -2525,7 +2689,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
 
             // position tooltip
             const position = function() {
-                positionTooltip(link, prevX);
+                positionTooltip(link);
             };
             position();
 
@@ -2544,9 +2708,6 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
 
         // make tooltip
         function makeTooltip(link) {
-            // delete tooltip if it exists, start fresh
-            closeTooltip();
-
             // get target element that link points to
             const source = getSource(link);
 
@@ -2741,7 +2902,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
         // when prev/next arrow button is clicked
         function onPrevNextClick(link, prevNextLink) {
             if (link && prevNextLink)
-                goToElement(prevNextLink, getRectInView(link).top);
+                goToElement(prevNextLink, window.innerHeight * 0.5);
         }
 
         // scroll to and focus element
@@ -2755,6 +2916,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             // trigger any function listening for "onscroll" event
             window.dispatchEvent(new Event('scroll'));
             window.scrollTo(0, y);
+            document.activeElement.blur();
             element.focus();
         }
 
@@ -3109,6 +3271,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             // trigger any function listening for "onscroll" event
             window.dispatchEvent(new Event('scroll'));
             window.scrollTo(0, y);
+            document.activeElement.blur();
             element.focus();
         }
 
@@ -3257,7 +3420,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             const links = getLinks();
             for (const link of links) {
                 // attach mouse and focus listeners to link
-                link.addEventListener('mouseover', onLinkFocus);
+                link.addEventListener('mouseenter', onLinkFocus);
                 link.addEventListener('focus', onLinkFocus);
                 link.addEventListener('mouseleave', onLinkUnhover);
             }
@@ -3427,15 +3590,15 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             // which types of elements to add links for, in
             // "document.querySelector" format
             typesQuery: 'h1, h2, h3',
+            // whether default behavior is to be closed ('false'), open
+            // ('true'), or only open when screen wide enough to fit panel
+            // ('auto'). note: still always starts closed when page loads.
+            open: 'auto',
             // if list item is more than this many characters, text will be
             // truncated
             charLimit: '50',
             // whether or not to show bullets next to each toc item
             bullets: 'false',
-            // whether to always start closed ('false'), always start opened
-            // ('true'), or start open when screen wide enough to fit panel
-            // ('auto')
-            startOpen: 'false',
             // whether plugin is on or not
             enabled: 'true'
         };
@@ -3457,42 +3620,62 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             makeEntries(panel);
             document.body.insertBefore(panel, document.body.firstChild);
 
-            // start panel open/closed based on option
-            if (
-                options.startOpen === 'true' ||
-                (options.startOpen === 'auto' && isSmallScreen())
-            )
-                openPanel();
-            else
-                closePanel();
+            closePanel();
 
             // attach click, scroll, and hash change listeners to window
             window.addEventListener('click', onClick);
             window.addEventListener('touchstart', onClick);
             window.addEventListener('scroll', onScroll);
             window.addEventListener('hashchange', onScroll);
+            window.addEventListener('keyup', onKeyUp);
             onScroll();
 
             // add class to push document body down out of way of toc button
             document.body.classList.add('toc_body_nudge');
         }
 
-        // determine if on mobile-like device with small screen
+        // determine if screen wide enough to fit toc panel
         function isSmallScreen() {
-            const page = window.getComputedStyle(document.body);
-            const width =
-                parseInt(page.width) || parseInt(page.maxWidth) || 816;
-            return width + 320 < window.innerWidth;
+            // in default theme:
+            // 816px = 8.5in = width of "page" (<body>) element
+            // 260px = min width of toc panel (*2 for both sides of <body>)
+            return window.innerWidth < 816 + 260 * 2;
+        }
+
+        // open/close panel based on option and screen size
+        function openOrClosePanel() {
+            if (
+                options.open === 'true' ||
+                (options.open === 'auto' && !isSmallScreen())
+            )
+                openPanel();
+            else
+                closePanel();
         }
 
         // when mouse is clicked anywhere in window
         function onClick() {
-            closePanel();
+            const panel = document.getElementById('toc_panel');
+            if (!panel)
+                return;
+
+            if (panel.dataset.open === 'true')
+                openOrClosePanel();
         }
 
         // when window is scrolled or hash changed
         function onScroll() {
             highlightViewed();
+        }
+
+        // when key pressed
+        function onKeyUp(event) {
+            if (!event || !event.key)
+                return;
+
+            // close on esc
+            if (event.key === 'Escape')
+                closePanel();
         }
 
         // find entry of currently viewed document section in toc and highlight
@@ -3522,6 +3705,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
                     elementsWithIds.push(element);
             }
 
+
             // get first or previous element in top half of view
             for (let i = 0; i < elementsWithIds.length; i++) {
                 const element = elementsWithIds[i];
@@ -3547,7 +3731,8 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
                 panel.dataset.bullets = 'true';
 
             // create header
-            const header = document.createElement('h3');
+            const header = document.createElement('div');
+            header.id = 'toc_header';
 
             // create toc button
             const button = document.createElement('button');
@@ -3558,9 +3743,8 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             button.classList.add('icon_button');
 
             // create header text
-            const text = document.createElement('span');
+            const text = document.createElement('h3');
             text.innerHTML = 'Table of Contents';
-            text.id = 'toc_header_text';
 
             // create container for toc list
             const list = document.createElement('div');
@@ -3592,18 +3776,18 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
                 const link = document.createElement('a');
                 link.classList.add('toc_link');
                 switch (element.tagName.toLowerCase()) {
-                case 'h1':
-                    link.dataset.level = '1';
-                    break;
-                case 'h2':
-                    link.dataset.level = '2';
-                    break;
-                case 'h3':
-                    link.dataset.level = '3';
-                    break;
-                case 'h4':
-                    link.dataset.level = '4';
-                    break;
+                    case 'h1':
+                        link.dataset.level = '1';
+                        break;
+                    case 'h2':
+                        link.dataset.level = '2';
+                        break;
+                    case 'h3':
+                        link.dataset.level = '3';
+                        break;
+                    case 'h4':
+                        link.dataset.level = '4';
+                        break;
                 }
                 link.title = element.innerText;
                 let text = element.innerText;
@@ -3638,8 +3822,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
 
         // when link is clicked
         function onLinkClick() {
-            if (isSmallScreen())
-                closePanel();
+            openOrClosePanel();
         }
 
         // open panel if closed, close if opened
@@ -3727,6 +3910,9 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             // whether to fit image to view ('fit'), display at 100% and shrink
             // if necessary ('shrink'), or always display at 100% ('100')
             defaultZoom: 'fit',
+            // whether to zoom in/out toward center of view ('true') or mouse
+            // ('false')
+            centerZoom: 'false',
             // whether plugin is on or not
             enabled: 'true'
         };
@@ -3767,22 +3953,27 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             if (!event || !event.key)
                 return;
 
-            // trigger click of prev/next button
             switch (event.key) {
-            case 'ArrowLeft':
-                const prevButton = document.getElementById(
-                    'lightbox_prev_button'
-                );
-                if (prevButton)
-                    prevButton.click();
-                break;
-            case 'ArrowRight':
-                const nextButton = document.getElementById(
-                    'lightbox_next_button'
-                );
-                if (nextButton)
-                    nextButton.click();
-                break;
+                // trigger click of prev button
+                case 'ArrowLeft':
+                    const prevButton = document.getElementById(
+                        'lightbox_prev_button'
+                    );
+                    if (prevButton)
+                        prevButton.click();
+                    break;
+                // trigger click of next button
+                case 'ArrowRight':
+                    const nextButton = document.getElementById(
+                        'lightbox_next_button'
+                    );
+                    if (nextButton)
+                        nextButton.click();
+                    break;
+                // close on esc
+                case 'Escape':
+                    closeLightbox();
+                    break;
             }
         }
 
@@ -4009,8 +4200,11 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
                 event.stopPropagation();
 
                 // point around which to scale img
-                const originX = window.mouseX;
-                const originY = window.mouseY;
+                const viewRect = container.getBoundingClientRect();
+                const viewX = (viewRect.left + viewRect.right) / 2;
+                const viewY = (viewRect.top + viewRect.bottom) / 2;
+                const originX = options.centerZoom === 'true' ? viewX : mouseX;
+                const originY = options.centerZoom === 'true' ? viewY : mouseY;
 
                 // get point on image under origin
                 const oldRect = img.getBoundingClientRect();
@@ -4039,7 +4233,7 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             };
 
             // when container is clicked
-            function onContainerClick() {
+            function onContainerClick(event) {
                 // if container itself is target of click, and not other
                 // element above it
                 if (event.target === this)
@@ -4085,6 +4279,10 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
                 translateY = clickTranslateY + window.mouseY - clickMouseY;
                 updateTransform();
                 event.preventDefault();
+
+                // remove global listener if lightbox removed from document
+                if (!document.body.contains(container))
+                    window.removeEventListener('mousemove', onWindowMouseMove);
             };
 
             // when window is resized
@@ -4100,7 +4298,8 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
             img.addEventListener('dblclick', fit);
             img.addEventListener('mousedown', onImageMouseDown);
             container.addEventListener('wheel', onContainerWheel);
-            container.addEventListener('click', onContainerClick);
+            container.addEventListener('mousedown', onContainerClick);
+            container.addEventListener('touchstart', onContainerClick);
             window.addEventListener('mouseup', onWindowMouseUp);
             window.addEventListener('mousemove', onWindowMouseMove);
             window.addEventListener('resize', onWindowResize);
@@ -4303,13 +4502,144 @@ DOI: <a href="https://doi.org/10.1038/clpt.2010.279">10.1038/clpt.2010.279</a> �
         ></path>
     </svg>
 </template>
+<!-- attributes plugin -->
+
+<script>
+    (function() {
+        // /////////////////////////
+        // DESCRIPTION
+        // /////////////////////////
+
+        // This Manubot plugin allows arbitrary HTML attributes to be attached
+        // to (almost) any element. Place an HTML comment inside or next to the
+        // desired element in the format <!-- $attribute="value" -->
+
+        // /////////////////////////
+        // OPTIONS
+        // /////////////////////////
+
+        // plugin name prefix for url parameters
+        const pluginName = 'attributes';
+
+        // default plugin options
+        const options = {
+            // whether plugin is on or not
+            enabled: 'true'
+        };
+
+        // change options above, or override with url parameter, eg:
+        // 'manuscript.html?pluginName-enabled=false'
+
+        // /////////////////////////
+        // SCRIPT
+        // /////////////////////////
+
+        // start script
+        function start() {
+            // get list of comments in document
+            const comments = findComments();
+
+            for(const comment of comments)
+                if (comment.parentElement)
+                    addAttributes(
+                        comment.parentElement,
+                        comment.nodeValue.trim()
+                    );
+        }
+
+        // add html attributes to specified element based on string of 
+        // html attributes and values
+        function addAttributes(element, text) {
+            // regex's for finding attribute/value pairs in the format of
+            // attribute="value" or attribute='value
+            const regex2 = /\$([a-zA-Z\-]+)?=\"(.+?)\"/;
+            const regex1 = /\$([a-zA-Z\-]+)?=\'(.+?)\'/;
+
+            // loop through attribute/value pairs
+            let match;
+            while(match = text.match(regex2) || text.match(regex1)) {
+                // get attribute and value from regex capture groups
+                let attribute = match[1];
+                let value = match[2];
+
+                // remove from string
+                text = text.substring(match.index + match[0].length);
+
+                if (!attribute || !value)
+                    break;
+
+                // set attribute of parent element
+                try {
+                    element.setAttribute(attribute, value);
+                } catch(error) {
+                    console.log(error);
+                }
+
+                // special case for colspan
+                if (attribute === 'colspan')
+                    removeTableCells(element, value);
+            }
+        }
+
+        // get list of comment elements in document
+        function findComments() {
+            const comments = [];
+
+            // iterate over comment nodes in document
+            function acceptNode(node) {
+                return NodeFilter.FILTER_ACCEPT;
+            }
+            const iterator = document.createNodeIterator(
+                document.body,
+                NodeFilter.SHOW_COMMENT,
+                acceptNode
+            );
+            let node;
+            while(node = iterator.nextNode())
+                comments.push(node);
+
+            return comments;
+        }
+
+        // remove certain number of cells after specified cell
+        function removeTableCells(cell, number) {
+            number = parseInt(number);
+            if (!number)
+                return;
+
+            // remove elements
+            for(; number > 1; number--) {
+                if (cell.nextElementSibling)
+                    cell.nextElementSibling.remove();
+            }
+        }
+
+        // load options from url parameters
+        function loadOptions() {
+            const url = window.location.search;
+            const params = new URLSearchParams(url);
+            for (const optionName of Object.keys(options)) {
+                const paramName = pluginName + '-' + optionName;
+                const param = params.get(paramName);
+                if (param !== '' && param !== null)
+                    options[optionName] = param;
+            }
+        }
+        loadOptions();
+
+        // start script when document is finished loading
+        if (options.enabled === 'true')
+            window.addEventListener('load', start);
+    })();
+</script>
 <!-- math plugin configuration -->
 
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
         "CommonHTML": { linebreaks: { automatic: true } },
         "HTML-CSS": { linebreaks: { automatic: true } },
-        "SVG": { linebreaks: { automatic: true } }
+        "SVG": { linebreaks: { automatic: true } },
+        "fast-preview": { disabled: true }
     });
 </script>
 
